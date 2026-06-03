@@ -1,6 +1,6 @@
 {
   "outdir": "./output",
-  "clientID": "9509f68c-4b46-42c0-a77a-5cf810a7a592",
+  "clientID": "54f94b86-0b0f-4027-bb23-32e47b7baba3",
   "mapping": {
     "us": "45.50.96.71",
     "uk": "51.89.255.67",
@@ -9,9 +9,16 @@
     "fr": "51.210.0.1",
     "es": "82.98.134.10",
     "it": "79.137.44.85"
+    "mx": "187.174.0.1",
+    "ar": "181.5.200.1",
+    "br": "179.93.224.1",
+    "cl": "186.78.49.1",
+    "no": "62.50.173.1",
+    "se": "80.217.1.1",
+    "dk": "62.44.180.1"
   },
-  "all": false,
-  "group": "genre",
+  "all": true,
+  "group": "country",
   "regionalize": false,
   "excludeGroups": false,
   "excludeChannels": false,
