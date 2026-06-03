@@ -1081,6 +1081,11 @@
         <desc>Un científico de renombre roba un banco y toma rehenes, lo que desata un tenso enfrentamiento con la policía. A medida que avanzan las negociaciones, salen a la luz verdades impactantes sobre su pasado que revelan sus verdaderas motivaciones.</desc>
         <icon src="https://images.pluto.tv/series/69d902602c3507bb0a87ff23/tile_1775829601145.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5ddc4e8bcbb9010009b4e84f" start="20260603161700 +0000" stop="20260603182400 +0000">
+        <title>Daylight</title>
+        <desc>Una abogada descubre un secreto familiar: un hermano que nunca supo que existía fue condenado injustamente por asesinato y estuvo encarcelado durante 20 años. Mientras intenta limpiar su nombre salen a la luz más secretos familiares oscuros.</desc>
+        <icon src="https://images.pluto.tv/series/6797a521e5cc840014edeb66/tile_1769123161657.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5defde6d6c07b50009cf0757" start="20260603105900 +0000" stop="20260603125300 +0000">
         <title>El Gavilán Justiciero</title>
         <desc>Historia llena de acción donde la codicia y la ambición desatan la mas cruenta lucha que trae como consecuencia el sufrimiento de una familia la envidia de otra.</desc>
@@ -1125,6 +1130,11 @@
         <title>Swelter</title>
         <desc>Diez años después de su atraco en el casino, cuatro convictos escaparon de su antiguo compañero a una ciudad desierta, donde ahora es un hombre de la ley sin memoria de su pasado criminal.</desc>
         <icon src="https://images.pluto.tv/series/5ea300760c8fd6001ad86097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e972a21ad709d00074195ba" start="20260603160300 +0000" stop="20260603175400 +0000">
+        <title>Peligro en la montaña</title>
+        <desc>Joe Braven es un humilde leñador que vive en la frontera de los Estados Unidos. Cuando es asaltado por un grupo de traficantes de drogas en la recluida cabaña donde vive, hará todo lo que puede para proteger a su familia.</desc>
+        <icon src="https://images.pluto.tv/series/5f7b8799e4b56900138b7fb4/tile_1769630402485.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ec5761aabe4690007f6e047" start="20260603112023 +0000" stop="20260603121523 +0000">
         <title>Star Trek: Deep Space Nine</title>
@@ -7314,6 +7324,11 @@ Defensa de la Torre</desc>
         <desc>Ambientada en el viejo Perú, Lima. Julia y Gabriel son una pareja aparentemente feliz, Gabriel pasa por una situacion economica bastante mal, el ha perdido una apuesta de juego.</desc>
         <icon src="https://images.pluto.tv/series/66e898189f04dd0013c22199/tile_1769473802863.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dfcde52d28b09000a42d7a2" start="20260603200700 +0000" stop="20260603222300 +0000">
+        <title>Los Amores De Marieta (Los Fabulosos 20S)</title>
+        <desc>Rosa, es una señora que ha quedado viuda y al cuidado de una gran hacienda y de su hija Azucena, a quien quiere casar con Antonio, pero como a este solo le interesan otro tipo de mujeres. Entonces Rosa le pide ayuda a su compadre Juan.</desc>
+        <icon src="https://images.pluto.tv/series/669919038dfe2a0013ba5a4a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5e972a21ad709d00074195ba" start="20260603140500 +0000" stop="20260603160300 +0000">
         <title>Swelter</title>
         <desc>Diez años después de su atraco en el casino, cuatro convictos escaparon de su antiguo compañero a una ciudad desierta, donde ahora es un hombre de la ley sin memoria de su pasado criminal.</desc>
@@ -8924,10 +8939,10 @@ Defensa de la Torre</desc>
         <desc>Chile, Colombia y México ponen un alto al tráfico de drogas. Una agente encubierta lleva una maleta con cocaína de Buenos Aires a África.</desc>
         <icon src="https://images.pluto.tv/series/656f3118620744001498e598/tile_1769466241762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5df265697ec3510009df1ef0" start="20260603193300 +0000" stop="20260603200000 +0000">
-        <title>Pluto TV Vida Real</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5df265697ec3510009df1ef0" start="20260603193300 +0000" stop="20260603200400 +0000">
+        <title>¡ALTO! Frontera</title>
+        <desc>Libros infantiles que esconden cocaína y un brasileño que es sorprendido con dos réplicas de armas para jugar airsoft que resultan ser ilegales.</desc>
+        <icon src="https://images.pluto.tv/series/656f3118620744001498e598/tile_1769466241762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e3ddbd27091820009f86dd9" start="20260603151400 +0000" stop="20260603163800 +0000">
         <title>MasterChef Argentina Celebrity</title>
@@ -8974,10 +8989,50 @@ Defensa de la Torre</desc>
         <desc>Minuto Para Ganar es un programa de juegos en español donde los concursantes compiten en desafíos de un minuto con niveles crecientes de dificultad para tener la oportunidad de ganar hasta $ 100,000.</desc>
         <icon src="https://images.pluto.tv/series/5e4ad1056a7897f2460637c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20260603160000 +0000" stop="20260603200000 +0000">
+    <programme channel="5e98a911c881310007d7aae2" start="20260603154800 +0000" stop="20260603161800 +0000">
         <title>MTV Ridiculousness</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20260603161800 +0000" stop="20260603164800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20260603164800 +0000" stop="20260603171800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20260603171800 +0000" stop="20260603174800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20260603174800 +0000" stop="20260603181800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20260603181800 +0000" stop="20260603184800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20260603184800 +0000" stop="20260603191800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20260603191800 +0000" stop="20260603194800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20260603194800 +0000" stop="20260603201800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ed6828192e8b3000743ef61" start="20260603153800 +0000" stop="20260603162800 +0000">
         <title>Wipeout USA</title>
@@ -9319,10 +9374,50 @@ Defensa de la Torre</desc>
         <desc>¿Te atreves a subirte a un barco con los chicos de Acapulco Shore? En este episodio: ¡reventón en el mar!</desc>
         <icon src="https://images.pluto.tv/series/66eadcfd85f1df0013e27f39/tile_1779176881070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603160000 +0000" stop="20260603200000 +0000">
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603154100 +0000" stop="20260603161100 +0000">
         <title>MTV Teen Mom</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603161100 +0000" stop="20260603164100 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603164100 +0000" stop="20260603171100 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603171100 +0000" stop="20260603174100 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603174100 +0000" stop="20260603181100 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603181100 +0000" stop="20260603184100 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603184100 +0000" stop="20260603191100 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603191100 +0000" stop="20260603194100 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260603194100 +0000" stop="20260603201100 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62154548a2be360007cb02f0" start="20260603151700 +0000" stop="20260603160800 +0000">
         <title>Pilotos del Ártico</title>
@@ -9354,15 +9449,60 @@ Defensa de la Torre</desc>
         <desc>Problemas de motor en el C-46 durante la carrera en valle obligan a Devan a apagar un motor.</desc>
         <icon src="https://images.pluto.tv/series/620692c7a1a8490014076257/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20260603160000 +0000" stop="20260603200000 +0000">
+    <programme channel="625461ef01f27a0007976ad1" start="20260603153500 +0000" stop="20260603160500 +0000">
         <title>MTV Catfish</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="638693db857364000781b471" start="20260603160000 +0000" stop="20260603173200 +0000">
-        <title>MTV Con Mi Ex</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/638693db857364000781b471/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="625461ef01f27a0007976ad1" start="20260603160500 +0000" stop="20260603163500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20260603163500 +0000" stop="20260603170500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20260603170500 +0000" stop="20260603173500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20260603173500 +0000" stop="20260603180500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20260603180500 +0000" stop="20260603183500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20260603183500 +0000" stop="20260603190500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20260603190500 +0000" stop="20260603193500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20260603193500 +0000" stop="20260603200500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="638693db857364000781b471" start="20260603153300 +0000" stop="20260603163300 +0000">
+        <title>La venganza de los ex VIP</title>
+        <desc>Karen y Suavecito se van a una cita y se desatan los celos incontrolables de Kim y se despide de Ian. La peluca María José trae revelaciones importantes y llega un nuevo EX a saldar cuentas.</desc>
+        <icon src="https://images.pluto.tv/series/67c1d7e0114d3fc6bab5788e/tile_1769476712598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="638693db857364000781b471" start="20260603163300 +0000" stop="20260603173200 +0000">
+        <title>La venganza de los ex VIP</title>
+        <desc>Frida y Brandon se reencuentran y Diana toma cartas en el asunto. Kim y Suavecito se besan apasionadamente pero Ian tiene un As bajo la manga. La llegada de un nuevo Ex y alguien es expulsado.</desc>
+        <icon src="https://images.pluto.tv/series/67c1d7e0114d3fc6bab5788e/tile_1769476712598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="638693db857364000781b471" start="20260603173200 +0000" stop="20260603183300 +0000">
         <title>La venganza de los ex VIP</title>
@@ -9375,14 +9515,9 @@ Defensa de la Torre</desc>
         <icon src="https://images.pluto.tv/series/67c1d7e0114d3fc6bab5788e/tile_1769476712598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="638693db857364000781b471" start="20260603193200 +0000" stop="20260603202900 +0000">
-        <title>MTV Con Mi Ex</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/638693db857364000781b471/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="638693db857364000781b471" start="20260603202900 +0000" stop="20260603212700 +0000">
-        <title>Mazatlan Shore</title>
-        <desc>Una nueva familia shore nace y aunque sea la primera vez que se conocen, ya están listos para al fiesta, el romance y los conflictos que genera la convivencia durante unas vacaciones shore.</desc>
-        <icon src="https://images.pluto.tv/series/69e2977824d9b7beb56eb4f9/tile_1776457593038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>La venganza de los ex VIP</title>
+        <desc>Las vacaciones llegaron a su fin y las relaciones comienzan un nuevo ciclo en un barco a Cartagena. David y Camilo aclaran los malentendidos. Hacen un último brindis todos juntos.</desc>
+        <icon src="https://images.pluto.tv/series/67c1d7e0114d3fc6bab5788e/tile_1769476712598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64025592953da40008bf9238" start="20260603154300 +0000" stop="20260603160700 +0000">
         <title>Locos Por los Autos</title>
@@ -9589,10 +9724,50 @@ Defensa de la Torre</desc>
         <desc>En este episodio de Mi Coche Clasico, Dennis viaja al Fiesta de Detalle del Auto en Stuart, Florida.</desc>
         <icon src="https://images.pluto.tv/series/652010108026ff001a0ac063/tile_1769464442839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a92375cd0d31000847b219" start="20260603160000 +0000" stop="20260603200000 +0000">
+    <programme channel="66a92375cd0d31000847b219" start="20260603160000 +0000" stop="20260603163000 +0000">
         <title>Monstruos de Rio</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/66a92375cd0d31000847b219/featuredImage_1751039635488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20260603163000 +0000" stop="20260603170000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20260603170000 +0000" stop="20260603173000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20260603173000 +0000" stop="20260603180000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20260603180000 +0000" stop="20260603183000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20260603183000 +0000" stop="20260603190000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20260603190000 +0000" stop="20260603193000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20260603193000 +0000" stop="20260603200000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20260603200000 +0000" stop="20260603203000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="678533155e0e6a000828cd48" start="20260603151000 +0000" stop="20260603160100 +0000">
         <title>Untold Stories of the ER</title>
@@ -9624,15 +9799,95 @@ Defensa de la Torre</desc>
         <desc>Un niño es llevado a la sala de emergencias luego de sufrir un horrible accidente. Su cabeza está cortada y los médicos corren para salvar su vida.</desc>
         <icon src="https://images.pluto.tv/series/5f1b50a0fe225e0013a8f618/tile_1768771441100.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20260603160000 +0000" stop="20260603200000 +0000">
+    <programme channel="681ba2729624e6275efe0044" start="20260603160000 +0000" stop="20260603163000 +0000">
         <title>NatureTime</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/681ba2729624e6275efe0044/featuredImage_1746817065816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20260603160000 +0000" stop="20260603200000 +0000">
+    <programme channel="681ba2729624e6275efe0044" start="20260603163000 +0000" stop="20260603170000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20260603170000 +0000" stop="20260603173000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20260603173000 +0000" stop="20260603180000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20260603180000 +0000" stop="20260603183000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20260603183000 +0000" stop="20260603190000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20260603190000 +0000" stop="20260603193000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20260603193000 +0000" stop="20260603200000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20260603200000 +0000" stop="20260603203000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260603155700 +0000" stop="20260603162700 +0000">
         <title>MTV Dating</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6851b909954170e0128bc71d/featuredImage_1750686877498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260603162700 +0000" stop="20260603165700 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260603165700 +0000" stop="20260603172700 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260603172700 +0000" stop="20260603175700 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260603175700 +0000" stop="20260603182700 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260603182700 +0000" stop="20260603185700 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260603185700 +0000" stop="20260603192700 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260603192700 +0000" stop="20260603195700 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260603195700 +0000" stop="20260603202700 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68b784d03e17b7676a0378f7" start="20260603160000 +0000" stop="20260603170500 +0000">
         <title>Our World Is on Fire</title>
@@ -11254,10 +11509,50 @@ Defensa de la Torre</desc>
         <desc>Kyle está muy enfermo y su madre trata de curarlo con medicinas naturales de una curandera y sus colaboradores "nativos americanos”. Mientras, el señor Garrison es despedido y se convierte en un escritor de novelas románticas.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260603160000 +0000" stop="20260603200000 +0000">
-        <title>Bromas Gags - Just for Laughs</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260603154500 +0000" stop="20260603161500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260603161500 +0000" stop="20260603164500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260603164500 +0000" stop="20260603171500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260603171500 +0000" stop="20260603174500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260603174500 +0000" stop="20260603181500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260603181500 +0000" stop="20260603184500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260603184500 +0000" stop="20260603191500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260603191500 +0000" stop="20260603194500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260603194500 +0000" stop="20260603201500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67813f893886aa863497733d" start="20260603151000 +0000" stop="20260603162500 +0000">
         <title>Anytime</title>
@@ -11299,10 +11594,30 @@ Defensa de la Torre</desc>
         <desc>De vuelta de una lesión que cambió su carrera, Myriam Nicole, un equipo antaño dominante y su carismático patrocinador francés intentan recuperar el je ne sais quoi que los hizo grandes.</desc>
         <icon src="https://images.pluto.tv/series/68b401cccfeec4dc2ceee900/tile_1756707773092.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67a3b45a21af380008133aa4" start="20260603160000 +0000" stop="20260603200000 +0000">
-        <title>Realmadrid TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/67a3b45a21af380008133aa4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="67a3b45a21af380008133aa4" start="20260603160000 +0000" stop="20260603170000 +0000">
+        <title>Real Madrid TV</title>
+        <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
+        <icon src="https://images.pluto.tv/series/67acb4a4c070cf00085b52d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a3b45a21af380008133aa4" start="20260603170000 +0000" stop="20260603180000 +0000">
+        <title>Real Madrid TV</title>
+        <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
+        <icon src="https://images.pluto.tv/series/67acb4a4c070cf00085b52d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a3b45a21af380008133aa4" start="20260603180000 +0000" stop="20260603190000 +0000">
+        <title>Real Madrid TV</title>
+        <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
+        <icon src="https://images.pluto.tv/series/67acb4a4c070cf00085b52d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a3b45a21af380008133aa4" start="20260603190000 +0000" stop="20260603200000 +0000">
+        <title>Real Madrid TV</title>
+        <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
+        <icon src="https://images.pluto.tv/series/67acb4a4c070cf00085b52d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a3b45a21af380008133aa4" start="20260603200000 +0000" stop="20260603210000 +0000">
+        <title>Real Madrid TV</title>
+        <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
+        <icon src="https://images.pluto.tv/series/67acb4a4c070cf00085b52d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67a52c8397782f00081879aa" start="20260603155115 +0000" stop="20260603165617 +0000">
         <title>LaLiga</title>
@@ -11349,35 +11664,110 @@ Defensa de la Torre</desc>
         <desc>Una distraída ejecutiva de marketing es contratada para cambiar la imagen de un desconocido campamento de entrenamiento. Ahí descubre que las estrictas costumbres de su propietario podrían ser la medida perfecta para el amor.</desc>
         <icon src="https://images.pluto.tv/series/6978002851ef20e55543a4c1/tile_1769472041088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6894fc3f66f164e402f4fd14" start="20260603160000 +0000" stop="20260603200000 +0000">
-        <title>Dulce by elGourmet</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/featuredImage_1756447018187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="6894febddbd49c964f3b66c8" start="20260603160000 +0000" stop="20260604000000 +0000">
-        <title>Plato del Dia by elGourmet</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/featuredImage_1756396393402.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="6894febddbd49c964f3b66c8" start="20260604000000 +0000" stop="20260604020000 +0000">
-        <title>Plato del Dia by elGourmet</title>
+    <programme channel="6894fc3f66f164e402f4fd14" start="20260603140000 +0000" stop="20260603180000 +0000">
+        <title>Dulce by El Gourmet</title>
         <desc>tbd</desc>
-        <icon src="https://images.pluto.tv/series/68ad32cecfeec4dc2cd23428/tile_1756405290808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/68ac7cafe5ae05a89060ffaa/tile_1764328373003.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b88712e777774982269ce9" start="20260603160000 +0000" stop="20260603200000 +0000">
+    <programme channel="6894fc3f66f164e402f4fd14" start="20260603180000 +0000" stop="20260603220000 +0000">
+        <title>Dulce by El Gourmet</title>
+        <desc>tbd</desc>
+        <icon src="https://images.pluto.tv/series/68ac7cafe5ae05a89060ffaa/tile_1764328373003.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6894fc3f66f164e402f4fd14" start="20260603220000 +0000" stop="20260604020000 +0000">
+        <title>Dulce by El Gourmet</title>
+        <desc>tbd</desc>
+        <icon src="https://images.pluto.tv/series/68ac7cafe5ae05a89060ffaa/tile_1764328373003.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6894febddbd49c964f3b66c8" start="20260603140000 +0000" stop="20260603180000 +0000">
+        <title>Plato Del Día by El Gourmet</title>
+        <desc>tbd</desc>
+        <icon src="https://images.pluto.tv/series/68ac7c92e5ae05a89060d32a/tile_1756134599452.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6894febddbd49c964f3b66c8" start="20260603180000 +0000" stop="20260603220000 +0000">
+        <title>Plato Del Día by El Gourmet</title>
+        <desc>tbd</desc>
+        <icon src="https://images.pluto.tv/series/68ac7c92e5ae05a89060d32a/tile_1756134599452.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6894febddbd49c964f3b66c8" start="20260603220000 +0000" stop="20260604020000 +0000">
+        <title>Plato Del Día by El Gourmet</title>
+        <desc>tbd</desc>
+        <icon src="https://images.pluto.tv/series/68ac7c92e5ae05a89060d32a/tile_1756134599452.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b88712e777774982269ce9" start="20260603160000 +0000" stop="20260603170000 +0000">
         <title>Tastemade Viajes</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68b88712e777774982269ce9/featuredImage_1759784098205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
+        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b887c2e77777498226a0de" start="20260603160000 +0000" stop="20260603200000 +0000">
+    <programme channel="68b88712e777774982269ce9" start="20260603170000 +0000" stop="20260603180000 +0000">
+        <title>Tastemade Viajes</title>
+        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
+        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b88712e777774982269ce9" start="20260603180000 +0000" stop="20260603190000 +0000">
+        <title>Tastemade Viajes</title>
+        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
+        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b88712e777774982269ce9" start="20260603190000 +0000" stop="20260603200000 +0000">
+        <title>Tastemade Viajes</title>
+        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
+        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b88712e777774982269ce9" start="20260603200000 +0000" stop="20260603210000 +0000">
+        <title>Tastemade Viajes</title>
+        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
+        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b887c2e77777498226a0de" start="20260603160000 +0000" stop="20260603170000 +0000">
         <title>Tastemade Hogar</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68b887c2e77777498226a0de/featuredImage_1759784259408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>TBC</desc>
+        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20260603160000 +0000" stop="20260603200000 +0000">
+    <programme channel="68b887c2e77777498226a0de" start="20260603170000 +0000" stop="20260603180000 +0000">
+        <title>Tastemade Hogar</title>
+        <desc>TBC</desc>
+        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b887c2e77777498226a0de" start="20260603180000 +0000" stop="20260603190000 +0000">
+        <title>Tastemade Hogar</title>
+        <desc>TBC</desc>
+        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b887c2e77777498226a0de" start="20260603190000 +0000" stop="20260603200000 +0000">
+        <title>Tastemade Hogar</title>
+        <desc>TBC</desc>
+        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b887c2e77777498226a0de" start="20260603200000 +0000" stop="20260603210000 +0000">
+        <title>Tastemade Hogar</title>
+        <desc>TBC</desc>
+        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260603152818 +0000" stop="20260603162818 +0000">
         <title>Al Ritmo del Jaripeo</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/featuredImage_1760471497960.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
+        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260603162818 +0000" stop="20260603172818 +0000">
+        <title>Al Ritmo del Jaripeo</title>
+        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
+        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260603172818 +0000" stop="20260603182818 +0000">
+        <title>Al Ritmo del Jaripeo</title>
+        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
+        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260603182818 +0000" stop="20260603192818 +0000">
+        <title>Al Ritmo del Jaripeo</title>
+        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
+        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260603192818 +0000" stop="20260603202818 +0000">
+        <title>Al Ritmo del Jaripeo</title>
+        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
+        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="699763d184235f26d5056002" start="20260603155953 +0000" stop="20260603162953 +0000">
         <title>Enchufe.TV</title>
@@ -18000,13 +18390,18 @@ Defensa de la Torre</desc>
         <icon src="https://images.pluto.tv/series/60b111c3e36d58001a68a8bd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ff3934600d4c7000733ff49" start="20260603232800 +0000" stop="20260603235600 +0000">
-        <title>Expansion Pack</title>
-        <desc>En este episodio de Expansion Pack, te diremos todo lo que debes saber acerca de la Gamescom, el evento de videojuegos más grande de Europa. Veremos a detalle la trayectoria de Lara Croft; y viajaremos al pasado para recordar al legendario Dino Crisis.</desc>
-        <icon src="https://images.pluto.tv/series/69c695d7351d15c11136c723/tile_1774622168768.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Pluto TV E-Sports</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5ff3934600d4c7000733ff49" start="20260603235600 +0000" stop="20260604002400 +0000">
         <title>Expansion Pack</title>
         <desc>Es hora de iniciar un nuevo nivel de Expansion Pack, conoceremos cómo surge la ESRB, también veremos la evolución de la legendaria saga “Príncipe de Persia”, y echaremos un vistazo a esos juegos que fueron tan buenos que cambiaron a su género.</desc>
+        <icon src="https://images.pluto.tv/series/69c695d7351d15c11136c723/tile_1774622168768.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff3934600d4c7000733ff49" start="20260604002400 +0000" stop="20260604005200 +0000">
+        <title>Expansion Pack</title>
+        <desc>Los Game Awards, en Expansion Pack te volverás experto en uno de los eventos más importantes para el gaming, recordaremos al maravilloso “Pilot Wings 64”, y reconoceremos a los maestros de la música en los videojuegos.</desc>
         <icon src="https://images.pluto.tv/series/69c695d7351d15c11136c723/tile_1774622168768.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ff4b9ccf938f8000779eb99" start="20260603195100 +0000" stop="20260603202000 +0000">
@@ -25049,30 +25444,10 @@ Defensa de la Torre</desc>
         <desc>Max encuentra a un Ralts herido y trata de llevarlo al Centro Pokémon, ¡pero sus amigos Gardevoir y Kirlia creen que nuestros héroes tratan de robárselo!</desc>
         <icon src="https://images.pluto.tv/series/69b000b87596d5087d21058a/tile_1773142201142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f85ca40eda1b10007b967cd" start="20260604000000 +0000" stop="20260604010000 +0000">
-        <title>Conciertos por Strigray</title>
-        <desc>Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray.</desc>
-        <icon src="https://images.pluto.tv/series/5f9ac193a7b3a1000735ffd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f85ca40eda1b10007b967cd" start="20260604010000 +0000" stop="20260604020000 +0000">
-        <title>Conciertos por Strigray</title>
-        <desc>Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray.</desc>
-        <icon src="https://images.pluto.tv/series/5f9ac193a7b3a1000735ffd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f85ca40eda1b10007b967cd" start="20260604020000 +0000" stop="20260604030000 +0000">
-        <title>Conciertos por Strigray</title>
-        <desc>Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray.</desc>
-        <icon src="https://images.pluto.tv/series/5f9ac193a7b3a1000735ffd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f85ca40eda1b10007b967cd" start="20260604030000 +0000" stop="20260604040000 +0000">
-        <title>Conciertos por Strigray</title>
-        <desc>Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray.</desc>
-        <icon src="https://images.pluto.tv/series/5f9ac193a7b3a1000735ffd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f85ca40eda1b10007b967cd" start="20260604040000 +0000" stop="20260604050000 +0000">
-        <title>Conciertos por Strigray</title>
-        <desc>Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray.</desc>
-        <icon src="https://images.pluto.tv/series/5f9ac193a7b3a1000735ffd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5f85ca40eda1b10007b967cd" start="20260604000000 +0000" stop="20260604040000 +0000">
+        <title>Conciertos por Stingray</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5f85cf621d6d2200079f1de0" start="20260604000000 +0000" stop="20260604010000 +0000">
         <title>Karaoke Por Stingray</title>
@@ -25099,45 +25474,15 @@ Defensa de la Torre</desc>
         <desc>Karaoke Por Stingray</desc>
         <icon src="https://images.pluto.tv/series/5f9ac02d6cc2dc0007278cd3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62b218fc511d4b00070ddc0c" start="20260604000000 +0000" stop="20260604020000 +0000">
+    <programme channel="62b218fc511d4b00070ddc0c" start="20260604000000 +0000" stop="20260604040000 +0000">
         <title>MTV Flow Latino</title>
-        <desc>Sumérgete en los ritmos que te aceleran el corazón y las melodías vibrantes de las estrellas más grandes de la música latina.</desc>
-        <icon src="https://images.pluto.tv/series/6504879f0f28f00008692cc5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="62b218fc511d4b00070ddc0c" start="20260604020000 +0000" stop="20260604040000 +0000">
-        <title>MTV Flow Latino</title>
-        <desc>Sumérgete en los ritmos que te aceleran el corazón y las melodías vibrantes de las estrellas más grandes de la música latina.</desc>
-        <icon src="https://images.pluto.tv/series/6504879f0f28f00008692cc5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62b218fc511d4b00070ddc0c" start="20260604040000 +0000" stop="20260604060000 +0000">
-        <title>MTV Flow Latino</title>
-        <desc>Sumérgete en los ritmos que te aceleran el corazón y las melodías vibrantes de las estrellas más grandes de la música latina.</desc>
-        <icon src="https://images.pluto.tv/series/6504879f0f28f00008692cc5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63dac1b78795f300086d5ca6" start="20260604000000 +0000" stop="20260604010000 +0000">
-        <title>TikTok Radio Latam</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/687041463ffa5e0c9146f9d7/tile_1752187219994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63dac1b78795f300086d5ca6" start="20260604010000 +0000" stop="20260604020000 +0000">
-        <title>TikTok Radio Latam</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/687041463ffa5e0c9146f9d7/tile_1752187219994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63dac1b78795f300086d5ca6" start="20260604020000 +0000" stop="20260604030000 +0000">
-        <title>TikTok Radio Latam</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/687041463ffa5e0c9146f9d7/tile_1752187219994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63dac1b78795f300086d5ca6" start="20260604030000 +0000" stop="20260604040000 +0000">
-        <title>TikTok Radio Latam</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/687041463ffa5e0c9146f9d7/tile_1752187219994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63dac1b78795f300086d5ca6" start="20260604040000 +0000" stop="20260604050000 +0000">
-        <title>TikTok Radio Latam</title>
-        <desc>TBC</desc>
-        <icon src="https://images.pluto.tv/series/687041463ffa5e0c9146f9d7/tile_1752187219994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="63dac1b78795f300086d5ca6" start="20260604000000 +0000" stop="20260604040000 +0000">
+        <title>TikTok Radio en Español</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/featuredImage_1758309480507.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="66a01b52a4ee27000808ea36" start="20260603234900 +0000" stop="20260604001300 +0000">
         <title>90s Rock Anthems</title>
@@ -25194,30 +25539,10 @@ Defensa de la Torre</desc>
         <desc>Crawlin' (Linkin Park) / Back To School (Deftones) / Starlight (Muse) / These Days (Foo Fighters) / 1985 (Bowling For Soup)</desc>
         <icon src="https://images.pluto.tv/series/66993bec17101c0013f32593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a11a21a79dea0008aa90ca" start="20260603232300 +0000" stop="20260604002300 +0000">
+    <programme channel="66a11a21a79dea0008aa90ca" start="20260604000000 +0000" stop="20260604040000 +0000">
         <title>MTV Classic</title>
-        <desc>MTV Classic</desc>
-        <icon src="https://images.pluto.tv/series/68d1871474f43c4c1fd00998/tile_1758562076551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66a11a21a79dea0008aa90ca" start="20260604002300 +0000" stop="20260604012300 +0000">
-        <title>MTV Classic</title>
-        <desc>MTV Classic</desc>
-        <icon src="https://images.pluto.tv/series/68d1871474f43c4c1fd00998/tile_1758562076551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66a11a21a79dea0008aa90ca" start="20260604012300 +0000" stop="20260604022300 +0000">
-        <title>MTV Classic</title>
-        <desc>MTV Classic</desc>
-        <icon src="https://images.pluto.tv/series/68d1871474f43c4c1fd00998/tile_1758562076551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66a11a21a79dea0008aa90ca" start="20260604022300 +0000" stop="20260604032300 +0000">
-        <title>MTV Classic</title>
-        <desc>MTV Classic</desc>
-        <icon src="https://images.pluto.tv/series/68d1871474f43c4c1fd00998/tile_1758562076551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66a11a21a79dea0008aa90ca" start="20260604032300 +0000" stop="20260604042300 +0000">
-        <title>MTV Classic</title>
-        <desc>MTV Classic</desc>
-        <icon src="https://images.pluto.tv/series/68d1871474f43c4c1fd00998/tile_1758562076551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6868152657543d1f8be4ece3" start="20260603223000 +0000" stop="20260604010000 +0000">
         <title>Depeche Mode Touring the Angel: Live in Milan</title>
@@ -25273,6 +25598,11 @@ Defensa de la Torre</desc>
         <title>Un chofer en apuros</title>
         <desc>Con su esposa embarazada, este arquitecto desempleado toma un trabajo de chofer que encuentra en Craigslist. Parecía un trabajo sencillo, pero se trata de llevar y traer prostitutas. ¿Será capaz de convertirse en "chulo" para pagar el parto?</desc>
         <icon src="https://images.pluto.tv/series/5fa401d3618a31001aab9200/tile_1769563082051.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcdde78f080d900098550e4" start="20260604080200 +0000" stop="20260604095100 +0000">
+        <title>Solo Por Dinero</title>
+        <desc>Stephanie Plum, desempleada y recién divorciada, consigue un trabajo en el negocio de fianzas de su primo, donde su primera misión la pone tras la pista de un policía local buscado por su pasado romántico.</desc>
+        <icon src="https://images.pluto.tv/series/66a90872b20e79001312fe54/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5dcddf1ed95e740009fef7ab" start="20260604030000 +0000" stop="20260604050800 +0000">
         <title>El Atrapa Sueños</title>
@@ -28573,6 +28903,11 @@ Defensa de la Torre</desc>
         <title>PFL 2024 Season</title>
         <desc>The most action-packed rounds of PFL 2 2024.</desc>
         <icon src="https://images.pluto.tv/series/669c2c879322c000139d82c2/tile_1765355056139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64f6163a30ab3300083d870e" start="20260604091500 +0000" stop="20260604120900 +0000">
+        <title>Best of PFL</title>
+        <desc>Check out these finishes, but don't forget the popcorn!</desc>
+        <icon src="https://images.pluto.tv/series/6797df2e2a493800148f8f2a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="652e922db4b047000825f975" start="20260604040000 +0000" stop="20260604044500 +0000">
         <title>Milenio 22H con: Alejandro Domínguez</title>
@@ -38314,7 +38649,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5e98a911c881310007d7aae2" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="5e98a911c881310007d7aae2" start="20260604114800 +0000" stop="20260604121800 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek es el anfitrión de un show de video clips de internet junto a las celebridades invitadas y co-anfitrionas Sterling "Steelo" Brim y Chanel West Coast.</desc>
+        <icon src="https://images.pluto.tv/series/6876192bfd6704e9d3e84d55/tile_1752589877136.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e98a911c881310007d7aae2" start="20260604121800 +0000" stop="20260604160000 +0000">
         <title>MTV Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38409,7 +38749,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61a52615cbef2500072876e2/featuredImage-1757349444310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260604114100 +0000" stop="20260604121100 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Ser madre puede ser muy difícil y mucho más cuando todavía eres una adolescente. Revive el famoso reality de MTV en el que estas jóvenes verán cómo la maternidad cambia su vida para siempre. Siente toda la emoción y el drama en MTV Teen Mom.</desc>
+        <icon src="https://images.pluto.tv/series/683712f45195c2a60a530fea/tile_1748439837676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620fd9f4afb9a80007a9c6d5" start="20260604121100 +0000" stop="20260604160000 +0000">
         <title>MTV Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38424,7 +38769,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62154548a2be360007cb02f0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="625461ef01f27a0007976ad1" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="625461ef01f27a0007976ad1" start="20260604113500 +0000" stop="20260604120500 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, el popular programa de MTV que reúne a parejas que solo han interactuado a través de pantallas. Con el paso de los meses, supuestamente se enamoraron, pero ¿qué pasará cuando se conozcan en persona?</desc>
+        <icon src="https://images.pluto.tv/series/685415b7c692373f0118391b/tile_1750949332321.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625461ef01f27a0007976ad1" start="20260604120500 +0000" stop="20260604160000 +0000">
         <title>MTV Catfish</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38479,7 +38829,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66a92375cd0d31000847b219" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="66a92375cd0d31000847b219" start="20260604120000 +0000" stop="20260604123000 +0000">
+        <title>Monstruos de Rio</title>
+        <desc>Monstruos de Rio</desc>
+        <icon src="https://images.pluto.tv/series/680b9e6aa0ebc5f56754a7d1/tile_1745591915496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a92375cd0d31000847b219" start="20260604123000 +0000" stop="20260604160000 +0000">
         <title>Monstruos de Rio</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a92375cd0d31000847b219/featuredImage_1751039635488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38494,12 +38849,22 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678533155e0e6a000828cd48/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="681ba2729624e6275efe0044" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="681ba2729624e6275efe0044" start="20260604120000 +0000" stop="20260604123000 +0000">
+        <title>NatureTime</title>
+        <desc>NatureTime acerca al público a la belleza y las maravillas de la naturaleza, compartiendo historias poderosas de nuestro mundo natural.</desc>
+        <icon src="https://images.pluto.tv/series/688a45c8fa2a01af90d9a1f4/tile_1753892297892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="681ba2729624e6275efe0044" start="20260604123000 +0000" stop="20260604160000 +0000">
         <title>NatureTime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/681ba2729624e6275efe0044/featuredImage_1746817065816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6851b909954170e0128bc71d" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="6851b909954170e0128bc71d" start="20260604115700 +0000" stop="20260604122700 +0000">
+        <title>MTV Dating</title>
+        <desc>Bienvenidos al canal de Citas, ¡el destino definitivo para programas de citas que te traen pasión, drama y conexiones conmovedoras a tu pantalla!</desc>
+        <icon src="https://images.pluto.tv/series/685180c6ce36f0644f0b8cc6/tile_1750668106731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6851b909954170e0128bc71d" start="20260604122700 +0000" stop="20260604160000 +0000">
         <title>MTV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6851b909954170e0128bc71d/featuredImage_1750686877498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38814,7 +39179,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>En la parte final de este especial de dos horas, los cinco concursantes restantes descubren que ya no compiten como equipos, sino como individuos.</desc>
         <icon src="https://images.pluto.tv/series/6176bd2d4f409e001a4a4f0c/tile_1769209561389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde0657444a40009cd2422" start="20260604121306 +0000" stop="20260604160000 +0000">
+    <programme channel="5dcde0657444a40009cd2422" start="20260604121306 +0000" stop="20260604130606 +0000">
+        <title>Hell’s Kitchen</title>
+        <desc>Los cuatro chefs restantes reciben quince minutos y una bandeja con sobras para crear una comida que el chef Ramsay considera servible.</desc>
+        <icon src="https://images.pluto.tv/series/6176bd2d4f409e001a4a4f0c/tile_1769209561389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde0657444a40009cd2422" start="20260604130606 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Estilo de Vida</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage_1778796418783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38824,7 +39194,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Gouenji está lesionado y está fuera del próximo partido de Raimon, pero sus oponentes son el equipo más débil en todo el torneo, por lo que ganar no debería ser un problema.</desc>
         <icon src="https://images.pluto.tv/series/5fa3f1e055c509001a30d99f/tile_1769025242496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde17bf6591d0009839e02" start="20260604122400 +0000" stop="20260604160000 +0000">
+    <programme channel="5dcde17bf6591d0009839e02" start="20260604122400 +0000" stop="20260604125300 +0000">
+        <title>Inazuma Eleven</title>
+        <desc>Raimon Junior High es más fuerte que nunca, pero también lo son las fuerzas contra ellos. Pero sus enemigos están tan desesperados por evitar que tengan éxito a toda costa que cruzan la línea y se exponen involuntariamente.</desc>
+        <icon src="https://images.pluto.tv/series/5fa3f1e055c509001a30d99f/tile_1769025242496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde17bf6591d0009839e02" start="20260604125300 +0000" stop="20260604132200 +0000">
+        <title>Inazuma Eleven</title>
+        <desc>El gran partido contra Teikoku está a solo unos días de distancia, pero a menos que Raimon pueda encontrar un nuevo entrenador, saldrán sin siquiera pisar el campo. Todo el equipo se ve alto y bajo, encontrarán uno o no.</desc>
+        <icon src="https://images.pluto.tv/series/5fa3f1e055c509001a30d99f/tile_1769025242496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde17bf6591d0009839e02" start="20260604132200 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Anime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38834,7 +39214,22 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Expectativas. Solemos ponerlas tan altas que cuando la cruda realidad se encarga de despertarnos con una sutil cachetada nos desalentamos de nuestras propias creencias. Mejor mira estos 6 sketches donde sí cumplimos con tus expectativas.</desc>
         <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e8397936791b30007ebb5a7" start="20260604120100 +0000" stop="20260604160000 +0000">
+    <programme channel="5e8397936791b30007ebb5a7" start="20260604120100 +0000" stop="20260604122700 +0000">
+        <title>Enchufe.TV</title>
+        <desc>Todos tenemos momentos incómodos con los doctores. Desde el miedo a las agujas, al taladro del dentista, o a ir a terapia y darte cuenta que el tóxico e eres tú.  Hoy te traemos 6 sketches de esas situaciones que de ley te pasan dentro del consultorio.</desc>
+        <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e8397936791b30007ebb5a7" start="20260604122700 +0000" stop="20260604125300 +0000">
+        <title>Enchufe.TV</title>
+        <desc>En el 2022 ya nadie se ríe de los que necesitan terapia, porque todos estamos en terapia. Por eso, para olvidar los problemas, te traemos las terapia más divertida con estos 6 sketches.</desc>
+        <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e8397936791b30007ebb5a7" start="20260604125300 +0000" stop="20260604131900 +0000">
+        <title>Enchufe.TV</title>
+        <desc>El campo laboral es esa pequeña parte de la vida donde despiertas del dulce sueño de ser un niño, a una montaña rusa emocional de realidad. Dale play a este episodio y ríete de los desagradables momentos de conseguir tu primer trabajo.</desc>
+        <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e8397936791b30007ebb5a7" start="20260604131900 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Humor</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38844,7 +39239,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>This time it's the cats that have taken over our homes...and they aren't holding back!</desc>
         <icon src="https://images.pluto.tv/series/68dabb76a44f8dcccd054460/tile_1759181655975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ebacbcae43a6d000787b88e" start="20260604122100 +0000" stop="20260604160000 +0000">
+    <programme channel="5ebacbcae43a6d000787b88e" start="20260604122100 +0000" stop="20260604125200 +0000">
+        <title>Animals Unscripted</title>
+        <desc>These exotic pets are anything but ordinary!</desc>
+        <icon src="https://images.pluto.tv/series/68dabb76a44f8dcccd054460/tile_1759181655975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebacbcae43a6d000787b88e" start="20260604125200 +0000" stop="20260604132400 +0000">
+        <title>Animals Unscripted</title>
+        <desc>A dangerous dose of funny pets.</desc>
+        <icon src="https://images.pluto.tv/series/68dabb76a44f8dcccd054460/tile_1759181655975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebacbcae43a6d000787b88e" start="20260604132400 +0000" stop="20260604160000 +0000">
         <title>The Pet Collective</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38854,7 +39259,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Vehicles, structures and dreams shatter, leaving behind bills no one wants to pay.</desc>
         <icon src="https://images.pluto.tv/series/68daa68ff1f80c81512b5ecc/tile_1759176468360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ebaccf1734aaf0007142c86" start="20260604121100 +0000" stop="20260604160000 +0000">
+    <programme channel="5ebaccf1734aaf0007142c86" start="20260604121100 +0000" stop="20260604124300 +0000">
+        <title>FailFactory</title>
+        <desc>Sometimes it's better to go unnoticed at a party.</desc>
+        <icon src="https://images.pluto.tv/series/68daa691f1f80c81512b607d/tile_1759181085764.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebaccf1734aaf0007142c86" start="20260604124300 +0000" stop="20260604131500 +0000">
+        <title>FailFactory</title>
+        <desc>Some people and animals will do anything for 15 minutes of fame.</desc>
+        <icon src="https://images.pluto.tv/series/68daa691f1f80c81512b607d/tile_1759181085764.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebaccf1734aaf0007142c86" start="20260604131500 +0000" stop="20260604160000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38864,7 +39279,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Asumiendo que el equipo de la hoja no podría superar a Jirobo, los demás ninjas del sonido no se molestan en dejar trampas por el camino.</desc>
         <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ee92e72fb286e0007285fec" start="20260604122000 +0000" stop="20260604160000 +0000">
+    <programme channel="5ee92e72fb286e0007285fec" start="20260604122000 +0000" stop="20260604125000 +0000">
+        <title>Naruto: Visión De 360 Grados: El Punto Ciego Del Byakugan</title>
+        <desc>Neji se enfrenta a Kidomaru mientras los demás continúan con su persecución de Sasuke y el resto de los ninjas del sonido.</desc>
+        <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ee92e72fb286e0007285fec" start="20260604125000 +0000" stop="20260604132000 +0000">
+        <title>Naruto: Perder No Es Una Opción</title>
+        <desc>Kidomaru cambia de táctica y crea un arco y flecha para atacar el punto ciego de Neji.</desc>
+        <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ee92e72fb286e0007285fec" start="20260604132000 +0000" stop="20260604160000 +0000">
         <title>Naruto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38874,7 +39299,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
         <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="5f998c1fc54853000797bacd" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Tastemade</title>
+        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
+        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f998c1fc54853000797bacd" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Tastemade</title>
+        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
+        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f998c1fc54853000797bacd" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Tastemade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage_1730999717463.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38884,7 +39319,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Mientras Mark esta en casa de los padres de Randall, sin querer comenta que Randall es un zombie.</desc>
         <icon src="https://images.pluto.tv/series/5e4f203fc105e9390ea4f683/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ffcc21a432945000762d06b" start="20260604122400 +0000" stop="20260604160000 +0000">
+    <programme channel="5ffcc21a432945000762d06b" start="20260604122400 +0000" stop="20260604124900 +0000">
+        <title>Ugly Americans</title>
+        <desc>Luego de recibir severos recortes en el presupuesto de su programa, Mark lucha por encontrar trabajo para un mono gigante.</desc>
+        <icon src="https://images.pluto.tv/series/5e4f203fc105e9390ea4f683/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffcc21a432945000762d06b" start="20260604124900 +0000" stop="20260604131400 +0000">
+        <title>Ugly Americans</title>
+        <desc>Mark tiene que lidiar con un nuevo compañero de vivienda luego que Randall se une a un culto zombie.</desc>
+        <icon src="https://images.pluto.tv/series/5e4f203fc105e9390ea4f683/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffcc21a432945000762d06b" start="20260604131400 +0000" stop="20260604160000 +0000">
         <title>Comedy Central Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/featuredImage_1762352084828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38894,7 +39339,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Cartman, Kyle, Stan y Kenny tienen que hacer un reporte sobre el Día de Acción de Gracias pero no leen libros y en su lugar miran el canal History Channel.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609ae5cd48d3200007b0a98e" start="20260604122000 +0000" stop="20260604160000 +0000">
+    <programme channel="609ae5cd48d3200007b0a98e" start="20260604122000 +0000" stop="20260604124700 +0000">
+        <title>South Park</title>
+        <desc>Los padres de Kenny son arrestados. Esto provoca que Kenny y sus hermanos vayan a una casa adoptiva con padres agnósticos.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609ae5cd48d3200007b0a98e" start="20260604124700 +0000" stop="20260604131400 +0000">
+        <title>South Park</title>
+        <desc>Clyde desobedece a su madre, y no baja la tapa del inodoro, causando una muerte bastante inesperada.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609ae5cd48d3200007b0a98e" start="20260604131400 +0000" stop="20260604160000 +0000">
         <title>Comedy Central South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/featuredImage_1767793472241.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38904,7 +39359,22 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Kevin y todo el equipo de fútbol americano obtiene excelentes notas en el examen. DeMartino desaprueba a toda la clase hasta que el culpable confiese. Kevin aparece muerto en el casillero de Daria.</desc>
         <icon src="https://images.pluto.tv/series/5e20986b370805f4c87911aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62d0895ebe7a970008785244" start="20260604120300 +0000" stop="20260604160000 +0000">
+    <programme channel="62d0895ebe7a970008785244" start="20260604120300 +0000" stop="20260604123000 +0000">
+        <title>Daria</title>
+        <desc>Jane se anota en un equipo de atletismo de la escuela y ante sus buenos resultados puede experimentar lo que es ser popular. Daria comienza a estar más tiempo sola y habla en voz alta, lo que le llama la atención a Helen.</desc>
+        <icon src="https://images.pluto.tv/series/5e20986b370805f4c87911aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d0895ebe7a970008785244" start="20260604123000 +0000" stop="20260604125700 +0000">
+        <title>Daria</title>
+        <desc>Al haber leído todos los libros propuestos como tarea, el profesor de literatura le da a Daria una tarea especial donde debe escribir una historia ella misma, convirtiendo a las personas que conoce en su vida real en personajes ficticios.</desc>
+        <icon src="https://images.pluto.tv/series/5e20986b370805f4c87911aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d0895ebe7a970008785244" start="20260604125700 +0000" stop="20260604132300 +0000">
+        <title>Daria</title>
+        <desc>Durante la semana de voluntariado en la escuela de Lawndale, Daria, Kevin y Brittany van a leerles libros a los ancianos en un geriátrico y Jane da clases de artesanías en un hospital</desc>
+        <icon src="https://images.pluto.tv/series/5e20986b370805f4c87911aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d0895ebe7a970008785244" start="20260604132300 +0000" stop="20260604160000 +0000">
         <title>Daria</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62d0895ebe7a970008785244/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38914,7 +39384,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Independientemente de resultado de las elecciones norteamericanas, Donald Trump decide declarale la guerra a México y LFDB se embarca en una misión especial para derrocar al tirano Trump.</desc>
         <icon src="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62d08af527ce19000731eaa0" start="20260604122200 +0000" stop="20260604160000 +0000">
+    <programme channel="62d08af527ce19000731eaa0" start="20260604122200 +0000" stop="20260604125000 +0000">
+        <title>La Familia del Barrio</title>
+        <desc>Peluzín tiene éxito con un nuevo método de protesta, mientras El Noruego y Jony dan sus primeros pasos en la "cossa nostra"</desc>
+        <icon src="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d08af527ce19000731eaa0" start="20260604125000 +0000" stop="20260604131800 +0000">
+        <title>La Familia del Barrio</title>
+        <desc>LFDB decide hacerle una intervención al Abuelo porque está mas hostil que nunca y quieren que busque tratamiento médico, mientras que Peluzín y Jonathan ayudan a Pitipú a conseguir su nacionalidad.</desc>
+        <icon src="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d08af527ce19000731eaa0" start="20260604131800 +0000" stop="20260604160000 +0000">
         <title>La Familia del Barrio</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38934,7 +39414,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Azteca Internacional es un canal con cobertura en toda Latinoamérica y el resto del mundo. Ofreciendo el mejor entretenimiento, noticias, telenovelas y series nuevas para toda la familia.</desc>
         <icon src="https://images.pluto.tv/series/652ebc0e8f5c430008917e1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="646cce4d1593940008a33f09" start="20260604121500 +0000" stop="20260604160000 +0000">
+    <programme channel="646cce4d1593940008a33f09" start="20260604121500 +0000" stop="20260604133000 +0000">
+        <title>Acércate a Rocío Verano</title>
+        <desc>Azteca Internacional es un canal con cobertura en toda Latinoamérica y el resto del mundo. Ofreciendo el mejor entretenimiento, noticias, telenovelas y series nuevas para toda la familia.</desc>
+        <icon src="https://images.pluto.tv/series/652ebc0e8f5c430008917e1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="646cce4d1593940008a33f09" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Azteca Internacional</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/646cce4d1593940008a33f09/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38944,7 +39429,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Con el interior de la casa del río completo, es hora de concentrarse en la casa suburbana. Mike, MJ y el equipo trabajan para preparar la casa inteligente y recibir la valoración que esperan ganar.</desc>
         <icon src="https://images.pluto.tv/series/678991f0daa3470014062bcd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64fb1f6e6625510008c00848" start="20260604125100 +0000" stop="20260604160000 +0000">
+    <programme channel="64fb1f6e6625510008c00848" start="20260604125100 +0000" stop="20260604134300 +0000">
+        <title>Holmes &amp; Holmes</title>
+        <desc>El suelo ocupa un lugar central en el interior de la casa de campo, mientras que el exterior del granero finalmente se completa. Además, la casa del río recibe sus toques finales mientras Mike y MJ se preparan para despedirse de las Mil Islas.</desc>
+        <icon src="https://images.pluto.tv/series/678991f0daa3470014062bcd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64fb1f6e6625510008c00848" start="20260604134300 +0000" stop="20260604160000 +0000">
         <title>Homeful</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64fb1f6e6625510008c00848/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38959,7 +39449,22 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Cuento Southparkitero del libro "Grandes Esperanzas" de Dickens, teniendo como protagonista a Pip, un inglés de clase pobre, y con Malcolm McDowell, un británico como narrador.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df7272ec9fda0008b7a970" start="20260604120100 +0000" stop="20260604160000 +0000">
+    <programme channel="65df7272ec9fda0008b7a970" start="20260604120100 +0000" stop="20260604122800 +0000">
+        <title>South Park</title>
+        <desc>Cartman se enoja porque Kenny consiguió una consola de videojuegos y él no. Pero Kenny muere al llegar al nivel 60, y va al cielo y se entera que Dios lo mató a propósito ya que lo necesitan para que salve al cielo de un ataque de Satanás.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df7272ec9fda0008b7a970" start="20260604122800 +0000" stop="20260604125500 +0000">
+        <title>South Park</title>
+        <desc>En Halloween, los chicos quieren asustar a los de quinto grado, así que desentierran el cadáver de la abuela de Kyle. Mientras tanto, la banda Korn está en South Park y unos fantasmas piratas asechan a los habitantes.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df7272ec9fda0008b7a970" start="20260604125500 +0000" stop="20260604132300 +0000">
+        <title>South Park</title>
+        <desc>Chef reclama los derechos de la nueva canción de Alanis Morissette, ''Calzón Sucio'', pero de alguna forma termina siendo demandado. Ahora los chicos, Elton John y otros músicos tratan de juntar el dinero para ayudar a Chef.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df7272ec9fda0008b7a970" start="20260604132300 +0000" stop="20260604160000 +0000">
         <title>South Park: Colección Kenny</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38969,7 +39474,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Stan cumple 10 años y comienza a ver todo de una forma diferente. Para él, ahora todo es una mierda. Los otros chicos lo ven depresivo y se alejan de él para no ser contagiados.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df72db18036500081a8292" start="20260604122600 +0000" stop="20260604160000 +0000">
+    <programme channel="65df72db18036500081a8292" start="20260604122600 +0000" stop="20260604125300 +0000">
+        <title>South Park</title>
+        <desc>La vida de Stan es un caos en su casa y en la escuela, y tiene que solucionarlo todo por sí mismo. Mientras tanto, el matrimonio Marsh pende de un hilo.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df72db18036500081a8292" start="20260604125300 +0000" stop="20260604132000 +0000">
+        <title>South Park</title>
+        <desc>Stan se vuelve adicto al nuevo juego móvil de Terrance y Phillip intenta convencer a sus amigos de que es el mejor juego de todos.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df72db18036500081a8292" start="20260604132000 +0000" stop="20260604160000 +0000">
         <title>South Park: Colección Stan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df72db18036500081a8292/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38979,7 +39494,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Al ver a un chico con el síndrome de Tourette en una juguetería, Cartman se obsesiona con el tema y se percata de que puede decir lo que quiera sin consecuencias, por lo que se aprovecha de eso.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df731cec9fda0008b7aa8d" start="20260604121600 +0000" stop="20260604160000 +0000">
+    <programme channel="65df731cec9fda0008b7aa8d" start="20260604121600 +0000" stop="20260604124300 +0000">
+        <title>South Park</title>
+        <desc>South Park es invadido por hippies y Cartman trata de eliminarlos, tratándolos como si fueran una plaga. Mientras tanto, los hippies les están "lavando el cerebro" a Kyle, Stan y Kenny. Cartman es ahora la única esperanza.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df731cec9fda0008b7aa8d" start="20260604124300 +0000" stop="20260604131000 +0000">
+        <title>South Park</title>
+        <desc>Cartman se infiltra en la Agencia de Seguridad Nacional porque cree que lo están espiando, y no le gusta lo que encuentra en su expediente personal.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df731cec9fda0008b7aa8d" start="20260604131000 +0000" stop="20260604160000 +0000">
         <title>South Park: Colección Cartman</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38989,7 +39514,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Una apuesta iniciada porque Cartman vio a un duende es el inicio de un problema, aunado a que los chicos se encuentran frente a la totalidad imaginativa del mundo atacada por un grupo terrorista.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df73520d4561000817c29b" start="20260604122400 +0000" stop="20260604160000 +0000">
+    <programme channel="65df73520d4561000817c29b" start="20260604122400 +0000" stop="20260604125100 +0000">
+        <title>South Park</title>
+        <desc>Cartman se considera el crítico número uno en Internet de restaurantes en South Park.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df73520d4561000817c29b" start="20260604125100 +0000" stop="20260604131800 +0000">
+        <title>South Park</title>
+        <desc>Los chicos intentan cruzar al elefante de Kyle con ''Fofa'', la cerda de Cartman, para un experimento genético de la escuela con el cual intentan ganarle a Terrance. Mientras, Stan lucha contra los abusos físicos de su hermana, Shelly.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df73520d4561000817c29b" start="20260604131800 +0000" stop="20260604160000 +0000">
         <title>South Park: Colección Kyle</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df73520d4561000817c29b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38999,7 +39534,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Bromas Gags – Just for Laughs</desc>
         <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260604121500 +0000" stop="20260604160000 +0000">
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260604121500 +0000" stop="20260604124500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260604124500 +0000" stop="20260604131500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260604131500 +0000" stop="20260604160000 +0000">
         <title>Bromas Gags - Just for Laughs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39009,7 +39554,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Downhill urbano en Valparaíso, donde riders de MTB descienden a toda velocidad por calles empinadas y edificios históricos en el mayor evento de descenso urbano del mundo.</desc>
         <icon src="https://images.pluto.tv/series/698e802778ddf16146e98846/tile_1776237001233.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67813f893886aa863497733d" start="20260604123400 +0000" stop="20260604160000 +0000">
+    <programme channel="67813f893886aa863497733d" start="20260604123400 +0000" stop="20260604142500 +0000">
+        <title>Fine Lines</title>
+        <desc>El grupo más selecto de aventureros de montaña asume riesgos extremos en desafíos que ponen en juego sus vidas, revelando historias de coraje, determinación y el poder del espíritu humano.</desc>
+        <icon src="https://images.pluto.tv/series/67eacb1446d66c4aa0500a87/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67813f893886aa863497733d" start="20260604142500 +0000" stop="20260604160000 +0000">
         <title>Red Bull TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67813f893886aa863497733d/featuredImage_1773419282944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39019,7 +39569,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
         <icon src="https://images.pluto.tv/series/67acb4a4c070cf00085b52d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67a3b45a21af380008133aa4" start="20260604130000 +0000" stop="20260604160000 +0000">
+    <programme channel="67a3b45a21af380008133aa4" start="20260604130000 +0000" stop="20260604140000 +0000">
+        <title>Real Madrid TV</title>
+        <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
+        <icon src="https://images.pluto.tv/series/67acb4a4c070cf00085b52d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a3b45a21af380008133aa4" start="20260604140000 +0000" stop="20260604160000 +0000">
         <title>Realmadrid TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67a3b45a21af380008133aa4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39029,7 +39584,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Ronaldinho recuerda con nosotros su álbum de fotos particular de sus años en Barcelona</desc>
         <icon src="https://images.pluto.tv/series/69fb8052a7b5a6c560f0371e/tile_1780489744981.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67a52c8397782f00081879aa" start="20260604121540 +0000" stop="20260604160000 +0000">
+    <programme channel="67a52c8397782f00081879aa" start="20260604121540 +0000" stop="20260604125322 +0000">
+        <title>Todos los goles</title>
+        <desc>Todos los goles del Barça al Espanyol en los duelos en el Camp Nou (2000-2025)</desc>
+        <icon src="https://images.pluto.tv/series/69fb804ce022927e1c8d0e08/tile_1780489738548.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a52c8397782f00081879aa" start="20260604125322 +0000" stop="20260604131438 +0000">
+        <title>Inside</title>
+        <desc>Las mejores imagenes de la celebración del campeonato de liga 202526 al Spotify Camp Nou</desc>
+        <icon src="https://images.pluto.tv/series/6a15cef02381ea230ffa35cc/tile_1780489736695.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a52c8397782f00081879aa" start="20260604131438 +0000" stop="20260604160000 +0000">
         <title>Top Barça</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67a52c8397782f00081879aa/featuredImage_1753987326213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39039,7 +39604,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Rutinas y consejos de acondicionamiento físico.</desc>
         <icon src="https://images.pluto.tv/series/68ac6851e5ae05a8904fdc9e/tile_1759896798941.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68224482c5d53e1351aaf2f2" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="68224482c5d53e1351aaf2f2" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Fit for life</title>
+        <desc>Rutinas y consejos de acondicionamiento físico.</desc>
+        <icon src="https://images.pluto.tv/series/68ac6851e5ae05a8904fdc9e/tile_1759896798941.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68224482c5d53e1351aaf2f2" start="20260604130000 +0000" stop="20260604143000 +0000">
+        <title>Dali y el príncipe arrogante</title>
+        <desc>Abrumado por la culpa, el padre de Mu-hak le ruega a Da-li que deje a su hijo en paz. Tae-jin le ofrece a Da-li una explicación en lugar de una disculpa.</desc>
+        <icon src="https://images.pluto.tv/series/68ac6881e5ae05a8904fe2bd/tile_1756244636436.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68224482c5d53e1351aaf2f2" start="20260604143000 +0000" stop="20260604160000 +0000">
         <title>Canal Claro</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/featuredImage_1751655768203.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39069,7 +39644,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
         <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b88712e777774982269ce9" start="20260604130000 +0000" stop="20260604160000 +0000">
+    <programme channel="68b88712e777774982269ce9" start="20260604130000 +0000" stop="20260604140000 +0000">
+        <title>Tastemade Viajes</title>
+        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
+        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b88712e777774982269ce9" start="20260604140000 +0000" stop="20260604160000 +0000">
         <title>Tastemade Viajes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b88712e777774982269ce9/featuredImage_1759784098205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39079,7 +39659,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>TBC</desc>
         <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b887c2e77777498226a0de" start="20260604130000 +0000" stop="20260604160000 +0000">
+    <programme channel="68b887c2e77777498226a0de" start="20260604130000 +0000" stop="20260604140000 +0000">
+        <title>Tastemade Hogar</title>
+        <desc>TBC</desc>
+        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b887c2e77777498226a0de" start="20260604140000 +0000" stop="20260604160000 +0000">
         <title>Tastemade Hogar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b887c2e77777498226a0de/featuredImage_1759784259408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39089,7 +39674,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
         <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20260604122818 +0000" stop="20260604160000 +0000">
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260604122818 +0000" stop="20260604132818 +0000">
+        <title>Al Ritmo del Jaripeo</title>
+        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
+        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260604132818 +0000" stop="20260604160000 +0000">
         <title>Al Ritmo del Jaripeo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/featuredImage_1760471497960.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39099,7 +39689,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Existen situaciones peores que la muerte. Como andar de fiesta y descubrir 20 llamadas perdidas de tu mamá.  Mira el episodio de hoy y disfruta con estas situaciones para morir de la risa.</desc>
         <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699763d184235f26d5056002" start="20260604121553 +0000" stop="20260604160000 +0000">
+    <programme channel="699763d184235f26d5056002" start="20260604121553 +0000" stop="20260604124053 +0000">
+        <title>Enchufe.TV</title>
+        <desc>Contrario a lo que muchos piensan, la vida sí es como en las películas. Pero una película de bajo presupuesto. Dale play al episodio y se le estrella de tu propio película... bueno el extra del fondo.</desc>
+        <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699763d184235f26d5056002" start="20260604124053 +0000" stop="20260604130453 +0000">
+        <title>Enchufe.TV</title>
+        <desc>¿Has pensado que pasaría si la realidad se mezclara con la ficción? Mira estos sketches y descúbrelo.</desc>
+        <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699763d184235f26d5056002" start="20260604130453 +0000" stop="20260604160000 +0000">
         <title>Enchufe.TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/699763d184235f26d5056002/featuredImage_1773231206751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39109,7 +39709,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Heidi y Clara dan una vuelta de nuevo por el parque, descubren que el parque hay cabras, pero la más bebé esta enferma. Heidi se la lleva a casa para curarla pero debe apresurarse antes de que regrese la señorita Rottenmeier.</desc>
         <icon src="https://images.pluto.tv/series/6070be688119a5001a738b06/tile_1769195522504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde2ac4bc6c500094ab45b" start="20260604121856 +0000" stop="20260604160000 +0000">
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20260604121856 +0000" stop="20260604124456 +0000">
+        <title>Heidi: La renuncia</title>
+        <desc>La señorita Rottenmeier regresa y se da cuenta que Heidi tiene a una cabra bebé. Heidi decide irse a vivir con Rudy y tomar un tren para regresar a las montañas. Rottemeier le da una segunda oportunidad a Heidi.</desc>
+        <icon src="https://images.pluto.tv/series/6070be688119a5001a738b06/tile_1769195522504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20260604124456 +0000" stop="20260604131056 +0000">
+        <title>Heidi: Un árbol como refugio</title>
+        <desc>Clara ya puede ponerse de pie sin ayuda de nadie. El señor Sesemann quiere adoptar a Heidi, Heidi se aterra de la situación pensando que ya nunca vovler a las montañas. El señor Sesseman entiende el miedo de Heidi y decide posponer la adopción.</desc>
+        <icon src="https://images.pluto.tv/series/6070be688119a5001a738b06/tile_1769195522504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20260604131056 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39120,7 +39730,19 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
 Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <icon src="https://mam-assets.clusters.pluto.tv/assets/8ade91bb-ecd5-4aab-a867-2dd4ef5d881b.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dd6dae8ce788b0009eaf77b" start="20260604120735 +0000" stop="20260604160000 +0000">
+    <programme channel="5dd6dae8ce788b0009eaf77b" start="20260604120735 +0000" stop="20260604123535 +0000">
+        <title>Mutant Busters</title>
+        <desc>Mutant Busters :: Ep. 37 Misión: shopping 2
+Mutant Busters :: Ep. 38 Asombrosas historias humanas</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/8ade91bb-ecd5-4aab-a867-2dd4ef5d881b.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6dae8ce788b0009eaf77b" start="20260604123535 +0000" stop="20260604130035 +0000">
+        <title>Mutant Busters</title>
+        <desc>Mutant Busters :: Ep. 39 Metal Ice
+Mutant Busters :: Ep. 40 La vuelta al cole</desc>
+        <icon src="https://mam-assets.clusters.pluto.tv/assets/8ade91bb-ecd5-4aab-a867-2dd4ef5d881b.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6dae8ce788b0009eaf77b" start="20260604130035 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39130,7 +39752,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Bienvenido a Nick Jr Club donde los más pequeños encontrarán a sus amigos favoritos. Desde clásicos como Pistas de Blue, Mascotas Maravillas, Ni Hao Kailan y muchos éxitos más. Todo en los shows de Nick Jr Club.</desc>
         <icon src="https://images.pluto.tv/series/680b7b3556ff83bcd672d28f/tile_1745582905671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20260604121900 +0000" stop="20260604160000 +0000">
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20260604121900 +0000" stop="20260604124900 +0000">
+        <title>Nick Jr. Club</title>
+        <desc>Bienvenido a Nick Jr Club donde los más pequeños encontrarán a sus amigos favoritos. Desde clásicos como Pistas de Blue, Mascotas Maravillas, Ni Hao Kailan y muchos éxitos más. Todo en los shows de Nick Jr Club.</desc>
+        <icon src="https://images.pluto.tv/series/680b7b3556ff83bcd672d28f/tile_1745582905671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20260604124900 +0000" stop="20260604131900 +0000">
+        <title>Nick Jr. Club</title>
+        <desc>Bienvenido a Nick Jr Club donde los más pequeños encontrarán a sus amigos favoritos. Desde clásicos como Pistas de Blue, Mascotas Maravillas, Ni Hao Kailan y muchos éxitos más. Todo en los shows de Nick Jr Club.</desc>
+        <icon src="https://images.pluto.tv/series/680b7b3556ff83bcd672d28f/tile_1745582905671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20260604131900 +0000" stop="20260604160000 +0000">
         <title>Nick Jr. Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage_1748446520796.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39140,7 +39772,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Los Rugrats van a la casa de Boris y Minka para pasar las Pascuas y, por accidente, se quedan todos encerrados en el ático. Para pasar el tiempo, Boris les cuenta a los bebés la historia de Moisés.</desc>
         <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile_1769212082642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ea7215005d66d0007e8128a" start="20260604121800 +0000" stop="20260604160000 +0000">
+    <programme channel="5ea7215005d66d0007e8128a" start="20260604121800 +0000" stop="20260604124700 +0000">
+        <title>Rugrats</title>
+        <desc>Cuando Hugo rompe el televisor, los Rugrats usan una caja vacía para crear sus propios programas. / Angélica les dice a los bebés que el cielo se está cayendo y que está llegando el fin del mundo.</desc>
+        <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile_1769212082642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ea7215005d66d0007e8128a" start="20260604124700 +0000" stop="20260604131600 +0000">
+        <title>Rugrats</title>
+        <desc>Carlitos adopta una mascota, el insecto Melville. Cuando Melville muere, a Carlitos le cuesta mucho aceptarlo y pasa por todos los procesos del duelo. / Angélica les pide a los Rugrats que la mantengan alejada de las galletas.</desc>
+        <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile_1769212082642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ea7215005d66d0007e8128a" start="20260604131600 +0000" stop="20260604160000 +0000">
         <title>Rugrats</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39150,7 +39792,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>¡Es Zumbini Time! La hora especial del día solo para conectarse con su hijo, cantando, bailando y divirtiéndose!</desc>
         <icon src="https://images.pluto.tv/series/5f282b72a6da66001a7f4475/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ebac49ce4dc8b00078b23bc" start="20260604122200 +0000" stop="20260604160000 +0000">
+    <programme channel="5ebac49ce4dc8b00078b23bc" start="20260604122200 +0000" stop="20260604125000 +0000">
+        <title>Baby U</title>
+        <desc>Se trata de aprender para su pequeño! Anímate a contar del 1 al 5, aprender sobre los animales de granja, y explorar colores.</desc>
+        <icon src="https://images.pluto.tv/series/5f2abd243bb7850013d04b4c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebac49ce4dc8b00078b23bc" start="20260604125000 +0000" stop="20260604132000 +0000">
+        <title>Baby U</title>
+        <desc>Pingüinos enseñan el número cinco, El caballo Arco Iris introduce el color rojo, y mucho más!</desc>
+        <icon src="https://images.pluto.tv/series/5f2abd243bb7850013d04b4c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebac49ce4dc8b00078b23bc" start="20260604132000 +0000" stop="20260604160000 +0000">
         <title>Babyfirst</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39160,7 +39812,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile_1769543281753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f4d3d06fb60d8000781fce8" start="20260604120100 +0000" stop="20260604160000 +0000">
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20260604120100 +0000" stop="20260604123100 +0000">
+        <title>El Reino Infantil - Rebrand LT</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile_1769543281753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20260604123100 +0000" stop="20260604130100 +0000">
+        <title>El Reino Infantil - Rebrand LT</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile_1769543281753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20260604130100 +0000" stop="20260604160000 +0000">
         <title>El Reino Infantil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39170,7 +39832,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
         <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20260604121445 +0000" stop="20260604160000 +0000">
+    <programme channel="5fab09a8749b1a00077d35d2" start="20260604121445 +0000" stop="20260604124445 +0000">
+        <title>Nickelodeon Teen</title>
+        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
+        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab09a8749b1a00077d35d2" start="20260604124445 +0000" stop="20260604131445 +0000">
+        <title>Nickelodeon Teen</title>
+        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
+        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab09a8749b1a00077d35d2" start="20260604131445 +0000" stop="20260604160000 +0000">
         <title>Nickelodeon Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/featuredImage_1749640836366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39180,7 +39852,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Kenan escribe un poema de amor inspirado en Sharla. Pero Kel le hace creer a su compañera, Alison, que su novio Phillip escribió el poema. Cuando Alison rompe con su novio por culpa de Kel, los chicos intentan remediar la situación.</desc>
         <icon src="https://images.pluto.tv/series/5eff42e91bfe8e001a9a5460/tile_1768770360980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fcea93ffcf94500071c4b2f" start="20260604121700 +0000" stop="20260604160000 +0000">
+    <programme channel="5fcea93ffcf94500071c4b2f" start="20260604121700 +0000" stop="20260604124700 +0000">
+        <title>Kenan y Kel</title>
+        <desc>Ansioso por saber qué le compraron sus padres como regalo de cumpleaños, Kenan se mete en su habitación y encuentra un paquete, pero Kel lo rompe por accidente. Ahora los chicos tienen que correr para reemplazar el regalo.</desc>
+        <icon src="https://images.pluto.tv/series/5eff42e91bfe8e001a9a5460/tile_1768770360980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fcea93ffcf94500071c4b2f" start="20260604124700 +0000" stop="20260604131600 +0000">
+        <title>Kenan y Kel</title>
+        <desc>Kel destruye las fotos para el anuario de la escuela, y ahora él y Kenan deben ayudar a su compañero Marc Cram a reemplazar las fotos.</desc>
+        <icon src="https://images.pluto.tv/series/5eff42e91bfe8e001a9a5460/tile_1768770360980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fcea93ffcf94500071c4b2f" start="20260604131600 +0000" stop="20260604160000 +0000">
         <title>Kenan y Kel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39190,7 +39872,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>¡Bienvenido al mundo de Yu-Gi-Oh! VRAINS, donde la realidad virtual, la inteligencia artificial y los duelos de alta velocidad se fusionan en un espectáculo de lucha.</desc>
         <icon src="https://images.pluto.tv/series/60022cb472b3e1001a660ccc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fceaab478f2af00080ff51f" start="20260604121100 +0000" stop="20260604160000 +0000">
+    <programme channel="5fceaab478f2af00080ff51f" start="20260604121100 +0000" stop="20260604123800 +0000">
+        <title>¡Yu-Gi-Oh! VRAINS</title>
+        <desc>¡Bienvenido al mundo de Yu-Gi-Oh! VRAINS, donde la realidad virtual, la inteligencia artificial y los duelos de alta velocidad se fusionan en un espectáculo de lucha.</desc>
+        <icon src="https://images.pluto.tv/series/60022cb472b3e1001a660ccc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fceaab478f2af00080ff51f" start="20260604123800 +0000" stop="20260604130400 +0000">
+        <title>¡Yu-Gi-Oh! VRAINS</title>
+        <desc>¡Bienvenido al mundo de Yu-Gi-Oh! VRAINS, donde la realidad virtual, la inteligencia artificial y los duelos de alta velocidad se fusionan en un espectáculo de lucha.</desc>
+        <icon src="https://images.pluto.tv/series/60022cb472b3e1001a660ccc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fceaab478f2af00080ff51f" start="20260604130400 +0000" stop="20260604160000 +0000">
         <title>Yu-Gi-Oh</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39200,7 +39892,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Fecha 4 - 240 equipos se enfrentan a pura acción para hacerse con el título de campeón.</desc>
         <icon src="https://images.pluto.tv/series/60b111c3e36d58001a68a8bd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ff3934600d4c7000733ff49" start="20260604125700 +0000" stop="20260604160000 +0000">
+    <programme channel="5ff3934600d4c7000733ff49" start="20260604125700 +0000" stop="20260604132500 +0000">
+        <title>Expansion Pack</title>
+        <desc>En México también se desarrollan videojuegos en Expansion Pack, te mostramos algunos, recordamos a una leyenda del PS1, “Legacy of Kain: Soul Reaver”, además, hoy conocerás a fondo al polémico Hideo Kojima y viajamos al Tokyo Game Show.</desc>
+        <icon src="https://images.pluto.tv/series/69c695d7351d15c11136c723/tile_1774622168768.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff3934600d4c7000733ff49" start="20260604132500 +0000" stop="20260604160000 +0000">
         <title>Pluto TV E-Sports</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39210,7 +39907,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>En ese sitio tan extraño aparece un tipo todavía más extraño. No es otro que Ivan, esa importante figura de los travestis.</desc>
         <icon src="https://images.pluto.tv/series/628cdfc98c880f0013de9e0a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ff4b9ccf938f8000779eb99" start="20260604121700 +0000" stop="20260604160000 +0000">
+    <programme channel="5ff4b9ccf938f8000779eb99" start="20260604121700 +0000" stop="20260604124600 +0000">
+        <title>One Piece - Summit War Saga</title>
+        <desc>Mientras Luffy se debate entre la vida y la muerte, Ivan le explica con detalle a Bon Clay en qué consiste su poder y qué puede hacer gracias a él.</desc>
+        <icon src="https://images.pluto.tv/series/628cdfc98c880f0013de9e0a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff4b9ccf938f8000779eb99" start="20260604124600 +0000" stop="20260604131500 +0000">
+        <title>One Piece - Summit War Saga</title>
+        <desc>Luffy se recupera milagrosamente del veneno de Magellan y se decide a seguir con su búsqueda de Ace. Cuando Ivan se entera del verdadero origen de Luffy, este también decide entrar en acción para ayudarlo.</desc>
+        <icon src="https://images.pluto.tv/series/628cdfc98c880f0013de9e0a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff4b9ccf938f8000779eb99" start="20260604131500 +0000" stop="20260604160000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/featuredImage-1663941434061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39220,7 +39927,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>La exsecretaria de Shuichi Kitaoka, Megumi Asano, decide demandarlo por romper el compromiso de compromiso que hicieron en el pasado. Shinji parece estar emocionado, mientras que Reiko está completamente indignada.</desc>
         <icon src="https://images.pluto.tv/series/677e8210cb848d0013f0225c/tile_1769475961959.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ff608e60e2996000768c366" start="20260604120900 +0000" stop="20260604160000 +0000">
+    <programme channel="5ff608e60e2996000768c366" start="20260604120900 +0000" stop="20260604123700 +0000">
+        <title>Kamen Rider Ryuki</title>
+        <desc>Mika Hamasaki es una niña que sobrevivió sola en una balsa a la deriva sin tripulación. Ella afirma haber visto tres monstruos...</desc>
+        <icon src="https://images.pluto.tv/series/677e8210cb848d0013f0225c/tile_1769475961959.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff608e60e2996000768c366" start="20260604123700 +0000" stop="20260604130500 +0000">
+        <title>Kamen Rider Ryuki</title>
+        <desc>Takeshi Asakura ya no puede dominar a los tres monstruos con los que hizo un pacto. Ren y Kitaoka creen en la autodestrucción de Asakura.</desc>
+        <icon src="https://images.pluto.tv/series/677e8210cb848d0013f0225c/tile_1769475961959.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff608e60e2996000768c366" start="20260604130500 +0000" stop="20260604160000 +0000">
         <title>Tokusato</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ff608e60e2996000768c366/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39230,7 +39947,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga.</desc>
         <icon src="https://images.pluto.tv/series/609d8b003029660007d932ba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6047fabfce6e8e00070bcc9f" start="20260604130000 +0000" stop="20260604160000 +0000">
+    <programme channel="6047fabfce6e8e00070bcc9f" start="20260604130000 +0000" stop="20260604140000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga.</desc>
+        <icon src="https://images.pluto.tv/series/609d8b003029660007d932ba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6047fabfce6e8e00070bcc9f" start="20260604140000 +0000" stop="20260604160000 +0000">
         <title>MTV Biggest Pop</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39240,7 +39962,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>¡Vamos de viaje al bajo del mar con Pinkfong!</desc>
         <icon src="https://images.pluto.tv/series/641c66a94f1ca3001a8759a1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="619d5e6a093e7c0007489211" start="20260604122600 +0000" stop="20260604160000 +0000">
+    <programme channel="619d5e6a093e7c0007489211" start="20260604122600 +0000" stop="20260604124400 +0000">
+        <title>Pinkfong Teatro de Cuentos</title>
+        <desc>¡Vamos de viaje a la selva con Pinkfong!</desc>
+        <icon src="https://images.pluto.tv/series/641c66a94f1ca3001a8759a1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619d5e6a093e7c0007489211" start="20260604124400 +0000" stop="20260604130900 +0000">
+        <title>Pinkfong Teatro de Cuentos</title>
+        <desc>¡Vamos de viaje al mundo de los dinosaurios con Pinkfong!</desc>
+        <icon src="https://images.pluto.tv/series/641c66a94f1ca3001a8759a1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619d5e6a093e7c0007489211" start="20260604130900 +0000" stop="20260604160000 +0000">
         <title>Baby Shark TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39250,7 +39982,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Carly saca una B en el examen de Historia pero está convencida que había sacado una A. Sam encuentra la oportunidad durante su reunión semanal con el Director Franklin, y cambia la nota de Carly en la computadora</desc>
         <icon src="https://images.pluto.tv/series/61a6280c178ebd00137ae300/tile_1769210641547.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="620ff0a01f9e8700076c6f9d" start="20260604120600 +0000" stop="20260604160000 +0000">
+    <programme channel="620ff0a01f9e8700076c6f9d" start="20260604120600 +0000" stop="20260604123400 +0000">
+        <title>iCarly</title>
+        <desc>Una compañía de televisión le ofrece al equipo de iCarly estar en la televisión, los chicos aceptan encantados. Pero rápidamente las cosas comienzan a cambiar</desc>
+        <icon src="https://images.pluto.tv/series/61a6280c178ebd00137ae300/tile_1769210641547.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620ff0a01f9e8700076c6f9d" start="20260604123400 +0000" stop="20260604130200 +0000">
+        <title>iCarly</title>
+        <desc>Sam se pone de novia con el mejor amigo de Freddie, Jonah y ambos se vuelven inseparables. Después de que pasen mucho tiempo juntos, Sam le presta más atención a Jonah que al show de iCarly</desc>
+        <icon src="https://images.pluto.tv/series/61a6280c178ebd00137ae300/tile_1769210641547.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620ff0a01f9e8700076c6f9d" start="20260604130200 +0000" stop="20260604160000 +0000">
         <title>Nickelodeon iCarly</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39260,7 +40002,12 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Bob Esponja Pantalones Cuadrados</desc>
         <icon src="https://images.pluto.tv/series/67ad2e6e8344dd93339b7e69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6254598f5083f800076d8563" start="20260604130000 +0000" stop="20260604160000 +0000">
+    <programme channel="6254598f5083f800076d8563" start="20260604130000 +0000" stop="20260604140000 +0000">
+        <title>Bob Esponja Pantalones Cuadrados</title>
+        <desc>Bob Esponja Pantalones Cuadrados</desc>
+        <icon src="https://images.pluto.tv/series/67ad2e6e8344dd93339b7e69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6254598f5083f800076d8563" start="20260604140000 +0000" stop="20260604160000 +0000">
         <title>Bob Esponja Pantalones Cuadrados</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6254598f5083f800076d8563/featuredImage_1778796635918.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39270,7 +40017,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Mello irrumpe en el cuartel de SPK para recuperar una foto suya y asegurarse de no ser asesinado por Kira, a cambio de que Near le regrese la foto, Mello le cuenta una pista importante sobre los Death Notes: algunas de las reglas son falsas.</desc>
         <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="626c2ed933a2890007e91422" start="20260604122800 +0000" stop="20260604160000 +0000">
+    <programme channel="626c2ed933a2890007e91422" start="20260604122800 +0000" stop="20260604125800 +0000">
+        <title>Death Note</title>
+        <desc>Near contacta al nuevo cuartel general de la fuerza especial y determina que Kira está entre sus miembros, solicita información interna y Aizawa comienza a sospechar de Light. Near sospecha que el nuevo L es en realidad Light Yagami y que Light es Kira.</desc>
+        <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="626c2ed933a2890007e91422" start="20260604125800 +0000" stop="20260604132800 +0000">
+        <title>Death Note</title>
+        <desc>La locutora de noticias estrella Kiyomi Takada se convierte en la vocera mundial de Kira, ella fue novia de Light en el colegio. Las sospechas de Aizawa sobre Light van en aumento.</desc>
+        <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="626c2ed933a2890007e91422" start="20260604132800 +0000" stop="20260604160000 +0000">
         <title>Death Note</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/626c2ed933a2890007e91422/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39280,7 +40037,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Papá desea tener una vida más simple y decide convertir la casa de los Turner en una granja./Cuando comienzan a aparecer los monstruos en Dimmsdale, el Señor Crocker inicia un show para exponerlos.</desc>
         <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile_1769236201191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6322099c822bbc00074857db" start="20260604120400 +0000" stop="20260604160000 +0000">
+    <programme channel="6322099c822bbc00074857db" start="20260604120400 +0000" stop="20260604123200 +0000">
+        <title>The Fairly Oddparents LT</title>
+        <desc>Papá transforma la habitación de Timmy en un centro de vigilancia para demostrar que sus vecinos amorosos,los Dinkleberg, son realmente unos demonios./¡Regresó Foop! Esta vez,está intentando ser el chico más popular en la escuela.</desc>
+        <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile_1769236201191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6322099c822bbc00074857db" start="20260604123200 +0000" stop="20260604130100 +0000">
+        <title>The Fairly Oddparents LT</title>
+        <desc>Poof y Foop compiten para ganar el cariño de Goldie Goldenglow,una nueva niña mágia en la Escuela Spellementary, mientras participan en la obra de teatro escular "El día feliz del señor Cookie".</desc>
+        <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile_1769236201191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6322099c822bbc00074857db" start="20260604130100 +0000" stop="20260604160000 +0000">
         <title>Los Padrinos Mágicos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6322099c822bbc00074857db/featuredImage_1767810452011.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39290,7 +40057,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Destructor, con su nueva forma, prepara algo grande en contra de Splinter. Por primera vez las tortugas se encuentran con algo que ellos no pueden derrotar.</desc>
         <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile_1769238721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63dd5d7a4e83e700088fbca8" start="20260604122200 +0000" stop="20260604160000 +0000">
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20260604122200 +0000" stop="20260604124900 +0000">
+        <title>Teenage Mutant Ninja Turtles LT</title>
+        <desc>El equipo de las Tortugas debe buscar a su Sensei, pero luego se dan cuenta de que ellos también están siendo perseguidos.</desc>
+        <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile_1769238721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20260604124900 +0000" stop="20260604131600 +0000">
+        <title>Teenage Mutant Ninja Turtles LT</title>
+        <desc>Preocupado por Abril, Donatello decide ponerla a prueba, sólo para descubrir que sus habilidades psíquicas están creciendo rápidamente en poder.</desc>
+        <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile_1769238721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20260604131600 +0000" stop="20260604160000 +0000">
         <title>Las Tortugas Ninja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/featuredImage_1768926025035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39300,7 +40077,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
         <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645952687cb4b100084ed52e" start="20260604120700 +0000" stop="20260604160000 +0000">
+    <programme channel="645952687cb4b100084ed52e" start="20260604120700 +0000" stop="20260604123700 +0000">
+        <title>Nickelodeon Toons</title>
+        <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+        <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645952687cb4b100084ed52e" start="20260604123700 +0000" stop="20260604130700 +0000">
+        <title>Nickelodeon Toons</title>
+        <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+        <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645952687cb4b100084ed52e" start="20260604130700 +0000" stop="20260604160000 +0000">
         <title>Nickelodeon Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/645952687cb4b100084ed52e/featuredImage_1755273609270.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39310,7 +40097,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>¡He aquí el enigmático Ataque Eiffel de Francia! El equipo de Japón está listo, pero Pierre y Napoleón van con todo. El trabajo de pase perfecto es prueba de la fuerza francesa en su camino hacia la portería. ¿Podrá Tsubasa reanimar al equipo?</desc>
         <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64666345f3f5b1000882bfb4" start="20260604122200 +0000" stop="20260604160000 +0000">
+    <programme channel="64666345f3f5b1000882bfb4" start="20260604122200 +0000" stop="20260604125100 +0000">
+        <title>Captain Tsubasa: Junior Youth Arc</title>
+        <desc>Gracias a Misaki, el marcador está empatado, dando inicio al primer tiempo extra del partido. El entrenador Mikami se ha quedado sin suplentes y todos están muy cansados. Ahora los peores temores de Japón se han hecho realidad. Las cosas no se ven bien…</desc>
+        <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64666345f3f5b1000882bfb4" start="20260604125100 +0000" stop="20260604132000 +0000">
+        <title>Captain Tsubasa: Junior Youth Arc</title>
+        <desc>Es tiempo extra y Hyuga está preparado para luchar. Ahora enfrenta a Pierre, pero su pierna gravemente herida le impide mantener el control del balón. Francia continúa lanzando una feroz ola de ataques. Mientras tanto, Wakashimazu se retuerce de dolor.</desc>
+        <icon src="https://images.pluto.tv/series/651aea8505bcdf001ac1bebe/tile_1769464441747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64666345f3f5b1000882bfb4" start="20260604132000 +0000" stop="20260604160000 +0000">
         <title>Captain Tsubasa</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39320,7 +40117,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>El Equipo Yamato se dirige a apoyar al Equipo Kakashi. Antes de partir, Naruto recibe una pista para perfeccionar su nuevo jutsu entrando al estómago de Gamatatsu.</desc>
         <icon src="https://images.pluto.tv/series/5ed68438af4720001a024113/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c92fea3c3344000869e8a9" start="20260604120600 +0000" stop="20260604160000 +0000">
+    <programme channel="64c92fea3c3344000869e8a9" start="20260604120600 +0000" stop="20260604123500 +0000">
+        <title>Naruto Shippuden: El Laberinto De Reflejos Distorsionados</title>
+        <desc>De los resultados del análisis de los Insectos Parásitos cristalizados, los enemigos peleando contra el equipo de Kakashi son identificados como usuarios del Estilo de Cristal, un raro tipo de jutsu.</desc>
+        <icon src="https://images.pluto.tv/series/5ed68438af4720001a024113/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c92fea3c3344000869e8a9" start="20260604123500 +0000" stop="20260604130400 +0000">
+        <title>Naruto Shippuden: El Objetivo Aparece</title>
+        <desc>Destruyendo el campo de fuerza con su recientemente dominado jutsu de colaboración con los sapos, Naruto y los refuerzos llegan al sitio de batalla</desc>
+        <icon src="https://images.pluto.tv/series/5ed68438af4720001a024113/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c92fea3c3344000869e8a9" start="20260604130400 +0000" stop="20260604160000 +0000">
         <title>Naruto Shippuden</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39330,7 +40137,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Boruto y el otro genin de la Hoja regresan a la Aldea de la Hoja con Mitsuki</desc>
         <icon src="https://images.pluto.tv/series/65240b9f4827fc001a05ae1d/tile_1769464802152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="656f37f257fe4a000884dfee" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="656f37f257fe4a000884dfee" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Boruto: Naruto Next Generations</title>
+        <desc>Boruto y su hermana Himawari esperan el Día de padres e hijos con anticipación.</desc>
+        <icon src="https://images.pluto.tv/series/65240b9f4827fc001a05ae1d/tile_1769464802152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656f37f257fe4a000884dfee" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Boruto: Naruto Next Generations</title>
+        <desc>Boruto se encuentra con un concurso de comida, organizado por los restaurantes populares en la Hoja para el Día de Padres e Hijos.</desc>
+        <icon src="https://images.pluto.tv/series/65240b9f4827fc001a05ae1d/tile_1769464802152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656f37f257fe4a000884dfee" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Boruto: Naruto Next Generations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39340,7 +40157,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Episodio de recapitulación.</desc>
         <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d916a2f7f0af0008b6540d" start="20260604121500 +0000" stop="20260604160000 +0000">
+    <programme channel="65d916a2f7f0af0008b6540d" start="20260604121500 +0000" stop="20260604124500 +0000">
+        <title>Hunter x Hunter LT</title>
+        <desc>Los participantes se dirigen a la Isla Zevil, el sitio de la Cuarta Fase.</desc>
+        <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d916a2f7f0af0008b6540d" start="20260604124500 +0000" stop="20260604131500 +0000">
+        <title>Hunter x Hunter LT</title>
+        <desc>Gon espera la oportunidad perfecta para robar la placa de Hisoka.</desc>
+        <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d916a2f7f0af0008b6540d" start="20260604131500 +0000" stop="20260604160000 +0000">
         <title>Hunter x Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39350,7 +40177,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Inuyasha visita el lugar de trabajo de Totosai. La Tetsusaiga fue rota por Goshinki, y el colmillo de Inuyasha fue usado para repararlo, pero el colmillo no es compatible con el de su gran padre demonio, por lo que la Tetsusaiga se ha vuelto más pesada.</desc>
         <icon src="https://images.pluto.tv/series/64a83d8df56d820013a09168/tile_1769549401567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b26665d512590008c507b7" start="20260604121700 +0000" stop="20260604160000 +0000">
+    <programme channel="66b26665d512590008c507b7" start="20260604121700 +0000" stop="20260604124700 +0000">
+        <title>Inuyasha LT</title>
+        <desc>Ryukotsusei derriba a la Tetsusaiga, e Inuyasha se transforma en un demonio. Totosai les dice a todos que se retiren porque están en peligro, pero Kagome decide quedarse atrás.</desc>
+        <icon src="https://images.pluto.tv/series/64a83d8df56d820013a09168/tile_1769549401567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b26665d512590008c507b7" start="20260604124700 +0000" stop="20260604131700 +0000">
+        <title>Inuyasha LT</title>
+        <desc>En un pueblo determinado, Shippo conoce a una chica llamada Satsuki. Ella cree que su hermano, que fue a la guerra, regresará. Ella le muestra a Shippo el tesoro que su hermano le dio, un fragmento de Joya Sagrada, pero es solo una flor hecha de piedra.</desc>
+        <icon src="https://images.pluto.tv/series/64a83d8df56d820013a09168/tile_1769549401567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b26665d512590008c507b7" start="20260604131700 +0000" stop="20260604160000 +0000">
         <title>Inuyasha</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b26665d512590008c507b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39360,7 +40197,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Avdol diseña un plan para contrarrestar los ataques del Stand de agua, pero el enemigo se les adelanta. Mientras, el supuesto ayudante se queda dormido durante la pelea.</desc>
         <icon src="https://images.pluto.tv/series/65bd42b9b65b870013b0bd02/tile_1769467681643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c790f780a0af0008583aa4" start="20260604120600 +0000" stop="20260604160000 +0000">
+    <programme channel="66c790f780a0af0008583aa4" start="20260604120600 +0000" stop="20260604123600 +0000">
+        <title>JoJo's Bizarre Adventure</title>
+        <desc>Kakyoin y Avdol buscan tratamiento médico mientras el resto de los hombres entra sin darse cuenta en un bar donde les esperan dos hermanos usuarios de Stand.</desc>
+        <icon src="https://images.pluto.tv/series/65bd42b9b65b870013b0bd02/tile_1769467681643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c790f780a0af0008583aa4" start="20260604123600 +0000" stop="20260604130500 +0000">
+        <title>JoJo's Bizarre Adventure</title>
+        <desc>Tras encontrar una misteriosa espada, al joven Chaka se le transforma la personalidad. Entretanto, Jotaro y el grupo ponen rumbo a El Cairo.</desc>
+        <icon src="https://images.pluto.tv/series/65bd42b9b65b870013b0bd02/tile_1769467681643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c790f780a0af0008583aa4" start="20260604130500 +0000" stop="20260604160000 +0000">
         <title>JoJo’s Bizarre Adventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39370,7 +40217,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>En el aniversario del día en el que se fueron sus padres, Arnold se encontraba muy triste y decidió guardar toda pertenencia que le hiciera recordar a sus padres. Mientras guardaba la caja, Arnold se encontró con un diario de su padre.</desc>
         <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile_1769235480941.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c79221b1a34600087e264d" start="20260604120900 +0000" stop="20260604160000 +0000">
+    <programme channel="66c79221b1a34600087e264d" start="20260604120900 +0000" stop="20260604123700 +0000">
+        <title>Hey Arnold! LT</title>
+        <desc>En la continuación del relato, ambos padres de Arnold se adentran en la selva sobre las montañas volcánicas de San Lorenzo donde vieron por última vez una señal de los misteriosos ojos verdes.</desc>
+        <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile_1769235480941.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c79221b1a34600087e264d" start="20260604123700 +0000" stop="20260604130600 +0000">
+        <title>Hey Arnold! LT</title>
+        <desc>Arnold y Gerald actuarán de banana y fresa en la obra escolar, los cuatro grupos alimenticios, dirigida por Helga. Ellos deciden escapar de la obra y faltar / Arnold accidentalmente arruina la nueva bicicleta de Eugene</desc>
+        <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile_1769235480941.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c79221b1a34600087e264d" start="20260604130600 +0000" stop="20260604160000 +0000">
         <title>Hey Arnold!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c79221b1a34600087e264d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39380,7 +40237,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Cuando Toph descubre una forma rápida de ganar dinero, Katara expresa su desacuerdo y la brecha entre ellas tiene consecuencias desastrosas.</desc>
         <icon src="https://images.pluto.tv/series/65c4db93a40ff70013e98095/tile_1780403761438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6759ee82bd523200083b4f0f" start="20260604122300 +0000" stop="20260604160000 +0000">
+    <programme channel="6759ee82bd523200083b4f0f" start="20260604122300 +0000" stop="20260604125200 +0000">
+        <title>Avatar: The Last Airbender</title>
+        <desc>Los niños investigan misteriosas desapariciones en una ciudad fantasmagórica. Katara conoce a una Maestra Agua que le enseña una técnica de agua control prohibida.</desc>
+        <icon src="https://images.pluto.tv/series/65c4db93a40ff70013e98095/tile_1780403761438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6759ee82bd523200083b4f0f" start="20260604125200 +0000" stop="20260604132100 +0000">
+        <title>Avatar: The Last Airbender</title>
+        <desc>En la víspera del eclipse, la ansiedad de Aang saca lo peor de él. Sus sueños se convierten en pesadillas y pronto ya no puede distinguir el sueño de la realidad.</desc>
+        <icon src="https://images.pluto.tv/series/65c4db93a40ff70013e98095/tile_1780403761438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6759ee82bd523200083b4f0f" start="20260604132100 +0000" stop="20260604160000 +0000">
         <title>Avatar: La Leyenda de Aang</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39390,7 +40257,17 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico.</desc>
         <icon src="https://images.pluto.tv/series/682487021295f98347f21bd8/tile_1747224326890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6824cda00101510f9eeaa011" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="6824cda00101510f9eeaa011" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Nickelodeon Clásico</title>
+        <desc>Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico.</desc>
+        <icon src="https://images.pluto.tv/series/682487021295f98347f21bd8/tile_1747224326890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6824cda00101510f9eeaa011" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Nickelodeon Clásico</title>
+        <desc>Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico.</desc>
+        <icon src="https://images.pluto.tv/series/682487021295f98347f21bd8/tile_1747224326890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6824cda00101510f9eeaa011" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Nickelodeon Clásico</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/featuredImage_1750110889416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39400,12 +40277,27 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>¡Ash se ha rezagado en la batalla completa contra Katie! ¿Podrá recuperarse y llegar a la segunda ronda?</desc>
         <icon src="https://images.pluto.tv/series/69b000b87596d5087d21058a/tile_1773142201142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6870072ca9d5c45c3e9466f1" start="20260604121400 +0000" stop="20260604160000 +0000">
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20260604121400 +0000" stop="20260604123900 +0000">
+        <title>Pokémon: Advanced Battle</title>
+        <desc>¡Ash enfrenta a su amigo y rival Morrison en la segunda ronda de la Liga Hoenn!</desc>
+        <icon src="https://images.pluto.tv/series/69b000b87596d5087d21058a/tile_1773142201142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20260604123900 +0000" stop="20260604130400 +0000">
+        <title>Pokémon: Advanced Battle</title>
+        <desc>¡Ash se enfrenta a su rival Tyson en los cuartos de final de la Liga Hoenn!</desc>
+        <icon src="https://images.pluto.tv/series/69b000b87596d5087d21058a/tile_1773142201142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20260604130400 +0000" stop="20260604160000 +0000">
         <title>Pokémon</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/featuredImage_1752173303959.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f85ca40eda1b10007b967cd" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="5f85ca40eda1b10007b967cd" start="20260604120000 +0000" stop="20260604130000 +0000">
+        <title>Conciertos por Strigray</title>
+        <desc>Llegaron los conciertos y documentales musicales a Pluto TV con las estrellas de hoy y las leyendas de siempre como Queen, Bruce Springsteen, Enrique Iglesias, Imagine Dragons, Katy Perry y muchos más, solo en Pluto TV Conciertos por Stingray.</desc>
+        <icon src="https://images.pluto.tv/series/5f9ac193a7b3a1000735ffd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f85ca40eda1b10007b967cd" start="20260604130000 +0000" stop="20260604160000 +0000">
         <title>Conciertos por Stingray</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39420,22 +40312,42 @@ Mutant Busters :: Ep. 36 Misión: shopping</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="62b218fc511d4b00070ddc0c" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="62b218fc511d4b00070ddc0c" start="20260604120000 +0000" stop="20260604140000 +0000">
+        <title>MTV Flow Latino</title>
+        <desc>Sumérgete en los ritmos que te aceleran el corazón y las melodías vibrantes de las estrellas más grandes de la música latina.</desc>
+        <icon src="https://images.pluto.tv/series/6504879f0f28f00008692cc5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b218fc511d4b00070ddc0c" start="20260604140000 +0000" stop="20260604160000 +0000">
         <title>MTV Flow Latino</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="63dac1b78795f300086d5ca6" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="63dac1b78795f300086d5ca6" start="20260604120000 +0000" stop="20260604130000 +0000">
+        <title>TikTok Radio Latam</title>
+        <desc>TBC</desc>
+        <icon src="https://images.pluto.tv/series/687041463ffa5e0c9146f9d7/tile_1752187219994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dac1b78795f300086d5ca6" start="20260604130000 +0000" stop="20260604160000 +0000">
         <title>TikTok Radio en Español</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/featuredImage_1758309480507.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66a01b52a4ee27000808ea36" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="66a01b52a4ee27000808ea36" start="20260604115000 +0000" stop="20260604122200 +0000">
+        <title>Rock Anthems of the Century</title>
+        <desc>Boulevard Of Broken Dreams (Green Day) / Many Of Horror (Biffy Clyro) / Mountain At My Gates (Foals) / Sugar We're Going Down (Fall Out Boy) / Youth Of The Nation (P.O.D) / Last Resort (Papa Roach) / The Bitter End (Placebo)</desc>
+        <icon src="https://images.pluto.tv/series/66993bec17101c0013f32593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a01b52a4ee27000808ea36" start="20260604122200 +0000" stop="20260604160000 +0000">
         <title>MTV Rocks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66a11a21a79dea0008aa90ca" start="20260604120000 +0000" stop="20260604160000 +0000">
+    <programme channel="66a11a21a79dea0008aa90ca" start="20260604112300 +0000" stop="20260604122300 +0000">
+        <title>MTV Classic</title>
+        <desc>MTV Classic</desc>
+        <icon src="https://images.pluto.tv/series/68d1871474f43c4c1fd00998/tile_1758562076551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a11a21a79dea0008aa90ca" start="20260604122300 +0000" stop="20260604160000 +0000">
         <title>MTV Classic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
