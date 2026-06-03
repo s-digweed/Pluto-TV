@@ -7181,6 +7181,11 @@ Florentin et Amélie surveillent les plantes exotiques invasives qui se dévelop
         <desc>Collection Spéciale de Chouchou et Loulou en Vacances</desc>
         <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260603222741 +0000" stop="20260603224941 +0000">
+        <title>Un Gars Une Fille: Alex et Jean partent à L'ile Maurice (2)</title>
+        <desc>Alex et Jean partent à L'ile Maurice (2)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6304f2e2eb10450007298023" start="20260603160000 +0000" stop="20260603163000 +0000">
         <title>Un Village Français</title>
         <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
@@ -15157,9 +15162,9 @@ Une femelle guépard présente un abcès à une dent qu'il faut absolument soign
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260603203000 +0000" stop="20260603213600 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>DAZN Ringside</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260603213600 +0000" stop="20260603223800 +0000">
         <title>Boxing</title>
@@ -29773,6 +29778,11 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Six players compete at the Bicycle Casino in Los Angeles for the $500,000 first-place prize in the WPT Legends of Poker.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260604123700 +0000" stop="20260604150900 +0000">
+        <title>World Poker Tour: WPT Grand Prix de Paris</title>
+        <desc>Six players compete in Paris for the more than $475,000 first-place prize in the WPT Grand Prix de Paris.</desc>
+        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60afa1508284e60007163c08" start="20260604073200 +0000" stop="20260604080200 +0000">
         <title>Juste pour rire GAGS</title>
         <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
@@ -29978,6 +29988,11 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/69172310f17cb9c145a81039/tile_1763131342552.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66fd35e44ca31f0008060b77" start="20260604121500 +0000" stop="20260604164500 +0000">
+        <title>The Crucible Cup</title>
+        <desc>Live Snooker 900, une version innovante, rapide et palpitante du billard ! Chaque semaine, des joueurs légendaires s'affrontent dans des tournois captivants.</desc>
+        <icon src="https://images.pluto.tv/series/69d8e0037f004573bea002c5/tile_1775820809537.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="671643fc5534bb00089187ad" start="20260604073900 +0000" stop="20260604081000 +0000">
         <title>Tungsten Talk</title>
         <desc>Scott Mitchell and Paul Nicholson reflect on the story of Gerwyn Price discussing his career and achievements.</desc>
@@ -30063,7 +30078,22 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Lorsqu'une grande entreprise fait un don à l'école, les étudiants de Hester protestent. Soleil, le copain de &amp;quot;promance&amp;quot; de Liam, rend Karma jalouse alors qu'Amy cherche un petit ami secret.</desc>
         <icon src="https://images.pluto.tv/series/66bb5e702cb3a00013c27be8/tile_1768264204696.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260604120557 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260604120557 +0000" stop="20260604123018 +0000">
+        <title>Faking It</title>
+        <desc>Shane aide Amy à déterminer si elle aime les filles ou les garçons tandis que Liam aide au camion de jus de fruits des parents de Karma qu'ils ont garé à l'école.</desc>
+        <icon src="https://images.pluto.tv/series/66bb5e702cb3a00013c27be8/tile_1768264204696.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260604123018 +0000" stop="20260604125409 +0000">
+        <title>Faking It</title>
+        <desc>Le week-end entre filles d'Amy et Karma est interrompu par la fête de la mariée de Farrah. Après son échec avec Karma, Liam demande à Shane de chercher de nouvelles perspectives.</desc>
+        <icon src="https://images.pluto.tv/series/66bb5e702cb3a00013c27be8/tile_1768264204696.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260604125409 +0000" stop="20260604131800 +0000">
+        <title>Faking It</title>
+        <desc>Amy accepte un plan à trois avec Liam et Karma. Shane remplace Pablo, le partenaire de danse sexy de Lauren, dans une compétition de danse.</desc>
+        <icon src="https://images.pluto.tv/series/66bb5e702cb3a00013c27be8/tile_1768264204696.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260604131800 +0000" stop="20260604160000 +0000">
         <title>Series by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/featuredImage_1775048963457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30073,7 +30103,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Lorsque deux garçons juifs sont enlevés alors qu'ils se rendaient à la pratique religieuse, leurs parents se disputent pour savoir où se trouve vraiment le blâme. Fredrika est enceinte de sept mois, mais son bonheur est gâché par le nouveau cas.</desc>
         <icon src="https://images.pluto.tv/series/694a9ac0d405d15a958237c5/tile_1766496962827.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260604123006 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260604123006 +0000" stop="20260604132021 +0000">
+        <title>Stockholm Requiem</title>
+        <desc>Une légende israélienne raconte l'histoire du Paper Boy qui s'anime la nuit et prend ses victimes. Ce qui semble initialement être un crime de haine raciste semble être lié à ce mythe. Il est de nouveau vivant et veut se venger</desc>
+        <icon src="https://images.pluto.tv/series/694a9ac0d405d15a958237c5/tile_1766496962827.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260604132021 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Polar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30083,7 +30118,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Le camion cellulaire de Trivette est emporté par un ouragan et tous les détenus s'évadent...</desc>
         <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afa749ac7f3200078adb40" start="20260604121200 +0000" stop="20260604160000 +0000">
+    <programme channel="60afa749ac7f3200078adb40" start="20260604121200 +0000" stop="20260604130500 +0000">
+        <title>Walker Texas Ranger: Au nom de Dieu</title>
+        <desc>Un vieux copain demande à Walker de l'aider. Sa fille est retenue prisonnière par le leader charismatique d'une secte...</desc>
+        <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa749ac7f3200078adb40" start="20260604130500 +0000" stop="20260604160000 +0000">
         <title>Walker Texas Ranger</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30093,7 +30133,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>L’anniversaire de Mitch est la parfaite occasion pour lui de s’inscrire à une compétition sportive, malgré sa rencontre avec une femme plus jeune. Matt prend un travail de nuit pour économiser et s’acheter une nouvelle moto…</desc>
         <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1774606703899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afaa535580be0007ac9ee4" start="20260604121000 +0000" stop="20260604160000 +0000">
+    <programme channel="60afaa535580be0007ac9ee4" start="20260604121000 +0000" stop="20260604125700 +0000">
+        <title>Alerte à Malibu: Drôle de sirène</title>
+        <desc>Un nouveau sauveteur aide Mitch et l’équipe à arrêter les activités criminelles d’un gang, tandis que CJ tombe sous le charme d’un magicien, qu’elle sauve d’un tour sous-marin raté.</desc>
+        <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1774606703899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afaa535580be0007ac9ee4" start="20260604125700 +0000" stop="20260604134400 +0000">
+        <title>Alerte à Malibu: Les enfants de Neptune</title>
+        <desc>Les sauveteurs de la plage organisent les Olympiades de Malibu et se rapprochent de deux athlètes abandonnés par leurs parents.</desc>
+        <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1774606703899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afaa535580be0007ac9ee4" start="20260604134400 +0000" stop="20260604160000 +0000">
         <title>Alerte à Malibu</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30103,7 +30153,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Alors que Poplar se réjouit d'un Noël blanc, un SOS inattendu du vaisseau-mère interrompt les festivités. La clinique de l'Espoir, un minuscule hôpital lié à l'Ordre est menacée de fermeture.</desc>
         <icon src="https://images.pluto.tv/series/6135d782b85cc200138f8343/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d35a74c63c3c0008df6a90" start="20260604124051 +0000" stop="20260604160000 +0000">
+    <programme channel="60d35a74c63c3c0008df6a90" start="20260604124051 +0000" stop="20260604133051 +0000">
+        <title>Call The Midwife - SOS sages-femmes: Noël 2016: Épisode 2</title>
+        <desc>La clinique africaine pose de nombreux problèmes. L'équipe est à la fois choquée et motivée par les défis qu'elle rencontre.</desc>
+        <icon src="https://images.pluto.tv/series/6135d782b85cc200138f8343/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d35a74c63c3c0008df6a90" start="20260604133051 +0000" stop="20260604160000 +0000">
         <title>BBC Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/featuredImage_1771579997925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30113,7 +30168,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Marco est désemparé après le départ de Dylan. Plus rien ne l’intéresse.</desc>
         <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e71322f5f180007001dde" start="20260604121600 +0000" stop="20260604160000 +0000">
+    <programme channel="611e71322f5f180007001dde" start="20260604121600 +0000" stop="20260604124100 +0000">
+        <title>Degrassi : La Nouvelle Génération: Le Bar d'à côté, 1ère partie</title>
+        <desc>Alex et sa mère Emily sont dans le pétrin. Chad, le petit ami d’Emily, a accumulé des milliers de dollars de dettes et ne paie plus le loyer.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260604124100 +0000" stop="20260604130600 +0000">
+        <title>Degrassi : La Nouvelle Génération: Le Bar d'à côté, 2e partie</title>
+        <desc>La double vie d’Alex lui rapporte enfin l’argent désiré, mais toutes ces cachotteries affectent son travail scolaire et ses liens avec Paige.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260604130600 +0000" stop="20260604160000 +0000">
         <title>Degrassi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e71322f5f180007001dde/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30123,7 +30188,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
         <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile_1776895861920.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6245ccd0c6cdb800074632e4" start="20260604122900 +0000" stop="20260604160000 +0000">
+    <programme channel="6245ccd0c6cdb800074632e4" start="20260604122900 +0000" stop="20260604132500 +0000">
+        <title>MacGyver: Les Pollueurs</title>
+        <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
+        <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile_1776895861920.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6245ccd0c6cdb800074632e4" start="20260604132500 +0000" stop="20260604160000 +0000">
         <title>MacGyver</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30133,7 +30203,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Aidan se souvient de sa femme alors qu'il devient de plus en plus malade. Sally lutte avec une faim qu'elle n'a jamais ressentie auparavant.</desc>
         <icon src="https://images.pluto.tv/series/6076f019f6870e001a5cd286/tile_1768081334476.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="625ec7a1c853fd00073b38fd" start="20260604124451 +0000" stop="20260604160000 +0000">
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260604124451 +0000" stop="20260604133251 +0000">
+        <title>Being Human: Pour ceux sur le point de pourrir</title>
+        <desc>Josh apprend qu'Aidan a fait un sacrifice pour le protéger, lui et Nora. Sally découvre le destin de Nick et Stevie, et le rendez-vous d'Aidan avec Kat lui fait se souvenir de sa femme et de son fils.</desc>
+        <icon src="https://images.pluto.tv/series/6076f019f6870e001a5cd286/tile_1768081334476.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260604133251 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Séries Fantastiques</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/featuredImage_1775048560569.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30143,7 +30218,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Sami et Tom assistent à un vol de voiture de luxe dans une station-service. Les malfaiteurs parviennent à s'échapper avec la cargaison mais perdent l'un des leurs. Pour le remplacer, ils font appel à Sven, un ancien coureur automobile.</desc>
         <icon src="https://images.pluto.tv/series/6363640d8515d300131c95b3/tile_1774603441178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e4bc08f5ec000744f552" start="20260604123300 +0000" stop="20260604160000 +0000">
+    <programme channel="62f3e4bc08f5ec000744f552" start="20260604123300 +0000" stop="20260604132800 +0000">
+        <title>Alerte Cobra un duo explosif: A clochepied</title>
+        <desc>Un convoi de fonds a été attaqué mais celui-ci ne contenait que des sacs de pièces de vingt centimes. Les malfaiteurs décident de récidiver. Tom enquête sur l'affaire seul car Sami a une jambe dans le plâtre.</desc>
+        <icon src="https://images.pluto.tv/series/6363640d8515d300131c95b3/tile_1774603441178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e4bc08f5ec000744f552" start="20260604132800 +0000" stop="20260604160000 +0000">
         <title>Alerte Cobra</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30153,7 +30233,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Harm est désemparé lorsque son demi-frère Sergei, récemment découvert, est accusé d'un crime passible de la peine de mort, tandis que Mac arrive en Russie pour empêcher l'assassinat d'un président.</desc>
         <icon src="https://images.pluto.tv/series/6641efe0af79c70013dc9ce7/tile_1768263484851.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65ccd26060eb870008db95fc" start="20260604123823 +0000" stop="20260604160000 +0000">
+    <programme channel="65ccd26060eb870008db95fc" start="20260604123823 +0000" stop="20260604132726 +0000">
+        <title>Jag: Florida Straits</title>
+        <desc>A US frigate rescues and takes aboard a 12-year-old Cuban girl clinging to floating debris; internal and international squabbling ensues. Harm and Bud fly out and lend a hand. The girl takes some big steps. Mac and Mic talk more.</desc>
+        <icon src="https://images.pluto.tv/series/6641efe0af79c70013dc9ce7/tile_1768263484851.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ccd26060eb870008db95fc" start="20260604132726 +0000" stop="20260604160000 +0000">
         <title>JAG</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30168,7 +30253,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Un entraîneur se souvient de son propre passé douteux.</desc>
         <icon src="https://images.pluto.tv/series/68b1b6989889a990edff24e3/tile_1774603801094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cce23bdc10a400080645ad" start="20260604122610 +0000" stop="20260604160000 +0000">
+    <programme channel="65cce23bdc10a400080645ad" start="20260604122610 +0000" stop="20260604132307 +0000">
+        <title>Highway to Heaven</title>
+        <desc>Jonathan et Mark doivent aider un médecin à confronter un secret qu'il a caché.</desc>
+        <icon src="https://images.pluto.tv/series/68b1b6989889a990edff24e3/tile_1774603801094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce23bdc10a400080645ad" start="20260604132307 +0000" stop="20260604160000 +0000">
         <title>Les Routes du Paradis</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cce23bdc10a400080645ad/featuredImage_1756898911225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30178,7 +30268,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Alors que Charlotte hésite à la dernière minute à franchir le pas, Florian est bien décidé à parler à Nathalie. Franck et Blanche ont une dispute à propos du sexe de leur futur enfant.</desc>
         <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a6309307fa30008196b4e" start="20260604122542 +0000" stop="20260604160000 +0000">
+    <programme channel="662a6309307fa30008196b4e" start="20260604122542 +0000" stop="20260604125233 +0000">
+        <title>Plus Belle la Vie: Saison 4 Episode 4</title>
+        <desc>Alors que Malik tente de raisonner Marco par tous les moyens, Nathan a trouvé la solution miracle à tous ses problèmes d’argent. Quant à Diane, elle sensibilise Thibaud à la cause des orangs-outans.</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260604125233 +0000" stop="20260604131928 +0000">
+        <title>Plus Belle la Vie: Saison 4 Episode 5</title>
+        <desc>Alors que Jacques s’interroge sur l’attitude de Charlotte, Nathalie est décidée à laisser une chance à Florian. Quant à Nathan, il a bien du mal à ne pas se faire repérer…</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260604131928 +0000" stop="20260604160000 +0000">
         <title>Plus Belle la Vie 2</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a6309307fa30008196b4e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30188,7 +30288,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Un chien qui collectionne des timbres rares - sur commande du FMI - figure dans un périlleux voyage vers le fief d'un baron des stupéfiants.</desc>
         <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6671b21ffc3a46000857fe75" start="20260604120240 +0000" stop="20260604160000 +0000">
+    <programme channel="6671b21ffc3a46000857fe75" start="20260604120240 +0000" stop="20260604125959 +0000">
+        <title>Mission: Impossible</title>
+        <desc>Pour calmer un foyer de troubles au Moyen-Orient, le FMI essaie de garder un homme en prison assez longtemps pour donner l'impression qu'il essaie de s'évader.</desc>
+        <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b21ffc3a46000857fe75" start="20260604125959 +0000" stop="20260604135731 +0000">
+        <title>Mission: Impossible</title>
+        <desc>Le FMI cache un jeune prince aux assassins en le déguisant en gitane puis Paris entreprend de livrer le garçon à ses poursuivants.</desc>
+        <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b21ffc3a46000857fe75" start="20260604135731 +0000" stop="20260604160000 +0000">
         <title>Mission Impossible</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30198,7 +30308,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Bernard Girard, un truand qui vient de sortir de prison, est écrasé sur une petite route de campagne par un 4x4. Diane remonte la piste des anciens complices.</desc>
         <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile_1774604520913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6671b26836a2f90008d9333c" start="20260604122503 +0000" stop="20260604160000 +0000">
+    <programme channel="6671b26836a2f90008d9333c" start="20260604122503 +0000" stop="20260604141010 +0000">
+        <title>Diane Femme Flic</title>
+        <desc>Nicolas Guerineau, 35 ans, est retrouvé assassiné chez lui alors que la veille au soir il a rendu visite à la femme qu’il aurait dû épouser, Pauline Courtain, 28 ans, à son lieu de travail, une boîte à strip-tease à la mode.</desc>
+        <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile_1774604520913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b26836a2f90008d9333c" start="20260604141010 +0000" stop="20260604160000 +0000">
         <title>Diane, femme flic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30208,7 +30323,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Un monde post-apocalyptique sans concession. Plongez dans l'univers brutal de Z Nation et découvrez les conséquences d'une pandémie zombie. Entre survie, trahison et espoir, cette série vous fera réfléchir sur la nature humaine.</desc>
         <icon src="https://images.pluto.tv/series/66f536f0747bfa000851d803/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b227b446762a000846c208" start="20260604122414 +0000" stop="20260604160000 +0000">
+    <programme channel="66b227b446762a000846c208" start="20260604122414 +0000" stop="20260604125414 +0000">
+        <title>Z Nation</title>
+        <desc>Un monde post-apocalyptique sans concession. Plongez dans l'univers brutal de Z Nation et découvrez les conséquences d'une pandémie zombie. Entre survie, trahison et espoir, cette série vous fera réfléchir sur la nature humaine.</desc>
+        <icon src="https://images.pluto.tv/series/66f536f0747bfa000851d803/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b227b446762a000846c208" start="20260604125414 +0000" stop="20260604132414 +0000">
+        <title>Z Nation</title>
+        <desc>Un monde post-apocalyptique sans concession. Plongez dans l'univers brutal de Z Nation et découvrez les conséquences d'une pandémie zombie. Entre survie, trahison et espoir, cette série vous fera réfléchir sur la nature humaine.</desc>
+        <icon src="https://images.pluto.tv/series/66f536f0747bfa000851d803/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b227b446762a000846c208" start="20260604132414 +0000" stop="20260604160000 +0000">
         <title>Z Nation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b227b446762a000846c208/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30218,7 +30343,22 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Dans la maison de vacances d'Ally au Mexique, tout n'est que sexe, magouilles et secrets sur la plage.</desc>
         <icon src="https://images.pluto.tv/series/600a8532b2c9b7001a3e2cea/tile_1780413841384.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b498bc14a2bb00086965bc" start="20260604120018 +0000" stop="20260604160000 +0000">
+    <programme channel="66b498bc14a2bb00086965bc" start="20260604120018 +0000" stop="20260604122448 +0000">
+        <title>Blue Mountain State</title>
+        <desc>Les nerds du campus se révoltent, laissant les sportifs sur la touche sur le plan des études et provoquant une crise d'identité chez Sammy.</desc>
+        <icon src="https://images.pluto.tv/series/66acddf057d82b001347c06b/tile_1774605960777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b498bc14a2bb00086965bc" start="20260604122448 +0000" stop="20260604124919 +0000">
+        <title>Blue Mountain State</title>
+        <desc>Alex couche avec l'ex-femme du Coach Daniels sans savoir qui elle est, et se retrouve à servir de pion dans leur relation conflictuelle.</desc>
+        <icon src="https://images.pluto.tv/series/66acddf057d82b001347c06b/tile_1774605960777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b498bc14a2bb00086965bc" start="20260604124919 +0000" stop="20260604131350 +0000">
+        <title>Blue Mountain State</title>
+        <desc>Une fois le campus vide, Thad se lance dans une quête visionnaire pour l'aider à décider entre rester à BMS l'an prochain ou passer pro.</desc>
+        <icon src="https://images.pluto.tv/series/66acddf057d82b001347c06b/tile_1774605960777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b498bc14a2bb00086965bc" start="20260604131350 +0000" stop="20260604160000 +0000">
         <title>Pluto TV 2010's Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30228,7 +30368,22 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>A 16 ans, Sabrina apprend qu'elle est une sorcière, que son père vit dans un livre et que Salem - le chat de la maison - parle ! Passé le premier choc, elle accepte son destin et découvre ses nouveaux pouvoirs.</desc>
         <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1768263121344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b4990746762a00084c2f78" start="20260604120043 +0000" stop="20260604160000 +0000">
+    <programme channel="66b4990746762a00084c2f78" start="20260604120043 +0000" stop="20260604122536 +0000">
+        <title>Sabrina The Teenage Witch: Opération vérité</title>
+        <desc>Libby et ses amis répandent des rumeurs sur Sabrina et Jenny. L'apprentie-sorcière décide d'utiliser sa magie pour remédier au problème. Quelques gouttes de potion de vérité devraient faire l'affaire...</desc>
+        <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1768263121344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260604122536 +0000" stop="20260604125029 +0000">
+        <title>Sabrina The Teenage Witch: Sabrina Babysitter</title>
+        <desc>Les aventures sentimentales et magiques de Sabrina, une jeune sorcière en apprentissage...</desc>
+        <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1768263121344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260604125029 +0000" stop="20260604131513 +0000">
+        <title>Sabrina The Teenage Witch: Miss catastrophe</title>
+        <desc>Salem met au défi Sabrina d'utiliser sa magie pour réaliser trois bonnes actions avant la fin de la journée. Cependant ses tantes l'avertissent que toute action sur les humains peut avoir de terribles conséquences pour tous...</desc>
+        <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1768263121344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260604131513 +0000" stop="20260604160000 +0000">
         <title>Pluto TV 90's Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b4990746762a00084c2f78/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30238,7 +30393,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>L'équipe se retrouve dans une poursuite à grande vitesse après que des parents biologiques aient réclamé leur bébé à la famille adoptive. Le sergent Parker doit négocier non seulement la vie du bébé, mais aussi celle du père désespéré.</desc>
         <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile_1774604161192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d71ff86b63480008cf15c5" start="20260604124459 +0000" stop="20260604160000 +0000">
+    <programme channel="66d71ff86b63480008cf15c5" start="20260604124459 +0000" stop="20260604133439 +0000">
+        <title>Flashpoint</title>
+        <desc>L'équipe s'occupe d'un otage qui se transforme en ravisseur lorsque sa femme enceinte est utilisée pour le forcer à voler une banque. Le retour de Jules remet en question l'avenir de Donna au sein de la SRU.</desc>
+        <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile_1774604161192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71ff86b63480008cf15c5" start="20260604133439 +0000" stop="20260604160000 +0000">
         <title>Flashpoint</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30248,7 +30408,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Quand son informateur est tué, Erin s'en veut et part chercher son meurtrier avec Danny.</desc>
         <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55a9a747bfa0008521859" start="20260604120556 +0000" stop="20260604160000 +0000">
+    <programme channel="66f55a9a747bfa0008521859" start="20260604120556 +0000" stop="20260604125332 +0000">
+        <title>Blue Bloods</title>
+        <desc>Après le suicide d'une jeune femme, Danny et Jackie suspectent qu'on l'y ai poussée.</desc>
+        <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55a9a747bfa0008521859" start="20260604125332 +0000" stop="20260604133947 +0000">
+        <title>Blue Bloods</title>
+        <desc>Danny accompagne un dangereux ex-mafieux pour l'aider à retrouver des corps d'affaires classées en échange de l'allègement de la peine de son fils pour vol de voitures.</desc>
+        <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55a9a747bfa0008521859" start="20260604133947 +0000" stop="20260604160000 +0000">
         <title>Blue Bloods</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55a9a747bfa0008521859/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30258,7 +30428,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Scotty est impliqué dans un meurtre à la Jack l'Éventreur.</desc>
         <icon src="https://images.pluto.tv/series/680a222003a2ab14dac1e48e/tile_1768350980473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260604121229 +0000" stop="20260604160000 +0000">
+    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260604121229 +0000" stop="20260604130943 +0000">
+        <title>Star Trek</title>
+        <desc>Une machine qui détruit les planètes menace l'Enterprise.</desc>
+        <icon src="https://images.pluto.tv/series/680a222003a2ab14dac1e48e/tile_1768350980473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260604130943 +0000" stop="20260604160000 +0000">
         <title>Star Trek: The Original Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b3c51a5ca760802cc1c7/featuredImage_1752571354680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30268,7 +30443,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Une épidémie de vol de chaînes en or s'abat sur Brooklin et Chris s'interpose en empêchant Malvo de voler la chaîne de Vanessa.</desc>
         <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b4a21a5ca760802d25fd" start="20260604122009 +0000" stop="20260604160000 +0000">
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260604122009 +0000" stop="20260604124305 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Mme Morello annonce à la classe qu'elle sera absente pour cause d'enterrement. Chris et Greg, passionnés de cinéma, décident alors de sécher les cours pour aller voir le film Ghostbusters au cinéma...</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260604124305 +0000" stop="20260604130600 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Chris est face à un important dilemme : aller voir un match de baseball avec son père et son frère, ou accepter l'invitation de la charmante Tasha au cinéma...</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260604130600 +0000" stop="20260604160000 +0000">
         <title>Tout le monde déteste Chris</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/featuredImage_1747394750365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30278,7 +30463,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Alors que le capitaine Bonaventure vient interroger le propriétaire d’un bateau-restaurant sur les quais de Seine, le corps de ce dernier est retrouvé à fond de calle, une balle dans le cœur.</desc>
         <icon src="https://images.pluto.tv/series/5fd32d1ded4edc001bff87c0/tile_1767940204085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="684bf01df7d8b74b625b7dd1" start="20260604120150 +0000" stop="20260604160000 +0000">
+    <programme channel="684bf01df7d8b74b625b7dd1" start="20260604120150 +0000" stop="20260604133950 +0000">
+        <title>Sœur Therèse.com</title>
+        <desc>Agée de 18 ans, l’ange blond attendu que la Mère Supérieure n’a pas vue depuis des années, se révèle être devenue une punkette, qui se moque des études,et rêve de faire carrière dans le 7ème art.</desc>
+        <icon src="https://images.pluto.tv/series/5fd32d1ded4edc001bff87c0/tile_1767940204085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="684bf01df7d8b74b625b7dd1" start="20260604133950 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Brigade Criminelle</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/featuredImage_1753890939940.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30288,7 +30478,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Après les funérailles de Gwenn, Garret encourage Talon à monter sur le trône, mais celle-ci refuse. Falista rappelle à tous qu'il faut être de sang royal pour porter la couronne et qu'elle est la dernière héritière légitime du trône.</desc>
         <icon src="https://images.pluto.tv/series/684957d8590c735140387836/tile_1774604161147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d292d554c61bfff220a635" start="20260604123627 +0000" stop="20260604160000 +0000">
+    <programme channel="68d292d554c61bfff220a635" start="20260604123627 +0000" stop="20260604132301 +0000">
+        <title>The Outpost</title>
+        <desc>Falista est sur le trône, conseillée par Deux et Trois. Tobin devient le roi, mais ne voit pas d'un bon œil l'influence de Deux et Trois sur sa femme. Janzo apprend que Wren est enceinte.</desc>
+        <icon src="https://images.pluto.tv/series/684957d8590c735140387836/tile_1774604161147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d292d554c61bfff220a635" start="20260604132301 +0000" stop="20260604160000 +0000">
         <title>Flynn Carson et The Outpost</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d292d554c61bfff220a635/featuredImage_1761761926676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30298,7 +30493,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Igarashi touche le fond lorsqu'il perd sa famille et son travail. Il fuit la société en direction de Hinoshima. Il y rencontre Tonbo, la seule collégienne de l'île. Alors qu'il explore l'île, il sent une aura de golf, malgré l'absence de terrain de golf.</desc>
         <icon src="https://images.pluto.tv/series/66cc1f80d99fc700132ce3c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b3669c48674840c3b832a" start="20260604121616 +0000" stop="20260604160000 +0000">
+    <programme channel="691b3669c48674840c3b832a" start="20260604121616 +0000" stop="20260604124329 +0000">
+        <title>Tonbo!</title>
+        <desc>Accompagné de Tonbo, Igarashi visite le terrain de golf construit par les habitants de l’île. À la nuit tombée, Gonji invite Igarashi à contempler le ciel étoilé. Sous cette voûte éclatante, Tonbo révèle son passé...</desc>
+        <icon src="https://images.pluto.tv/series/66cc1f80d99fc700132ce3c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b3669c48674840c3b832a" start="20260604124329 +0000" stop="20260604131042 +0000">
+        <title>Tonbo!</title>
+        <desc>Tonbo a un talent incroyable pour le golf, ce qui surprend Igarashi. Il se remémore l'époque où il enseignait le golf à son fils Rintaro. Il est alors confronté au regret d'avoir privé Rintaro de "la joie de jouer au golf".</desc>
+        <icon src="https://images.pluto.tv/series/66cc1f80d99fc700132ce3c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b3669c48674840c3b832a" start="20260604131042 +0000" stop="20260604160000 +0000">
         <title>Pluto TV ANIME GO!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b3669c48674840c3b832a/featuredImage_1778491402325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30308,7 +30513,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Cambriolages, trafics ou drames familiaux : le quotidien du Commissariat Saint-Martin est rude. Sans être des super-héros, ces hommes et femmes luttent contre la criminalité en privilégiant la solidarité et le dialogue pour protéger la cité.</desc>
         <icon src="https://images.pluto.tv/series/69b16cf46d7de5ca36a5b1af/tile_1773235445789.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="692ec71425eaa17b6daf2a11" start="20260604121042 +0000" stop="20260604160000 +0000">
+    <programme channel="692ec71425eaa17b6daf2a11" start="20260604121042 +0000" stop="20260604130944 +0000">
+        <title>PJ</title>
+        <desc>Un sourd-muet vend des colifichets dans les cafés, et en profite pour faire les poches des consommateurs. Agathe et Alain interpellent cet habile pickpocket, et cherchent à identifier son commanditaire...</desc>
+        <icon src="https://images.pluto.tv/series/69b16cf46d7de5ca36a5b1af/tile_1773235445789.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="692ec71425eaa17b6daf2a11" start="20260604130944 +0000" stop="20260604160000 +0000">
         <title>PJ</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/692ec71425eaa17b6daf2a11/featuredImage_1778222500950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30318,7 +30528,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Nabilla, Thomas, Tarek et leurs amis parcourent l'Australie à l'aventure. En sac à dos, avec peu d'argent, et en laissant leur confort derrière eux, ils vont vivre une expérience unique !</desc>
         <icon src="https://images.pluto.tv/series/67bef7007db3495aa6c0a474/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699865ccac36b147e74619fe" start="20260604122621 +0000" stop="20260604160000 +0000">
+    <programme channel="699865ccac36b147e74619fe" start="20260604122621 +0000" stop="20260604130532 +0000">
+        <title>LES AVENTURES DE NABILLA</title>
+        <desc>Nabilla, Thomas, Tarek et leurs amis parcourent l'Australie à l'aventure. En sac à dos, avec peu d'argent, et en laissant leur confort derrière eux, ils vont vivre une expérience unique !</desc>
+        <icon src="https://images.pluto.tv/series/67bef7007db3495aa6c0a474/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699865ccac36b147e74619fe" start="20260604130532 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Téléréalité France</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/699865ccac36b147e74619fe/featuredImage_1779788356699.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30328,7 +30543,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Joey, qui supporte mal l'éloignement d'avec Dawson, retrouve à l'université de Boston une nouvelle colocataire. Elle s'appelle Audrey. Jen et Jack sont invités à une fête étudiante...</desc>
         <icon src="https://images.pluto.tv/series/69c5569827ed3c42e3a0f154/tile_1774540441065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69aadc5551df9542f2521e1a" start="20260604120616 +0000" stop="20260604160000 +0000">
+    <programme channel="69aadc5551df9542f2521e1a" start="20260604120616 +0000" stop="20260604125311 +0000">
+        <title>Dawson</title>
+        <desc>Malgré ses aptitudes en anglais, Joey décide d'abandonner cette matière. De son côté, Jen rencontre Charlie à la station de radio. Poussé par Doug, Pacey postule pour un emploi dans un restaurant...</desc>
+        <icon src="https://images.pluto.tv/series/69c5569827ed3c42e3a0f154/tile_1774540441065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69aadc5551df9542f2521e1a" start="20260604125311 +0000" stop="20260604134028 +0000">
+        <title>Dawson</title>
+        <desc>Dawson n'a plus l'intention de remettre les pieds à l'U.S.C. Gail ne voit aucun inconvénient à ce qu'il revienne vivre sous son toit. Mitch regrette cependant qu'il renonce à son rêve uniquement pour les beaux yeux de Joey...</desc>
+        <icon src="https://images.pluto.tv/series/69c5569827ed3c42e3a0f154/tile_1774540441065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69aadc5551df9542f2521e1a" start="20260604134028 +0000" stop="20260604160000 +0000">
         <title>Dawson</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/featuredImage_1775658935857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30338,7 +30563,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
         <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b3db536c0414a7ecf564fb" start="20260604121834 +0000" stop="20260604160000 +0000">
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260604121834 +0000" stop="20260604124834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260604124834 +0000" stop="20260604131834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260604131834 +0000" stop="20260604160000 +0000">
         <title>Space Live</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b3db536c0414a7ecf564fb/featuredImage_1775061732639.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30348,7 +30583,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Le football Frontière Internationnal, le championnat du monde de football junior, commence bientôt. Et c'est aujourd'hui que va être sélectionnée la nouvelle équipe d'Inazuma Nationale, qui disputera les qualifications de la zone Asie.</desc>
         <icon src="https://images.pluto.tv/series/64941e70c5ae3500135e277f/tile_1774607040926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c2ae0d1f1accd54916c825" start="20260604121050 +0000" stop="20260604160000 +0000">
+    <programme channel="69c2ae0d1f1accd54916c825" start="20260604121050 +0000" stop="20260604123650 +0000">
+        <title>Inazuma Eleven Go Galaxy FR: Un début de tournoi compliqué!</title>
+        <desc>L'entraînement des joueurs du Nouvel Inazuma National débute et les trois anciens joueurs de Raimon se rendent compte qu'aucun des autres joueurs de l'équipe n'a fait de football avant.</desc>
+        <icon src="https://images.pluto.tv/series/64941e70c5ae3500135e277f/tile_1774607040926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c2ae0d1f1accd54916c825" start="20260604123650 +0000" stop="20260604130250 +0000">
+        <title>Inazuma Eleven Go Galaxy FR: Un premier pas vers un grand changement</title>
+        <desc>Le Nouvel Inazuma National affronte les Dragons de Feu. Arion, Riccardo et Victor, devant la faiblesse de leurs coéquipiers, ont décidé de gérer le match à eux seuls, mais ce n'est pas la bonne tactique.</desc>
+        <icon src="https://images.pluto.tv/series/64941e70c5ae3500135e277f/tile_1774607040926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c2ae0d1f1accd54916c825" start="20260604130250 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Footanim'</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/featuredImage_1776860789196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30960,7 +31205,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
         <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260604121000 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260604121000 +0000" stop="20260604124000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260604124000 +0000" stop="20260604131000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260604131000 +0000" stop="20260604160000 +0000">
         <title>Pluto TV  Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/featuredImage_1750752089122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30970,7 +31225,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
         <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eba14a4ffb8000764e950" start="20260604120719 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260604120719 +0000" stop="20260604123719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260604123719 +0000" stop="20260604130719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260604130719 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/featuredImage_1751874536413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30980,7 +31245,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Os castores consertam um incrível parque aquático em Big Swirl: Splash Canyon! A força da água põe em perigo um grupo de Dodôs reclusos e ameaça destruir o cânion. Os cadetes correm no subsolo para resgatar os Dodôs e o cânion!</desc>
         <icon src="https://images.pluto.tv/series/6a04e416488e575cff515103/tile_1780480687741.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260604122043 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8ecb336537e8000764a17f" start="20260604122044 +0000" stop="20260604124425 +0000">
+        <title>Dora l'exploratrice</title>
+        <desc>Dora tentou, tentou, mas não conseguiu atravessar o trepa-trepa. Botas decide ajudar à amiga e os dois vão para o Parque de Diversões para que Dora treine.</desc>
+        <icon src="https://images.pluto.tv/series/6a04e415895ed2760f4c09e4/tile_1780480687189.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260604124425 +0000" stop="20260604130811 +0000">
+        <title>Dora l'exploratrice</title>
+        <desc>Acompanhe o pessoal da cidade em um desfile musical! Dora e Botas estão liderando uma parada para liberar os instrumentos musicais que foram presos pelo Senhor Shhh!</desc>
+        <icon src="https://images.pluto.tv/series/6a04e415895ed2760f4c09e4/tile_1780480687189.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260604130811 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/featuredImage_1748328453416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30990,7 +31265,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Leonardo a fait alliance en cachette avec Karaï et Shinigami pour démanteler une à une les opérations de Shredder. Ils commencent par une planque des Dragons Pourpres, puis s'attaquent à l'usine chimique, un lieu névralgique de l'organisation.</desc>
         <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc1b37867f00071469e9" start="20260604122400 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260604122400 +0000" stop="20260604124900 +0000">
+        <title>Les Tortues Ninja: Infectes insectes</title>
+        <desc>Stockman crée de nouveaux mutants pour l'aider à cambrioler les banques afin de réunir de l'argent pour Shredder. Un ancien homme d'affaires  devient Scaramouche, un mutant mi-araignée mi-mouche. Il crée également une fourmi géante.</desc>
+        <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260604124900 +0000" stop="20260604131400 +0000">
+        <title>Les Tortues Ninja: Les mutants contre-attaquent</title>
+        <desc>Don Vizioso veut prendre le contrôle de la ville. Pour cela, il doit se débarrasser des mutants présents dans la ville de New York.</desc>
+        <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260604131400 +0000" stop="20260604160000 +0000">
         <title>Tortues Ninja TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31000,7 +31285,22 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Jimmy Fallon est fan d'icarly... Ils les invitent dans son émission télévisée... Quelle chance ! Oui... mais pas de chance ! Gibby perd son pantalon devant le monde entier ! Et ça coûte cher.... 500 000 dollars ! Heureusement que Jimmy est là !</desc>
         <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260604120500 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260604120500 +0000" stop="20260604123000 +0000">
+        <title>iCarly: Des amis pour Spencer</title>
+        <desc>En faisant la liste des invités pour l'anniversaire de Spencer, Carly et ses amis se rendent compte qu'il n'a pas d'amis de son âge. Ils se donnent alors pour mission de lui en trouver.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260604123000 +0000" stop="20260604125500 +0000">
+        <title>iCarly: Le vol</title>
+        <desc>Sam a perdu son ordinateur portable. Carly et Freddie tentent de l'aider à le chercher. Spencer retrouve des tickets du Funk E. Fester's et décide de remporter le plus gros lot, Murray, le dauphin magique.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260604125500 +0000" stop="20260604132000 +0000">
+        <title>iCarly: Au revoir -- Première Partie</title>
+        <desc>Carly doit aller au bal avec son père, mais celui-ci ne peut pas. Elle demande à Spencer de l'accompagner, mais il est malade.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1767957020113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260604132000 +0000" stop="20260604160000 +0000">
         <title>iCarly TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31010,7 +31310,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>En acceptant de restaurer un camion de pompiers Mack 1947, Dan entraine son équipe en territoire boueux et inconnu.</desc>
         <icon src="https://images.pluto.tv/series/60c90857ae2cc8001316f3ee/tile_1776243961444.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260604121702 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260604121702 +0000" stop="20260604130602 +0000">
+        <title>FantomWorks: All Revved Up</title>
+        <desc>Dan fait tout pour battre Nick au fil d'arrivée après l’avoir entendu dire que sa Chevelle est plus puissante qu’une Camaro 1969. La Mustang de Pete est toujours défectueuse après être passée par trois différents ateliers de restauration.</desc>
+        <icon src="https://images.pluto.tv/series/60c90857ae2cc8001316f3ee/tile_1776243961444.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260604130602 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Inside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31024,7 +31329,23 @@ Jean Esprit entame les premières étapes de vinification de son Crozes-Hermitag
 Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <icon src="https://images.pluto.tv/series/67f9195819d991719fc543bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed48146ba9e00078424b6" start="20260604122414 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260604122414 +0000" stop="20260604125555 +0000">
+        <title>Epicerie Fine</title>
+        <desc>Au Pays de Redon, Véronique livre les secrets du cidre artisanal.
+
+Camille partage son expérience d'apprentie maraichère bio.
+
+Emmanuelle et Emmanuel nous emmènent sur le site des mégalithes de Saint-Just, où écologie et patrimoine historique se mêlent.</desc>
+        <icon src="https://images.pluto.tv/series/67f9195819d991719fc543bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260604125555 +0000" stop="20260604132757 +0000">
+        <title>Epicerie Fine</title>
+        <desc>Dans le Ribéracois, la productrice laitière Edwige nous explique son choix étonnant de se tourner vers la fabrication de glaces.
+
+Vincent et Tristan nous parlent de l'assèchement des tourbes et des cours d'eau.</desc>
+        <icon src="https://images.pluto.tv/series/67f9195819d991719fc543bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260604132757 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Cuisine</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31034,7 +31355,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Xzibit et sa bande tunent la Subaru Impreza 96 de Louis, joueur de paint-ball. Ils transforment l'Impreza en une véritable voiture de rallye, avec des pneus tout-terrain, d'authentiques graphismes de rallye, et plein de gadgets de paint-ball.</desc>
         <icon src="https://images.pluto.tv/series/5fe1b62a7f73ec001aa94e37/tile_1776249002545.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f92b56a367e170007cd43f4" start="20260604122103 +0000" stop="20260604160000 +0000">
+    <programme channel="5f92b56a367e170007cd43f4" start="20260604122103 +0000" stop="20260604124403 +0000">
+        <title>Yo Momma FR: Eastside vs. Forest Park</title>
+        <desc>Dirty D qui représente Eastside et Rod B qui représente Forest Park ont un style différent mais la qualité de leurs punchlines va être difficile à départager.</desc>
+        <icon src="https://images.pluto.tv/series/63c174c686acfd00136c07e0/tile_1768260317200.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260604124403 +0000" stop="20260604130703 +0000">
+        <title>Yo Momma FR: Les meilleurs de la semaine</title>
+        <desc>Les 4 meilleurs sont prêts à tout donner devant Wilmer et Frankie J., son invité. Le vainqueur remportera la compétition de la semaine.</desc>
+        <icon src="https://images.pluto.tv/series/63c174c686acfd00136c07e0/tile_1768260317200.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260604130703 +0000" stop="20260604160000 +0000">
         <title>MTV CLASSICS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31044,7 +31375,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
         <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ffc8c345822750007e167de" start="20260604122314 +0000" stop="20260604160000 +0000">
+    <programme channel="5ffc8c345822750007e167de" start="20260604122314 +0000" stop="20260604125314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260604125314 +0000" stop="20260604132314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260604132314 +0000" stop="20260604160000 +0000">
         <title>Bob l'éponge</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ffc8c345822750007e167de/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31054,7 +31395,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>L'île de Komodo en Indonésie ressemble à un paradis perdu. Mais attention ! Un animal étrange, capable d'éliminer une chèvre ou une personne en deux secondes, en est le prédateur dominant : le dragon de Komodo, le plus grand lézard du monde.</desc>
         <icon src="https://images.pluto.tv/series/610bca29975c210013bff9ac/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60925a44f0350600075a1fdc" start="20260604124657 +0000" stop="20260604160000 +0000">
+    <programme channel="60925a44f0350600075a1fdc" start="20260604124657 +0000" stop="20260604133857 +0000">
+        <title>Nature sauvage : Colombie: Histoire de capucins</title>
+        <desc>Un jeune singe capucin apprend à être plus malin que ses rivaux et prédateurs.</desc>
+        <icon src="https://images.pluto.tv/series/636e3b29576be6001373a7e9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60925a44f0350600075a1fdc" start="20260604133857 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Animaux</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31064,7 +31410,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Framboisine se rend à un entretien à Mégapomme pour discuter de son avenir dans la mode.</desc>
         <icon src="https://images.pluto.tv/series/62df82d580410e0013d9c11b/tile_1768203868341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dc6937b450ad0007377e48" start="20260604121700 +0000" stop="20260604160000 +0000">
+    <programme channel="60dc6937b450ad0007377e48" start="20260604121700 +0000" stop="20260604124200 +0000">
+        <title>Charlotte aux fraises : aventures à Fraisi-Paradis: La destination de mes rêves</title>
+        <desc>Fraisinette participe à un concours 'Décrivez la destination de vos rêves'.</desc>
+        <icon src="https://images.pluto.tv/series/62df82d580410e0013d9c11b/tile_1768203868341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260604124200 +0000" stop="20260604130700 +0000">
+        <title>Charlotte aux fraises : aventures à Fraisi-Paradis: Fraisi-Paradis-Plage</title>
+        <desc>Grosse déception à Fraisi-Paradis : les vacances sur l'île tropicale sont reportées à l'année suivante pour cause de fermeture prématurée de la station balnéaire en raison des intempéries.</desc>
+        <icon src="https://images.pluto.tv/series/62df82d580410e0013d9c11b/tile_1768203868341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260604130700 +0000" stop="20260604160000 +0000">
         <title>Charlotte aux Fraises</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31074,7 +31430,22 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Tex et Sid font la course pour la photo du yéti pour le journal de Chastity. // Einstone découvre la solitude et conclut que ses pitreries l'empêchent d'avoir des amis. // Power Pooch se retrouve à la fourrière, qu'il prend pour un club de méditation.</desc>
         <icon src="https://images.pluto.tv/series/619b5fab178ebd001376bafd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260604120932 +0000" stop="20260604160000 +0000">
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260604120932 +0000" stop="20260604123432 +0000">
+        <title>Le Monde Fou de Tex Avery: Sagebrush Sindy // Compter les catastrophes // Le facteur aboie toujours deux fois</title>
+        <desc>Les Squab's invitent M. Moutch à dîner et ce dernier ne veut que du poulet. // Quand Amanda a un diamant soi-disant, Freddy en fait des tonnes. C'est la pagaille ! // Le maître de Pooch est furieux car un écureuil enterre des noix dans son jardin.</desc>
+        <icon src="https://images.pluto.tv/series/619b5fab178ebd001376bafd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260604123432 +0000" stop="20260604125932 +0000">
+        <title>Le Monde Fou de Tex Avery: Pic de Chastity // Prêt, Volonté &amp; Câble // Héros de recours crade</title>
+        <desc>Pour battre le système, Sagebrsuh Sid devient Sagebrush Sindy. // Genghis a capturé sa némésis, Khannie, et l'emmène devant l'empereur pour une délicieuse mort dans le Colisée. // Power Pooch assume le rôle de l'ennemi numéro un des chiens : le facteur.</desc>
+        <icon src="https://images.pluto.tv/series/619b5fab178ebd001376bafd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260604125932 +0000" stop="20260604132445 +0000">
+        <title>Les Entrechats</title>
+        <desc>Isidore s'interroge sur ses ancêtres et invente des histoires à leur sujet. // Bush est sur le point de perdre son travail en tant que gardien de nuit : il ne parvient pas à arrêter le voleur de chocolat!</desc>
+        <icon src="https://images.pluto.tv/series/6818d6b230b839eca5ddd22f/tile_1768266002824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260604132445 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Kids Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/featuredImage_1748852014629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31084,7 +31455,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Fondée en 1846 par le scientifique James Smithson, la Smithonian Institution est le plus grand musée et le plus grand centre de recherche scientifique au monde.</desc>
         <icon src="https://images.pluto.tv/series/5fdcc5da59c69f001a24528c/tile_1767941281817.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e771e2f5f180007002224" start="20260604120026 +0000" stop="20260604160000 +0000">
+    <programme channel="611e771e2f5f180007002224" start="20260604120026 +0000" stop="20260604125326 +0000">
+        <title>Secrets de Musées: Le Château de Versailles</title>
+        <desc>Des arrangements de Marie-Antoinette au spectre d'une étoile qui révèle l'origine de la vie humaine, découvrez les secrets à l'intérieur du château de Versailles.</desc>
+        <icon src="https://images.pluto.tv/series/5fdcc5da59c69f001a24528c/tile_1767941281817.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e771e2f5f180007002224" start="20260604125326 +0000" stop="20260604131912 +0000">
+        <title>Archaeology: Dévoiler la conspiration d'Hitler</title>
+        <desc>Voici, pour la première fois, l'histoire de l'utilisation de l'archéologie non seulement pour manipuler des informations sur le passé, mais aussi pour légitimer le régime génocidaire des nazis.</desc>
+        <icon src="https://images.pluto.tv/series/65571ac92085480014bb2efc/tile_1768340578807.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e771e2f5f180007002224" start="20260604131912 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Histoire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e771e2f5f180007002224/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31094,7 +31475,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>L'Istrie est une péninsule croate qui baigne dans l'Adriatique. Mer cristalline, littoral préservé, petits ports pittoresques, villages aux ruelles étroites, charme méditerranéen et arrière-pays montagneux</desc>
         <icon src="https://images.pluto.tv/series/5ff6fe46ac600d00143a48da/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e7811eb9daf000764cbfd" start="20260604124834 +0000" stop="20260604160000 +0000">
+    <programme channel="611e7811eb9daf000764cbfd" start="20260604124834 +0000" stop="20260604134734 +0000">
+        <title>Horizons</title>
+        <desc>L’île Maurice : une infinité de plages de sable blanc, des lagons multicolores, une cuisine savoureuse, un climat à la douceur constante, une population à la gentillesse proverbiale, et aussi un atout secret.</desc>
+        <icon src="https://images.pluto.tv/series/5ff2c8cced4edc001b016d7e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e7811eb9daf000764cbfd" start="20260604134734 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Aventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31104,7 +31490,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
         <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61fc0df14159c40007250432" start="20260604120423 +0000" stop="20260604160000 +0000">
+    <programme channel="61fc0df14159c40007250432" start="20260604120423 +0000" stop="20260604123423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260604123423 +0000" stop="20260604130423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260604130423 +0000" stop="20260604160000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fc0df14159c40007250432/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31114,7 +31510,22 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Le remariage est au cœur du débat du jour. Pour l'écrivain Hervé Bazin, remarié trois fois, un remariage suppose toujours au moins une catastrophe ou des échecs c'est pourquoi le bonheur d'un remarié est toujours plus grave qu'un autre.</desc>
         <icon src="https://images.pluto.tv/series/65c0ea4ae764c00014458f8d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="639b54404cfdf7000729b3c1" start="20260604120100 +0000" stop="20260604160000 +0000">
+    <programme channel="639b54404cfdf7000729b3c1" start="20260604120100 +0000" stop="20260604123600 +0000">
+        <title>La femme en blanc</title>
+        <desc>De retour de voyage, des tensions apparaissent entre Lady Laura et son mari Sir Percival autour de la signature d'un contrat. Un secret est sur le point d'être...</desc>
+        <icon src="https://images.pluto.tv/series/66f6c93ba2922a0013265239/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="639b54404cfdf7000729b3c1" start="20260604123600 +0000" stop="20260604125400 +0000">
+        <title>François Gaillard ou la vie des autres</title>
+        <desc>François est appelé dans le marais poitevin par Julien un père divorcé. Ses beaux-parents s'acharnent à le priver de voir son fils. Il kidnappe alors le jeune garçon et une traque s'engage avec les gendarmes. Julien est armé et l'accident proche.</desc>
+        <icon src="https://images.pluto.tv/series/65c0ea4be764c000144590aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="639b54404cfdf7000729b3c1" start="20260604125400 +0000" stop="20260604135700 +0000">
+        <title>À bout portant</title>
+        <desc>Neuf hommes, neuf chanteurs et musiciens, neuf personnalités différentes qui depuis l'après-guerre sillonnent les routes de France pour se produire sur scène. Pour quelques jours, les caméras de A bout portant deviennent le 10e membre de la troupe.</desc>
+        <icon src="https://images.pluto.tv/series/65c0ea4be764c00014459101/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="639b54404cfdf7000729b3c1" start="20260604135700 +0000" stop="20260604160000 +0000">
         <title>INA 70</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31124,7 +31535,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
         <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63b578b524f0cf00072f2a52" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="63b578b524f0cf00072f2a52" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Echappées Belles &amp; Co</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31134,7 +31555,22 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
         <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64bab8ba5dc1660008969b5a" start="20260604120600 +0000" stop="20260604160000 +0000">
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260604120600 +0000" stop="20260604123000 +0000">
+        <title>Auction Hunters: L'argent liquide</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260604123000 +0000" stop="20260604125400 +0000">
+        <title>Auction Hunters: Un combat acheté</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260604125400 +0000" stop="20260604131800 +0000">
+        <title>Auction Hunters: Viva la Vegas</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260604131800 +0000" stop="20260604160000 +0000">
         <title>Adjugé, vendu !</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31144,7 +31580,27 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Un ingénieur monte à bord pour tester son prototype de moteur fonctionnant au fromage. Et ça marche plutôt bien !</desc>
         <icon src="https://images.pluto.tv/series/675fd9c8381eea00134f0de1/tile_1768265281736.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652557d93fd33c000802f995" start="20260604120449 +0000" stop="20260604160000 +0000">
+    <programme channel="652557d93fd33c000802f995" start="20260604120449 +0000" stop="20260604121937 +0000">
+        <title>Ratz</title>
+        <desc>Le cargo accoste près d’une île tropicale. Razmo aperçoit une tortue harcelée par des mouettes et entraîne Rapido dans le sauvetage de la pauvre bête.</desc>
+        <icon src="https://images.pluto.tv/series/675fd9c8381eea00134f0de1/tile_1768265281736.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260604121937 +0000" stop="20260604123426 +0000">
+        <title>Ratz</title>
+        <desc>L'équipage offre un club de mini golf au capitaine pour son anniversaire. Les rats profitent de la distraction pour subtiliser une huître dans laquelle ils découvrent une perle énorme.</desc>
+        <icon src="https://images.pluto.tv/series/675fd9c8381eea00134f0de1/tile_1768265281736.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260604123426 +0000" stop="20260604124915 +0000">
+        <title>Ratz</title>
+        <desc>Alors que les deux rats jettent à la mer des vieux fromages périmés, une loutre écolo les rabroue vertement et monte à bord pour vérifier si le cargo est bien aux normes écologiques.</desc>
+        <icon src="https://images.pluto.tv/series/675fd9c8381eea00134f0de1/tile_1768265281736.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260604124915 +0000" stop="20260604131220 +0000">
+        <title>Oggy et les cafards: La guerre du bouton</title>
+        <desc>Un matin, Olivia se réveille avec un bouton sur le front. Argh ! Elle s'enferme dans sa maison et refuse d'en sortir. En surfant sur Internet, Oggy trouve une recette anti-acné à base de... cafards !</desc>
+        <icon src="https://images.pluto.tv/series/605ca44a676b99001b921289/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260604131220 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Super Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652557d93fd33c000802f995/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31154,7 +31610,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
         <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260604121721 +0000" stop="20260604160000 +0000">
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260604121721 +0000" stop="20260604124721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260604124721 +0000" stop="20260604131721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260604131721 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/featuredImage_1750151456845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31164,7 +31630,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
         <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6618e3037bcd8600089b62a8" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="6618e3037bcd8600089b62a8" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Allociné</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31174,7 +31650,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
         <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55cf2483d460008f68746" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="66f55cf2483d460008f68746" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Zone Interdite</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55cf2483d460008f68746/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31184,7 +31670,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
         <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d205e4a6e0008c2b92b" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Incroyables Transformations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d205e4a6e0008c2b92b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31194,7 +31690,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Les pêcheurs de Gloucester, dans le Massachusetts, doivent affronter des hordes de pêcheurs amateurs maladroits alors qu'ils pourchassent le lucratif thon rouge de l'Atlantique.</desc>
         <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1776243961318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678f894ef5c74bff95c20a7f" start="20260604123815 +0000" stop="20260604160000 +0000">
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260604123815 +0000" stop="20260604133217 +0000">
+        <title>Wicked Tuna</title>
+        <desc>Une tempête se dirige vers les zones de pêche de l'Atlantique Nord, mais comme la saison touche à sa fin, les capitaines n'ont d'autre choix que d'aller pêcher par mauvais temps.</desc>
+        <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1776243961318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260604133217 +0000" stop="20260604160000 +0000">
         <title>Pêche à haut risque</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31204,7 +31705,12 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>En Martinique, Benjamin Darnaud rencontre un producteur de bananes puis un passionné qui perpétue le savoir-faire du jardin créole martiniquais.</desc>
         <icon src="https://images.pluto.tv/series/683482d20f8298da5690761f/tile_1748271908095.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680291e38e1ff89c2427aefd" start="20260604125000 +0000" stop="20260604160000 +0000">
+    <programme channel="680291e38e1ff89c2427aefd" start="20260604125000 +0000" stop="20260604135100 +0000">
+        <title>Crêpes, voyage en terre de Bretagne</title>
+        <desc>C’est en Bretagne que la crêpe semble avoir trouvé ses lettres de noblesse. Simple et basique, elle est au cœur de la tradition culinaire bretonne depuis des siècles.</desc>
+        <icon src="https://images.pluto.tv/series/68da7cebd70c07ace87ba47e/tile_1760112970006.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260604135100 +0000" stop="20260604160000 +0000">
         <title>Voyages &amp; Saveurs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31214,7 +31720,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
         <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="682318568e6c0f2f6c6e0038" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/featuredImage_1750772750994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31234,7 +31750,22 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Monster High: MH3 webisodes suit les élèves de Monster High dans de nouvelles aventures pleines d’humour, de mystère et de style, où l’amitié et l’acceptation de soi sont au cœur de chaque histoire.</desc>
         <icon src="https://images.pluto.tv/series/69432c18b329898798841186/tile_1766011955038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260604121757 +0000" stop="20260604160000 +0000">
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260604121757 +0000" stop="20260604123652 +0000">
+        <title>Monster High: MH4 webisodes</title>
+        <desc>Monster High: MH4 webisodes poursuit les aventures effrayantes et amusantes des élèves de Monster High, entre défis magiques, amitiés sincères et célébration des différences dans un univers plein de style et de créativité.</desc>
+        <icon src="https://images.pluto.tv/series/69454c58a7396485f8ff749a/tile_1766150841392.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260604123652 +0000" stop="20260604125559 +0000">
+        <title>Monster High: MH4 webisodes</title>
+        <desc>Monster High: MH4 webisodes poursuit les aventures effrayantes et amusantes des élèves de Monster High, entre défis magiques, amitiés sincères et célébration des différences dans un univers plein de style et de créativité.</desc>
+        <icon src="https://images.pluto.tv/series/69454c58a7396485f8ff749a/tile_1766150841392.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260604125559 +0000" stop="20260604131530 +0000">
+        <title>Monster High: MH4 webisodes</title>
+        <desc>Monster High: MH4 webisodes poursuit les aventures effrayantes et amusantes des élèves de Monster High, entre défis magiques, amitiés sincères et célébration des différences dans un univers plein de style et de créativité.</desc>
+        <icon src="https://images.pluto.tv/series/69454c58a7396485f8ff749a/tile_1766150841392.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260604131530 +0000" stop="20260604160000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31244,7 +31775,17 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Un grand portique de signaux sème la confusion à Knapford. En communiquant mieux, les locomotives rétablissent un trafic sûr.</desc>
         <icon src="https://images.pluto.tv/series/69281ce88e21e6575a259f2a/tile_1764246923434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e74b0e48af72bc266e798" start="20260604121941 +0000" stop="20260604160000 +0000">
+    <programme channel="686e74b0e48af72bc266e798" start="20260604121941 +0000" stop="20260604124301 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/691ae8486fe1b6a13dba3f85/tile_1763371083473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260604124301 +0000" stop="20260604130621 +0000">
+        <title>Pingu</title>
+        <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
+        <icon src="https://images.pluto.tv/series/691ae8486fe1b6a13dba3f85/tile_1763371083473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260604130621 +0000" stop="20260604160000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74b0e48af72bc266e798/featuredImage_1765806081318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31254,7 +31795,22 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Les verrues du grand schtroumpf / Le schtroumpfateur schtroumpfomatique</desc>
         <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b16d2282862c1f067dc763" start="20260604120748 +0000" stop="20260604160000 +0000">
+    <programme channel="68b16d2282862c1f067dc763" start="20260604120748 +0000" stop="20260604123502 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>La surprise-partie du schtroumpf paresseux / La course schtroumpfomobile</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260604123502 +0000" stop="20260604125954 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Le retour du petit cheval ailé / Bébé schtroumpf chez les verruqueux</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260604125954 +0000" stop="20260604132716 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>La schtroumpf glacée / Les fangeux chez les schtroumpfs</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260604132716 +0000" stop="20260604160000 +0000">
         <title>Les Schtroumpfs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b16d2282862c1f067dc763/featuredImage_1760383269925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31264,17 +31820,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
         <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260604120800 +0000" stop="20260604123800 +0000">
-        <title>Ridiculousness</title>
-        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
-        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260604123800 +0000" stop="20260604130800 +0000">
-        <title>Ridiculousness</title>
-        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
-        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260604130800 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260604120800 +0000" stop="20260604160000 +0000">
         <title>Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31284,22 +31830,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Le général a recruté cent soldats supplémentaires pour faire face au « Bowling Infernal », au « Chemin Tortueux » et à « La Chute Finale ». Survivront-ils jusqu'à l'assaut du château de Takeshi ? Commenté par Marie Palot &amp; Louis-San.</desc>
         <icon src="https://images.pluto.tv/series/600e8089b57d95001a546bc0/tile_1777505402035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260604120615 +0000" stop="20260604123215 +0000">
-        <title>Takeshi's Castle: Le royaume de la glisse</title>
-        <desc>Cent guerriers visent le prix ultime : prendre d'assaut le château de Takeshi. Mais « Le Bowling Infernal », « Le Mur Glissant » et le « Pont Maudit » se dressent devant eux. Commenté par Marie Palot &amp; Louis-San.</desc>
-        <icon src="https://images.pluto.tv/series/600e8089b57d95001a546bc0/tile_1777505402035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260604123215 +0000" stop="20260604125815 +0000">
-        <title>Takeshi's Castle: De pied ferme dans une ruche infernale</title>
-        <desc>Marie Palot &amp; Louis-San rappellent que ceux qui veulent attaquer le château sont nombreux. Ils doivent d'abord risquer de chuter lors du « Bowling Infernal » ou du « Pont Maudit ». Plus de concurrents et plus de défis se dressent sur leur chemin !</desc>
-        <icon src="https://images.pluto.tv/series/600e8089b57d95001a546bc0/tile_1777505402035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260604125815 +0000" stop="20260604132415 +0000">
-        <title>Takeshi's Castle: Assaisonnement aux baies : des boules, du bacon et de la boue</title>
-        <desc>Marie Palot et Louis-San nous rapportent que le général a recruté cent soldats supplémentaires pour « Le Chemin Tortueux », « Le Champignon Volant » et « La Chute Finale ». L'un d'entre eux arrivera-t-il jusqu'au château de Takeshi ?</desc>
-        <icon src="https://images.pluto.tv/series/600e8089b57d95001a546bc0/tile_1777505402035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260604132415 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260604120615 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Comédie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31309,17 +31840,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Vehicles, structures and dreams shatter, leaving behind bills no one wants to pay.</desc>
         <icon src="https://images.pluto.tv/series/68dbb902e466f791b5fb541e/tile_1759230448544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260604121100 +0000" stop="20260604124300 +0000">
-        <title>FailFactory</title>
-        <desc>Sometimes it's better to go unnoticed at a party.</desc>
-        <icon src="https://images.pluto.tv/series/68dbb8ffe466f791b5fb4ec6/tile_1759230231362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260604124300 +0000" stop="20260604131500 +0000">
-        <title>FailFactory</title>
-        <desc>Some people and animals will do anything for 15 minutes of fame.</desc>
-        <icon src="https://images.pluto.tv/series/68dbb8ffe466f791b5fb4ec6/tile_1759230231362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260604131500 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260604121100 +0000" stop="20260604160000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31329,12 +31850,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Six players compete at the Bicycle Casino in Los Angeles for the $500,000 first-place prize in the WPT Legends of Poker.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260604123700 +0000" stop="20260604150900 +0000">
-        <title>World Poker Tour: WPT Grand Prix de Paris</title>
-        <desc>Six players compete in Paris for the more than $475,000 first-place prize in the WPT Grand Prix de Paris.</desc>
-        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260604150900 +0000" stop="20260604160000 +0000">
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260604123700 +0000" stop="20260604160000 +0000">
         <title>WPT</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31344,17 +31860,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
         <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260604120200 +0000" stop="20260604123200 +0000">
-        <title>Juste pour rire GAGS</title>
-        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
-        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260604123200 +0000" stop="20260604130200 +0000">
-        <title>Juste pour rire GAGS</title>
-        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
-        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260604130200 +0000" stop="20260604160000 +0000">
+    <programme channel="60afa1508284e60007163c08" start="20260604120200 +0000" stop="20260604160000 +0000">
         <title>Juste pour Rire GAGS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa1508284e60007163c08/featuredImage_1746815950269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31364,17 +31870,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
         <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260604123000 +0000" stop="20260604130000 +0000">
-        <title>Euronews</title>
-        <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-        <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260604130000 +0000" stop="20260604133000 +0000">
-        <title>Euronews</title>
-        <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
-        <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260604133000 +0000" stop="20260604160000 +0000">
+    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260604123000 +0000" stop="20260604160000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31384,12 +31880,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Reporting on international news stories, interviews, and in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance.</desc>
         <icon src="https://images.pluto.tv/series/63f48825f9b2f60014c80b8d/tile_1766089795557.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6231ec93779a9d00079ba8e2" start="20260604130000 +0000" stop="20260604150000 +0000">
-        <title>CBS News 24/7 Mornings</title>
-        <desc>Regardez CBS News en direct 24 heures sur 24 et 7 jours sur 7, avec des infos de dernières minutes et des enquêtes approfondies.</desc>
-        <icon src="https://images.pluto.tv/series/6926352482bb3615056277a0/tile_1771369363492.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6231ec93779a9d00079ba8e2" start="20260604150000 +0000" stop="20260604160000 +0000">
+    <programme channel="6231ec93779a9d00079ba8e2" start="20260604130000 +0000" stop="20260604160000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31399,12 +31890,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260604130000 +0000" stop="20260604143000 +0000">
-        <title>DAZN Ringside</title>
-        <desc>DAZN Ringside offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260604143000 +0000" stop="20260604160000 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260604130000 +0000" stop="20260604160000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31424,12 +31910,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
         <icon src="https://images.pluto.tv/series/66dffcf422dfe9001385298a/tile_1747811533762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45b36a72e7b0008a2b291" start="20260604130000 +0000" stop="20260604140000 +0000">
-        <title>Top stories from CNN</title>
-        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
-        <icon src="https://images.pluto.tv/series/66dffcf422dfe9001385298a/tile_1747811533762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66c45b36a72e7b0008a2b291" start="20260604140000 +0000" stop="20260604160000 +0000">
+    <programme channel="66c45b36a72e7b0008a2b291" start="20260604130000 +0000" stop="20260604160000 +0000">
         <title>CNN Headlines International</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/featuredImage_1775159909058.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31439,10 +31920,10 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/69172310f17cb9c145a81039/tile_1763131342552.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66fd35e44ca31f0008060b77" start="20260604121500 +0000" stop="20260604164500 +0000">
-        <title>The Crucible Cup</title>
-        <desc>Live Snooker 900, une version innovante, rapide et palpitante du billard ! Chaque semaine, des joueurs légendaires s'affrontent dans des tournois captivants.</desc>
-        <icon src="https://images.pluto.tv/series/69d8e0037f004573bea002c5/tile_1775820809537.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="66fd35e44ca31f0008060b77" start="20260604121500 +0000" stop="20260604160000 +0000">
+        <title>Pluto TV Snooker 900</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/66fd35e44ca31f0008060b77/featuredImage_1762954633930.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="671643fc5534bb00089187ad" start="20260604120000 +0000" stop="20260604170000 +0000">
         <title>Darts</title>
@@ -31454,17 +31935,7 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
         <icon src="https://images.pluto.tv/series/67a4d33515d6eb0008307dea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67921b78b83355184c667770" start="20260604123000 +0000" stop="20260604130000 +0000">
-        <title>UFC</title>
-        <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
-        <icon src="https://images.pluto.tv/series/67a4d33515d6eb0008307dea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b78b83355184c667770" start="20260604130000 +0000" stop="20260604133000 +0000">
-        <title>UFC</title>
-        <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
-        <icon src="https://images.pluto.tv/series/67a4d33515d6eb0008307dea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67921b78b83355184c667770" start="20260604133000 +0000" stop="20260604160000 +0000">
+    <programme channel="67921b78b83355184c667770" start="20260604123000 +0000" stop="20260604160000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b78b83355184c667770/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

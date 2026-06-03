@@ -3150,6 +3150,11 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>En gruppe aktivister vil lage en film for å avdekke overtramp hos et stort gruveselskap, og de inngår en avtale med noen folk som lever utenfor loven, i Australias ødemark. Spenningen stiger når det viser seg at begge gruppene er på hver sin skattejakt.</desc>
         <icon src="https://images.pluto.tv/series/63a0675bbc652100134ef296/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61c1e270489a9c000874d209" start="20260603161815 +0000" stop="20260603181832 +0000">
+        <title>Fantomet</title>
+        <desc>Historien begynner når en ekspedisjon går i land på øya Bengalla på leting etter Tougandas hodeskaller. Med sin evne til å styre energi kan de bli en katastrofe for menneskeheten.</desc>
+        <icon src="https://images.pluto.tv/series/6698c8b0dc6f2f00134936f7/tile_1773151923554.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="61c1e3a679a4390007c78136" start="20260603103232 +0000" stop="20260603121932 +0000">
         <title>Brad's Status</title>
         <desc>Brad (Ben Stiller) lever et komfortabelt liv i et villastrøk i Sacramento sammen med sin godmodige kone (Jenna Fischer) og sønnen (Austin Abrams). Livet forandres da han blir gjenforent med sine gamle venner.</desc>
@@ -15558,6 +15563,11 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>A cowboy competes with a gambling tycoon on the Barbary Coast for the hand of a beautiful dance-hall queen.</desc>
         <icon src="https://images.pluto.tv/series/6776ac3f4bf27b00137a6b89/tile_1778626454379.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="655ca99dfbc15b00081f209c" start="20260604000117 +0000" stop="20260604021059 +0000">
+        <title>Sands Of Iwo Jima</title>
+        <desc>Tough-as-nails career Marine Sergeant John Stryker is greatly disliked by the men of his squad, particularly the combat replacements, for the rigorous training he puts them through.</desc>
+        <icon src="https://images.pluto.tv/series/6698c4853653a6001376ecb9/tile_1773152641995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="65ba4db63ef47d000837b535" start="20260603194917 +0000" stop="20260603204402 +0000">
         <title>McLeods døtre</title>
         <desc>Stevie oppdager at Fiona allerede var forlovet to uker før hun møtte Alex. Tess ber Jodi flytte inn i det store huset, men flyttingen skjer litt for raskt for nye forholdet mellom søstrene.</desc>
@@ -19751,8 +19761,8 @@ relationship goals couple Gwen Stefani and Blake Shelton on "The Voice" and more
     </programme>
     <programme channel="657883cab228b700084414b3" start="20260603221600 +0000" stop="20260603231100 +0000">
         <title>Modern Marvels</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/657883cab228b700084414b3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Technology of firefighting; Chicago Fire; Triangle Shirtwaist Factory; Coconut Grove.</desc>
+        <icon src="https://images.pluto.tv/series/65e1a787909f0f0013d2f734/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="657883cab228b700084414b3" start="20260603231100 +0000" stop="20260604000200 +0000">
         <title>Modern Marvels</title>
@@ -29462,10 +29472,60 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>On a raft in the middle of the ocean sits a traumatized young teenager named Brooke McClintock. The lone survivor of a plane crash involving her.</desc>
         <icon src="https://images.pluto.tv/series/698dab1b4078879c490c7911/tile_1771327382377.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69a162eb762ae48b4302fb7c" start="20260604040000 +0000" stop="20260604080000 +0000">
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604040000 +0000" stop="20260604043000 +0000">
         <title>Retake E-sport Live</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/69a162eb762ae48b4302fb7c/featuredImage_1772184651598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604043000 +0000" stop="20260604044500 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604044500 +0000" stop="20260604051500 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604051500 +0000" stop="20260604053000 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604053000 +0000" stop="20260604060000 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604060000 +0000" stop="20260604061500 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604061500 +0000" stop="20260604064500 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604064500 +0000" stop="20260604070000 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604070000 +0000" stop="20260604073000 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604073000 +0000" stop="20260604074500 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a162eb762ae48b4302fb7c" start="20260604074500 +0000" stop="20260604081500 +0000">
+        <title>Retake E-sport Live</title>
+        <desc>Opplev verdens dyktigste Counter-Strike 2-spillere direkte i de største turneringene fra hele verden.</desc>
+        <icon src="https://images.pluto.tv/series/69a16733acb7eb0bb627e27d/tile_1772185396047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="61c1e0f1d6d97900076ea16f" start="20260604031053 +0000" stop="20260604040053 +0000">
         <title>Luksusfellen Sverige: Episode 2907</title>
@@ -30191,6 +30251,11 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <title>To helskrudde agenter</title>
         <desc>Rosco lurer fengselsfuglen Doug til å banke opp noen trailersjåfører som har presset ham av veien. I desperasjon tar de flyet på Miami, men nå tror alle at de er CIA-agenter.</desc>
         <icon src="https://images.pluto.tv/series/65b8f70fd22ce50014da9460/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b916ec3af63d00084c5841" start="20260604083427 +0000" stop="20260604102124 +0000">
+        <title>Vi holder med flodhestene</title>
+        <desc>En av Terence Hill og Bud Spencers aller største suksesser – og det sier ikke lite.</desc>
+        <icon src="https://images.pluto.tv/series/65bbb08804045f00132615c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660d6b00635c75000828aa27" start="20260604035624 +0000" stop="20260604045126 +0000">
         <title>Jade Fever</title>
@@ -34945,6 +35010,11 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <title>Snooker 900</title>
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/68e4c9a0d70c07ace88ec7ea/tile_1759827747418.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ac55fe3efb41cd979a6877" start="20260604121500 +0000" stop="20260604164500 +0000">
+        <title>The Crucible Cup</title>
+        <desc>Snooker 900 er den nye hurtige og spennende versjonen av spillet! Kom og se ukentlige konkurranser, arkiv spill, studio segmenter og mye mer.</desc>
+        <icon src="https://images.pluto.tv/series/69d8e0057f004573bea00460/tile_1775820809403.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691ed76a9c828fb484f7c2e5" start="20260604075909 +0000" stop="20260604082909 +0000">
         <title>Inter 24/7</title>
@@ -40761,7 +40831,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Sirkus Paradise åpner dørene, og guttene skal i manesjen da Mr. Paradise gjør et etterlengtet comeback. Hvem tør å by på seg selv og hvordan takler guttene presset da en Paradise-legende skal imponeres?</desc>
         <icon src="https://images.pluto.tv/series/6964c35bb259a78ff0dfb502/tile_1774613160865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1db901346480007b7c345" start="20260604122942 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1db901346480007b7c345" start="20260604122942 +0000" stop="20260604132016 +0000">
+        <title>Paradise Hotel</title>
+        <desc>Det er jentenes tur til å innta manesjen, for i dag skal Miss Paradise kåres! Partnerskapet til Emma B og Rayan trues av en tredjepart, og Tobias T. har fått seg en ny hobby – boksing!</desc>
+        <icon src="https://images.pluto.tv/series/6964c35bb259a78ff0dfb502/tile_1774613160865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1db901346480007b7c345" start="20260604132016 +0000" stop="20260604160000 +0000">
         <title>Paradise Hotel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1db901346480007b7c345/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40771,7 +40846,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Ole Jørgen og Gina er førstegangskjøpere på begrenset budsjett, og drømmer om en fredfull og landlig enebolig til seg og kattene. Oda og Simon har noen spesielle utfordringer med sin nåværende bolig.</desc>
         <icon src="https://images.pluto.tv/series/621737c2a5b2950013c2a1f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1dc21b9587d0007e3fc15" start="20260604120900 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1dc21b9587d0007e3fc15" start="20260604120900 +0000" stop="20260604130000 +0000">
+        <title>Boligjakten: Episode 1004</title>
+        <desc>Alenemoren Ragnhild og sønnen Julius sover i dag i køyeseng, og trenger desperat større plass. Christina og amerikanske Justin har mange krav på lista, og Karianne tar utfordringa på strak arm!</desc>
+        <icon src="https://images.pluto.tv/series/621737c2a5b2950013c2a1f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1dc21b9587d0007e3fc15" start="20260604130000 +0000" stop="20260604135100 +0000">
+        <title>Boligjakten: Episode 1005</title>
+        <desc>Samboerne Linn og Joakim bor i dag i drømmehuset, men det ligger på helt feil sted! Hans Christian møter Christine, som leter etter en ny leilighet med uteområde til katten sin.</desc>
+        <icon src="https://images.pluto.tv/series/621737c2a5b2950013c2a1f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1dc21b9587d0007e3fc15" start="20260604135100 +0000" stop="20260604160000 +0000">
         <title>Boligjakten</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1dc21b9587d0007e3fc15/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40781,7 +40866,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Konkurransen tilspisser seg mellom rødt og blått lag. Ukas meny blir endelig avslørt, men ikke alle er like fornøyde med råvarene.</desc>
         <icon src="https://images.pluto.tv/series/621343fd22dc3f0013e1fd35/tile_1777038493153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1dce2fb9ae40007d0ac15" start="20260604121835 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1dce2fb9ae40007d0ac15" start="20260604121835 +0000" stop="20260604130935 +0000">
+        <title>Camp Kulinaris: Episode 227</title>
+        <desc>I dag kommer Kjartan og alle hans ansatte fra restauranten Tango. Deltakerne må levere en plettfri servering og restaurantsjefen er nervøs.</desc>
+        <icon src="https://images.pluto.tv/series/621343fd22dc3f0013e1fd35/tile_1777038493153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1dce2fb9ae40007d0ac15" start="20260604130935 +0000" stop="20260604160000 +0000">
         <title>Camp Kulinaris</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40791,7 +40881,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Haider tar gladelig på seg rollen som Baywatch-stjerne da familien trenger opplæring i livredning. Rockeren Geir vil gjengjelde Fred Åges godhet og har planlagt en dag full av gaver og overraskelser.</desc>
         <icon src="https://images.pluto.tv/series/620a08ac33b8100013b97a85/tile_1774613887523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1dda0fe470d00080f85b8" start="20260604123437 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1dda0fe470d00080f85b8" start="20260604123437 +0000" stop="20260604125937 +0000">
+        <title>Charterfeber After Beach: Episode 104</title>
+        <desc>I denne episoden får vi en sjokk-exit når to av deltakerne pakker koffertene. Fetsund-gutta starter dagen med knallhard trening, før det bærer av gårde på karaokebar hvor de møter to av Bodøjentene.</desc>
+        <icon src="https://images.pluto.tv/series/620a08a333b8100013b9795f/tile_1768502039773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1dda0fe470d00080f85b8" start="20260604125937 +0000" stop="20260604135013 +0000">
+        <title>Charterfeber: Episode 1302</title>
+        <desc>Familien fra Harstad er tilbake! Og for å slippe lastebiltrøbbel, har onkel Erling bestilt en sjåfør. Kai Thomas vil på stranda, men Aurora er mer opptatt av hundene sine.</desc>
+        <icon src="https://images.pluto.tv/series/620a08ac33b8100013b97a85/tile_1774613887523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1dda0fe470d00080f85b8" start="20260604135013 +0000" stop="20260604160000 +0000">
         <title>Charterfeber</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1dda0fe470d00080f85b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40801,7 +40901,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Gutta må være ekstra kreative i hytta på Sjusjøen, der toppidrettsutøver Birgit Skarstein og samboer Martin har sitt trenings- og ferieparadis.</desc>
         <icon src="https://images.pluto.tv/series/62188c7584ef4e00138be0cc/tile_1770659641230.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1de93244e500007581d69" start="20260604120234 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1de93244e500007581d69" start="20260604120234 +0000" stop="20260604125334 +0000">
+        <title>Eventyrlig oppussing: Episode 408</title>
+        <desc>Denne gangen skal to hytter pusses opp langt inne i Finnskogen. Den ene stram og nordisk, den andre tradisjonell og koselig.</desc>
+        <icon src="https://images.pluto.tv/series/62188c7584ef4e00138be0cc/tile_1770659641230.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1de93244e500007581d69" start="20260604125334 +0000" stop="20260604134534 +0000">
+        <title>Eventyrlig oppussing: Episode 409</title>
+        <desc>Gutta drar til Telemarks største innsjø, Møsvatn. Hytta de pusser opp ligger på over 900 m.o.h. Her snur de hytta på hodet for å finne den aller beste planløsningen.</desc>
+        <icon src="https://images.pluto.tv/series/62188c7584ef4e00138be0cc/tile_1770659641230.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1de93244e500007581d69" start="20260604134534 +0000" stop="20260604160000 +0000">
         <title>Eventyrlig Oppussing</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1de93244e500007581d69/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40811,7 +40921,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Arild blander privatøkonomien med bedriften sin, og dette gjør at han har mistet kontroll. Han skylder langt over en million kroner. Arild er en dyktig tatovør, men hvordan skal økonomien reddes?</desc>
         <icon src="https://images.pluto.tv/series/622b07919c0c17001b8b9325/tile_1770845760972.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1e060197fe600073c1ffb" start="20260604122005 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1e060197fe600073c1ffb" start="20260604122005 +0000" stop="20260604131324 +0000">
+        <title>Luksusfellen</title>
+        <desc>Hilde sløser bort lastebillønnen bort på råning. Hun overser regninger noe som gjør at hun aldri får hodet over vann. Kjøleskapet er tomt, strømmen er på vei til å bli stengt og gjelden stiger.</desc>
+        <icon src="https://images.pluto.tv/series/622b07919c0c17001b8b9325/tile_1770845760972.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1e060197fe600073c1ffb" start="20260604131324 +0000" stop="20260604160000 +0000">
         <title>Luksusfellen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1e060197fe600073c1ffb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40821,7 +40936,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Kennys foreldre blir arrestert og han plasseres i fosterhjem - så nå er Cartman det fattigste barnet på skolen! I mellomtiden kommer en mystisk figur fra fortiden tilbake.</desc>
         <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1e88cd168ea0007068133" start="20260604121900 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1e88cd168ea0007068133" start="20260604121900 +0000" stop="20260604124600 +0000">
+        <title>South Park: Kjærlighet, ikke Warcraft</title>
+        <desc>Guttene har spilt World of Warcraft en hel helg da en annen spiller dreper dem uten tegn på anger.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1e88cd168ea0007068133" start="20260604124600 +0000" stop="20260604131300 +0000">
+        <title>South Park: To nakne karer i et boblebad (del 2)</title>
+        <desc>Guttenes tulletelefoner til politiet fører til at huset blir beleiret.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1e88cd168ea0007068133" start="20260604131300 +0000" stop="20260604160000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1e88cd168ea0007068133/featuredImage_1755154014401.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40831,7 +40956,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Jeremy, Richard og James finner ut om man kan få kjøpt en elegant todørs kupé for under 1500 pund, og Jack Dee er ukens stjerne i en billigbil.</desc>
         <icon src="https://images.pluto.tv/series/64cbb01be675cb0013acc7ee/tile_1774365481095.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6202357dea93940007d723ca" start="20260604124414 +0000" stop="20260604160000 +0000">
+    <programme channel="6202357dea93940007d723ca" start="20260604124414 +0000" stop="20260604134114 +0000">
+        <title>Top Gear: Episode 3</title>
+        <desc>Richard prøver den nye Aston Marton DB9 Volante, og James reiser tilbake i tid til 70-tallet i en Maserati Bora.</desc>
+        <icon src="https://images.pluto.tv/series/64cbb01be675cb0013acc7ee/tile_1774365481095.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6202357dea93940007d723ca" start="20260604134114 +0000" stop="20260604160000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6202357dea93940007d723ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40841,7 +40971,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Jompen, Pierre, Christoffer och Salong Betong Danne möts upp för magisk andjakt. Nu kan ni köpa våra produkter och mycket mer påI www.widforss.se/jakt-är-jakt gå in och titta :)</desc>
         <icon src="https://images.pluto.tv/series/6311dc04c38c530013359880/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e7ba25be69bc0007b77fdc" start="20260604122727 +0000" stop="20260604160000 +0000">
+    <programme channel="62e7ba25be69bc0007b77fdc" start="20260604122727 +0000" stop="20260604130027 +0000">
+        <title>Jakt är Jakt: Rough Shooting</title>
+        <desc>Jompen och Calle vaknar upp till dag två. Morgonen börjar med andpytt för att övergå i duv och harjakt. Middagen lagas av vad som fällts och hittats under dagen. Hääng med........</desc>
+        <icon src="https://images.pluto.tv/series/6311dc04c38c530013359880/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e7ba25be69bc0007b77fdc" start="20260604130027 +0000" stop="20260604160000 +0000">
         <title>Jakt är Jakt</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e7ba25be69bc0007b77fdc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40851,7 +40986,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Sports blooper clip show</desc>
         <icon src="https://images.pluto.tv/series/662117e3a7a31d00176029cc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6357f33cb51d2d00077927c6" start="20260604121745 +0000" stop="20260604160000 +0000">
+    <programme channel="6357f33cb51d2d00077927c6" start="20260604121745 +0000" stop="20260604124401 +0000">
+        <title>Sports Gone Wild: Episode 6</title>
+        <desc>Sports blooper clip show</desc>
+        <icon src="https://images.pluto.tv/series/662117e3a7a31d00176029cc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6357f33cb51d2d00077927c6" start="20260604124401 +0000" stop="20260604131017 +0000">
+        <title>Sports Gone Wild: Episode 7</title>
+        <desc>Sports blooper clip show</desc>
+        <icon src="https://images.pluto.tv/series/662117e3a7a31d00176029cc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6357f33cb51d2d00077927c6" start="20260604131017 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Sport</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6357f33cb51d2d00077927c6/featuredImage_1746816937751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40861,7 +41006,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Det er duket for to ekstremt sterke lag i dagens duell. Kampsport-gjengen med Emil Meek og Margaret Aase har med seg Lasse Matberg, og skal kjempe mot iskrigerne Colin Olsen, Jørgen Karterud og legenden Jan Tore Kjær.</desc>
         <icon src="https://images.pluto.tv/series/63e4c6f0ff32c100130e59ce/tile_1772468281046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cb8bd911ced7000820bff2" start="20260604121600 +0000" stop="20260604160000 +0000">
+    <programme channel="65cb8bd911ced7000820bff2" start="20260604121600 +0000" stop="20260604132100 +0000">
+        <title>Fangene på Fortet: Episode 1106</title>
+        <desc>Det er to lag fulle av energi og sjarm som møter hverandre i dagens duell. På det røde laget finner vi Nate Khungu, Dennis Siva Lie og Sølje Bergman, som skal kjempe mot Grace Bullen, Morten Thorsen og Lene Alexandra.</desc>
+        <icon src="https://images.pluto.tv/series/63e4c6f0ff32c100130e59ce/tile_1772468281046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cb8bd911ced7000820bff2" start="20260604132100 +0000" stop="20260604160000 +0000">
         <title>Fangene på Fortet</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cb8bd911ced7000820bff2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40871,7 +41021,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Guttene bryter seg inn for å stjele urnen med Kennys aske.</desc>
         <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d87f53ec9fda0008a5b810" start="20260604121400 +0000" stop="20260604160000 +0000">
+    <programme channel="65d87f53ec9fda0008a5b810" start="20260604121400 +0000" stop="20260604124100 +0000">
+        <title>South Park: Hyllusinasjoner</title>
+        <desc>De hysteriske foreldrene i South Park får enda en grunn til panikk når 'cheesing' blir poplært blant barna.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d87f53ec9fda0008a5b810" start="20260604124100 +0000" stop="20260604130800 +0000">
+        <title>South Park: Selvantenning</title>
+        <desc>Innbyggerne i South Park begynner å eksplodere uten forvarsel. Stans far tar saken.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d87f53ec9fda0008a5b810" start="20260604130800 +0000" stop="20260604160000 +0000">
         <title>South Park: Kenny Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d87f53ec9fda0008a5b810/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40881,7 +41041,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Stan vil finne opprinnelsen til malte påskeegg og oppdager en hemmelighet om den katolske kirken.</desc>
         <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d87f7a28730900088e7fbf" start="20260604120900 +0000" stop="20260604160000 +0000">
+    <programme channel="65d87f7a28730900088e7fbf" start="20260604120900 +0000" stop="20260604123500 +0000">
+        <title>South Park: Du har null venner</title>
+        <desc>Mot bedre vitende, blir Stan med på Facebook og blir en sosialt nettworkende 'juggernaut', noe som forårsaker at han selv blir sugd inn i websiden.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d87f7a28730900088e7fbf" start="20260604123500 +0000" stop="20260604130200 +0000">
+        <title>South Park: Guitar Queer-O</title>
+        <desc>Stan og Kyle står overfor sitt store gjennombrudd med Guitar Hero-ferdighetene sine. Manageren deres overbeviser Stan om at Kyle holder ham tilbake, og skaper spenninger mellom dem.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d87f7a28730900088e7fbf" start="20260604130200 +0000" stop="20260604160000 +0000">
         <title>South Park: Stan Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d87f7a28730900088e7fbf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40891,7 +41061,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Cartman later som han har Tourettes, og gleder seg over å si hva han vil til hvem han vil. Riksdekkende TV er naturligvis snart på plass.</desc>
         <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d87fa0f7f0af0008b2358b" start="20260604121600 +0000" stop="20260604160000 +0000">
+    <programme channel="65d87fa0f7f0af0008b2358b" start="20260604121600 +0000" stop="20260604124300 +0000">
+        <title>South Park: Heia Gud</title>
+        <desc>Cartman prøver å reise til fremtiden for å kjøpe et nytt dataspill.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d87fa0f7f0af0008b2358b" start="20260604124300 +0000" stop="20260604131000 +0000">
+        <title>South Park: Scott Tenorman må dø</title>
+        <desc>Cartman blir rasende på Scott Tenorman da rødhårede Scott lurer ham til å kjøpe kjønnshår for 16,12 dollar.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d87fa0f7f0af0008b2358b" start="20260604131000 +0000" stop="20260604160000 +0000">
         <title>South Park: Cartman Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d87fa0f7f0af0008b2358b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40901,7 +41081,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Uvitende og evig uskyldige Butters starter 'Kysseselskapet AS' og blir raskt den mest beryktete halliken i strøket.</desc>
         <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d87fcb66eec8000887f4aa" start="20260604121900 +0000" stop="20260604160000 +0000">
+    <programme channel="65d87fcb66eec8000887f4aa" start="20260604121900 +0000" stop="20260604124600 +0000">
+        <title>South Park: Trygt sted</title>
+        <desc>Cartman er siste offer innen kroppsskam.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d87fcb66eec8000887f4aa" start="20260604124600 +0000" stop="20260604131300 +0000">
+        <title>South Park: Gjør som de innfødte</title>
+        <desc>Tiden er kommet da Butters legger ut på en reise i sine hawaiiske forfedres fotspor.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d87fcb66eec8000887f4aa" start="20260604131300 +0000" stop="20260604160000 +0000">
         <title>South Park: Butters Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d87fcb66eec8000887f4aa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40911,7 +41101,22 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Chef mener South Parks flagg er rasistisk. Stan og Kyle leder tilhengerne av det gamle flagget, mens Wendy og Cartman støtter dem som ønsker et nytt flagg.</desc>
         <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d88004ec9fda0008a5b8b3" start="20260604120600 +0000" stop="20260604160000 +0000">
+    <programme channel="65d88004ec9fda0008a5b8b3" start="20260604120600 +0000" stop="20260604123300 +0000">
+        <title>South Park: Glade hologram</title>
+        <desc>Cartman trender, mens resten av USA forbereder seg til det største juleprogrammet på tv noensinne.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d88004ec9fda0008a5b8b3" start="20260604123300 +0000" stop="20260604130000 +0000">
+        <title>South Park: Mysteriet med toeren på pissoaret</title>
+        <desc>Cartman tror han vet hvem som står bak angrepene 11. september.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d88004ec9fda0008a5b8b3" start="20260604130000 +0000" stop="20260604132700 +0000">
+        <title>South Park: Fantasilandet II</title>
+        <desc>Myndighetene holder Stan og Kyle fanget og nekter å slippe dem fri før de avslører hvordan de kom til Imaginationland.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d88004ec9fda0008a5b8b3" start="20260604132700 +0000" stop="20260604160000 +0000">
         <title>South Park: Kyle Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d88004ec9fda0008a5b8b3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40921,7 +41126,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Guttene har spilt World of Warcraft en hel helg da en annen spiller dreper dem uten tegn på anger.</desc>
         <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660bff5724e1d000085b7c07" start="20260604121700 +0000" stop="20260604160000 +0000">
+    <programme channel="660bff5724e1d000085b7c07" start="20260604121700 +0000" stop="20260604124400 +0000">
+        <title>South Park: Mysteriet med toeren på pissoaret</title>
+        <desc>Cartman tror han vet hvem som står bak angrepene 11. september.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660bff5724e1d000085b7c07" start="20260604124400 +0000" stop="20260604131100 +0000">
+        <title>South Park: Heia Gud</title>
+        <desc>Cartman prøver å reise til fremtiden for å kjøpe et nytt dataspill.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660bff5724e1d000085b7c07" start="20260604131100 +0000" stop="20260604160000 +0000">
         <title>South Park Armageddon</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660bff5724e1d000085b7c07/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40941,7 +41156,22 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Den nye gutten i klassen overtaler Jesus til å kjempe mot Satan, i det endelige oppgjøret mellom godt og ondt. Cartman blir rasende når han oppdager at oppgjøret krasjer med bursdagsfesten hans.</desc>
         <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664f0ecc41af640008e37b43" start="20260604120300 +0000" stop="20260604160000 +0000">
+    <programme channel="664f0ecc41af640008e37b43" start="20260604120300 +0000" stop="20260604123000 +0000">
+        <title>South Park: Mecha Streisand</title>
+        <desc>Cartman og Kyle krangler om et magisk triangel som kan forvandle Barbra Streisand til et fryktelig monster.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664f0ecc41af640008e37b43" start="20260604123000 +0000" stop="20260604125700 +0000">
+        <title>South Park: Cartmans mor er en hore</title>
+        <desc>Dr. Mephisto hjelper Cartman med å avsløre farens identitet, og alle mannlige innbyggere i South Park er aktuelle kandidater.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664f0ecc41af640008e37b43" start="20260604125700 +0000" stop="20260604132400 +0000">
+        <title>South Park: Byen ved avgrunnens rand (tilbakeblikk)</title>
+        <desc>Skolebussen krasjer i en snøstorm og blir stående på kanten av et stup.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664f0ecc41af640008e37b43" start="20260604132400 +0000" stop="20260604160000 +0000">
         <title>South Park: Into the Stars</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/664f0ecc41af640008e37b43/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40951,7 +41181,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Høyt urininnhold i svømmebassenget fører til en katastrofe som ødelegger guttas dag, særlig Kyles. Og Cartmans xenofobi får fritt utløp igjen.</desc>
         <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664f1370f78a8500092df452" start="20260604122700 +0000" stop="20260604160000 +0000">
+    <programme channel="664f1370f78a8500092df452" start="20260604122700 +0000" stop="20260604125400 +0000">
+        <title>South Park: Broadway-brødrene</title>
+        <desc>Når Randy forstår hemmeligheten bak musikaler, kan han ikke slutte med å ta med seg Sharon for å se dem. Andrew Lloyd-Webber og Elton John advarer ham mot å avsløre deres hemmelighet.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664f1370f78a8500092df452" start="20260604125400 +0000" stop="20260604132100 +0000">
+        <title>South Park: Butter slår tilbake</title>
+        <desc>Butters blir i hemmelighet plaget av sin bestemor og Stan ønsker å øke bevisstheten om farene ved mobbing. Stans idé er å spille inn en stor dansevideo, men suksessen raskt går til hodet på ham.</desc>
+        <icon src="https://images.pluto.tv/series/625e62087b9eaf00137abd13/tile_1774357200980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664f1370f78a8500092df452" start="20260604132100 +0000" stop="20260604160000 +0000">
         <title>South Park Rockin' Out</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/664f1370f78a8500092df452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40967,7 +41207,19 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
 sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendinger som viser konkurranser innen sprangridning, travsport og dressur."</desc>
         <icon src="https://images.pluto.tv/series/67a5b8459a300a0008792abe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="671b4e47daad7f000868b840" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="671b4e47daad7f000868b840" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Horse &amp; Country</title>
+        <desc>"Denne kanalen tilbyr den beste blandingen av spesialisert hestesport som inkluderer
+sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendinger som viser konkurranser innen sprangridning, travsport og dressur."</desc>
+        <icon src="https://images.pluto.tv/series/67a5b8459a300a0008792abe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671b4e47daad7f000868b840" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Horse &amp; Country</title>
+        <desc>"Denne kanalen tilbyr den beste blandingen av spesialisert hestesport som inkluderer
+sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendinger som viser konkurranser innen sprangridning, travsport og dressur."</desc>
+        <icon src="https://images.pluto.tv/series/67a5b8459a300a0008792abe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671b4e47daad7f000868b840" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Horse &amp; Country</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/671b4e47daad7f000868b840/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40977,7 +41229,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Begyndelsen. Mark O Madsen er stoppet som fighter – men kampen er langt fra slut. Sammen med Maria sætter han alt på spil i forsøget på at skabe Danmarks største MMA-show. Næsten allerede fra første skridt er udfordringerne overvældende.</desc>
         <icon src="https://images.pluto.tv/series/68c2bd5506254fd0f61dbccd/tile_1757667218451.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67a23b899a300a00086f3371" start="20260604124043 +0000" stop="20260604160000 +0000">
+    <programme channel="67a23b899a300a00086f3371" start="20260604124043 +0000" stop="20260604132018 +0000">
+        <title>Dare, Dream, Dominate.: The Big Light</title>
+        <desc>Større. Vildere. Hårdere. DFC 2.0 bliver kampen for selve drømmen.</desc>
+        <icon src="https://images.pluto.tv/series/68c2bd5506254fd0f61dbccd/tile_1757667218451.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a23b899a300a00086f3371" start="20260604132018 +0000" stop="20260604160000 +0000">
         <title>Dominance FC TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67a23b899a300a00086f3371/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40987,7 +41244,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Hvis du elsker kjærlighet i alle dens former, er denne kanalen for deg! Kos deg med alle MTV-programmene der kjærlighet aldri er for mye!</desc>
         <icon src="https://images.pluto.tv/series/68540a4982d704acfcf47d38/tile_1750342772381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68513950f212bedacf8ec48f" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="68513950f212bedacf8ec48f" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>MTV Pride</title>
+        <desc>Hvis du elsker kjærlighet i alle dens former, er denne kanalen for deg! Kos deg med alle MTV-programmene der kjærlighet aldri er for mye!</desc>
+        <icon src="https://images.pluto.tv/series/68540a4982d704acfcf47d38/tile_1750342772381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68513950f212bedacf8ec48f" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>MTV Pride</title>
+        <desc>Hvis du elsker kjærlighet i alle dens former, er denne kanalen for deg! Kos deg med alle MTV-programmene der kjærlighet aldri er for mye!</desc>
+        <icon src="https://images.pluto.tv/series/68540a4982d704acfcf47d38/tile_1750342772381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68513950f212bedacf8ec48f" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>MTV Pride</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68513950f212bedacf8ec48f/featuredImage_1780302351813.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40997,17 +41264,27 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/68e4c9a0d70c07ace88ec7ea/tile_1759827747418.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68ac55fe3efb41cd979a6877" start="20260604121500 +0000" stop="20260604160000 +0000">
-        <title>Pluto TV Snooker 900</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68ac55fe3efb41cd979a6877/featuredImage_1760516449309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="68ac55fe3efb41cd979a6877" start="20260604121500 +0000" stop="20260604164500 +0000">
+        <title>The Crucible Cup</title>
+        <desc>Snooker 900 er den nye hurtige og spennende versjonen av spillet! Kom og se ukentlige konkurranser, arkiv spill, studio segmenter og mye mer.</desc>
+        <icon src="https://images.pluto.tv/series/69d8e0057f004573bea00460/tile_1775820809403.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691ed76a9c828fb484f7c2e5" start="20260604115909 +0000" stop="20260604122909 +0000">
         <title>Inter 24/7</title>
         <desc>Inter, en av verdens mest berømte fotballklubber, åpner arkivet sitt for en helt ny kanal med ikoniske Nerazzurri-legender og historiske sportsøyeblikk. Fra klubbens storhetstid til de siste triumfene, som førte til den «andre gylne stjernen».</desc>
         <icon src="https://images.pluto.tv/series/69baada2589ef6801e39a62d/tile_1773841827816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691ed76a9c828fb484f7c2e5" start="20260604122909 +0000" stop="20260604160000 +0000">
+    <programme channel="691ed76a9c828fb484f7c2e5" start="20260604122909 +0000" stop="20260604125909 +0000">
+        <title>Inter 24/7</title>
+        <desc>Inter, en av verdens mest berømte fotballklubber, åpner arkivet sitt for en helt ny kanal med ikoniske Nerazzurri-legender og historiske sportsøyeblikk. Fra klubbens storhetstid til de siste triumfene, som førte til den «andre gylne stjernen».</desc>
+        <icon src="https://images.pluto.tv/series/69baada2589ef6801e39a62d/tile_1773841827816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691ed76a9c828fb484f7c2e5" start="20260604125909 +0000" stop="20260604132909 +0000">
+        <title>Inter 24/7</title>
+        <desc>Inter, en av verdens mest berømte fotballklubber, åpner arkivet sitt for en helt ny kanal med ikoniske Nerazzurri-legender og historiske sportsøyeblikk. Fra klubbens storhetstid til de siste triumfene, som førte til den «andre gylne stjernen».</desc>
+        <icon src="https://images.pluto.tv/series/69baada2589ef6801e39a62d/tile_1773841827816.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691ed76a9c828fb484f7c2e5" start="20260604132909 +0000" stop="20260604160000 +0000">
         <title>Inter 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691ed76a9c828fb484f7c2e5/featuredImage_1775046984569.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41017,7 +41294,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>While Scott turns to an unlikely ally for help, Stiles and Lydia try to uncover the truth about Parrish.</desc>
         <icon src="https://images.pluto.tv/series/69f1ff7e7b310cf6d55d3942/tile_1777467263688.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="693ae3624258f18a3e117b8b" start="20260604122805 +0000" stop="20260604160000 +0000">
+    <programme channel="693ae3624258f18a3e117b8b" start="20260604122805 +0000" stop="20260604131952 +0000">
+        <title>Teen Wolf</title>
+        <desc>Scott and his pack face their greatest enemy yet, with both lives and friendships on the verge of being destroyed.</desc>
+        <icon src="https://images.pluto.tv/series/69f1ff7e7b310cf6d55d3942/tile_1777467263688.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="693ae3624258f18a3e117b8b" start="20260604131952 +0000" stop="20260604160000 +0000">
         <title>Teen Wolf</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/693ae3624258f18a3e117b8b/featuredImage_1770362386497.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41027,7 +41309,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Tom is furious after finding out that Lytell has taken his son Kyle into custody. Diana offers to help him in getting Kyle back. Meanwhile, Richard suspects that Collier is trying to take control of Lily's life.</desc>
         <icon src="https://images.pluto.tv/series/69a9d149d554a0f20454d54f/tile_1776695041467.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69afeca6ac36b147e7ef33a7" start="20260604122743 +0000" stop="20260604160000 +0000">
+    <programme channel="69afeca6ac36b147e7ef33a7" start="20260604122743 +0000" stop="20260604131857 +0000">
+        <title>The 4400</title>
+        <desc>It's been one year since the 4400 returned. After a period of intense medical observation, Tom has returned to NTAC in a limited capacity, assigned only to desk duty. Diana finally finds a way to cut through the red tape and get Tom back.</desc>
+        <icon src="https://images.pluto.tv/series/69a9d149d554a0f20454d54f/tile_1776695041467.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69afeca6ac36b147e7ef33a7" start="20260604131857 +0000" stop="20260604160000 +0000">
         <title>The 4400</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69afeca6ac36b147e7ef33a7/featuredImage_1776175878061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41037,7 +41324,22 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>When staging their church's annual living nativity scene does not go as planned, Kip urges the Millers to stage their own rival show.</desc>
         <icon src="https://images.pluto.tv/series/69c1b03b2a202dc93b7c7b40/tile_1774301244430.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69afef233bd16a4ed07108e9" start="20260604120440 +0000" stop="20260604160000 +0000">
+    <programme channel="69afef233bd16a4ed07108e9" start="20260604120440 +0000" stop="20260604123014 +0000">
+        <title>The Millers: Hero</title>
+        <desc>When Nathan decides he should have a better relationship with his niece Mikayla, he agrees to use his celebrity status to help Debbie and Adam get her into a popular school.</desc>
+        <icon src="https://images.pluto.tv/series/69c1b03b2a202dc93b7c7b40/tile_1774301244430.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69afef233bd16a4ed07108e9" start="20260604123014 +0000" stop="20260604125701 +0000">
+        <title>The Millers: Pilot</title>
+        <desc>Nathan and his sister, Debbie, are upset when their parents announce they're divorcing after 43 years of marriage.</desc>
+        <icon src="https://images.pluto.tv/series/69c1b03b2a202dc93b7c7b40/tile_1774301244430.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69afef233bd16a4ed07108e9" start="20260604125701 +0000" stop="20260604132348 +0000">
+        <title>The Millers: Stuff</title>
+        <desc>Nathan hatches a plan to get his parents back together by showing them all of their sentimental family possessions in the hopes it will make them remember the good times they've had.</desc>
+        <icon src="https://images.pluto.tv/series/69c1b03b2a202dc93b7c7b40/tile_1774301244430.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69afef233bd16a4ed07108e9" start="20260604132348 +0000" stop="20260604160000 +0000">
         <title>The Millers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69afef233bd16a4ed07108e9/featuredImage_1776168499617.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41047,7 +41349,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Se universet som astronautene og i fantastiske detaljer! Her er verdens første kontinuerlige direktesending av planeten vår fra en internasjonale romstasjonen. Opplev Jorden fra et super unikt perspektiv levert til stuen din fra verdensrommet.</desc>
         <icon src="https://images.pluto.tv/series/69e1d8b0fde57cd5ba3edbb6/tile_1776408753322.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b16df6ed2a2444365e7ff1" start="20260604122445 +0000" stop="20260604160000 +0000">
+    <programme channel="69b16df6ed2a2444365e7ff1" start="20260604122445 +0000" stop="20260604125445 +0000">
+        <title>Space Live</title>
+        <desc>Se universet som astronautene og i fantastiske detaljer! Her er verdens første kontinuerlige direktesending av planeten vår fra en internasjonale romstasjonen. Opplev Jorden fra et super unikt perspektiv levert til stuen din fra verdensrommet.</desc>
+        <icon src="https://images.pluto.tv/series/69e1d8b0fde57cd5ba3edbb6/tile_1776408753322.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b16df6ed2a2444365e7ff1" start="20260604125445 +0000" stop="20260604132445 +0000">
+        <title>Space Live</title>
+        <desc>Se universet som astronautene og i fantastiske detaljer! Her er verdens første kontinuerlige direktesending av planeten vår fra en internasjonale romstasjonen. Opplev Jorden fra et super unikt perspektiv levert til stuen din fra verdensrommet.</desc>
+        <icon src="https://images.pluto.tv/series/69e1d8b0fde57cd5ba3edbb6/tile_1776408753322.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b16df6ed2a2444365e7ff1" start="20260604132445 +0000" stop="20260604160000 +0000">
         <title>Space Live</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b16df6ed2a2444365e7ff1/featuredImage_1775118586945.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41842,7 +42154,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Catfish, det populære MTV-programmet som samler par som bare har hatt kontakt via skjermer. I løpet av måneder skal de visstnok ha forelsket seg, men hva skjer når de møtes i virkeligheten for første gang?</desc>
         <icon src="https://images.pluto.tv/series/6854164a33a52de1204934c3/tile_1751030374862.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61781a52a3638a00078fa57e" start="20260604121732 +0000" stop="20260604160000 +0000">
+    <programme channel="61781a52a3638a00078fa57e" start="20260604121732 +0000" stop="20260604124732 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, det populære MTV-programmet som samler par som bare har hatt kontakt via skjermer. I løpet av måneder skal de visstnok ha forelsket seg, men hva skjer når de møtes i virkeligheten for første gang?</desc>
+        <icon src="https://images.pluto.tv/series/6854164a33a52de1204934c3/tile_1751030374862.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61781a52a3638a00078fa57e" start="20260604124732 +0000" stop="20260604131732 +0000">
+        <title>MTV Catfish</title>
+        <desc>Catfish, det populære MTV-programmet som samler par som bare har hatt kontakt via skjermer. I løpet av måneder skal de visstnok ha forelsket seg, men hva skjer når de møtes i virkeligheten for første gang?</desc>
+        <icon src="https://images.pluto.tv/series/6854164a33a52de1204934c3/tile_1751030374862.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61781a52a3638a00078fa57e" start="20260604131732 +0000" stop="20260604160000 +0000">
         <title>MTV Catfish</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61781a52a3638a00078fa57e/featuredImage_1750864596055.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41852,7 +42174,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>En 24/7 kanal for folk som er nyskjerrige på mote og design! Supermodellen Heidi Klum er vert for denne spennende reality-serien som gir sultne, talentfulle designere sjansen til å vise frem sitt arbeid for New York.</desc>
         <icon src="https://images.pluto.tv/series/668d4cba3a4ad20008c5b8d4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61814ff322e67b00074a5c43" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="61814ff322e67b00074a5c43" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Project Runway</title>
+        <desc>En 24/7 kanal for folk som er nyskjerrige på mote og design! Supermodellen Heidi Klum er vert for denne spennende reality-serien som gir sultne, talentfulle designere sjansen til å vise frem sitt arbeid for New York.</desc>
+        <icon src="https://images.pluto.tv/series/668d4cba3a4ad20008c5b8d4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61814ff322e67b00074a5c43" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Project Runway</title>
+        <desc>En 24/7 kanal for folk som er nyskjerrige på mote og design! Supermodellen Heidi Klum er vert for denne spennende reality-serien som gir sultne, talentfulle designere sjansen til å vise frem sitt arbeid for New York.</desc>
+        <icon src="https://images.pluto.tv/series/668d4cba3a4ad20008c5b8d4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61814ff322e67b00074a5c43" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Project Runway</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61814ff322e67b00074a5c43/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41862,7 +42194,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Når Lauren drar på ferie med familien, ting går galt i Los Angeles. Stephanie dater Doug bak Laurens rygg, og Audrina og Heidi blir venner.</desc>
         <icon src="https://images.pluto.tv/series/621742411990720013c95429/tile_1768315355231.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1d56f28e94c0007827bdb" start="20260604122300 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1d56f28e94c0007827bdb" start="20260604122300 +0000" stop="20260604124500 +0000">
+        <title>The Hills: Don't Act Innocent</title>
+        <desc>Sannheten om Stephanies forhold til Laurens eks Doug kommer til slutt fram når de alle møtes på Dougs poolparty. Heidis mor kommer overraskende på besøk til LA og havner i en konfrontasjon med Spencer.</desc>
+        <icon src="https://images.pluto.tv/series/621742411990720013c95429/tile_1768315355231.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1d56f28e94c0007827bdb" start="20260604124500 +0000" stop="20260604130700 +0000">
+        <title>The Hills: If She Never Met Spencer...</title>
+        <desc>Lauren får et brev fra Heidi hvor hun beklager og innser at det er bare én ting som hindrer dem fra å bli venner igjen. Audrina starter å date en ny fyr for å gjøre Justin sjalu, men planen går feil.</desc>
+        <icon src="https://images.pluto.tv/series/621742411990720013c95429/tile_1768315355231.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1d56f28e94c0007827bdb" start="20260604130700 +0000" stop="20260604160000 +0000">
         <title>The Hills</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1d56f28e94c0007827bdb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41872,7 +42214,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Singlenes elendighet fortsetter når Sean hopper fra Zahida til Zaralena, og Harriettes kjærlighetstrekant blir verre. Maisie vil at noe skal skje og Aaron fra Geordie Shore gjør spektakulær entré, men hvem av eksene er hans?</desc>
         <icon src="https://images.pluto.tv/series/62694f7b7b9eaf00137e2ec2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1d66518447e000717e4c2" start="20260604123303 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1d66518447e000717e4c2" start="20260604123303 +0000" stop="20260604132603 +0000">
+        <title>Ex On The Beach: Nicole's Nightmare</title>
+        <desc>Det blir spent i villaen når Zaralena får kjenne på Zahidas vrede. Den nye eksen får gutta til å oppføre seg eiersyke. Josh har et godt øye til Nicole, men tar det slutt når hun oppdager en grusom hemmelighet?</desc>
+        <icon src="https://images.pluto.tv/series/62694f7b7b9eaf00137e2ec2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1d66518447e000717e4c2" start="20260604132603 +0000" stop="20260604160000 +0000">
         <title>Ex On The Beach</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1d66518447e000717e4c2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41882,7 +42229,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>In this episode, West Coast Customs pimps Cristi's Chevrolet Panel Truck.</desc>
         <icon src="https://images.pluto.tv/series/626f7be0e26cc40014ab05c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1d6e1f5acaf0007f8381d" start="20260604121400 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1d6e1f5acaf0007f8381d" start="20260604121400 +0000" stop="20260604123800 +0000">
+        <title>Pimp My Ride</title>
+        <desc>In this episode, the crew pimps Calvin's Chevrolet Malibu.</desc>
+        <icon src="https://images.pluto.tv/series/626f7be0e26cc40014ab05c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1d6e1f5acaf0007f8381d" start="20260604123800 +0000" stop="20260604130300 +0000">
+        <title>Pimp My Ride</title>
+        <desc>In this episode, the crew pimps Erin's Volkswagen Thing.</desc>
+        <icon src="https://images.pluto.tv/series/626f7be0e26cc40014ab05c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1d6e1f5acaf0007f8381d" start="20260604130300 +0000" stop="20260604160000 +0000">
         <title>Pimp My Ride</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1d6e1f5acaf0007f8381d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41892,7 +42249,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>En femkant ryster husets dynamikk. Justins selvdestruktivitet truer forholdet til Max. Danny fikser en forbindelse.</desc>
         <icon src="https://images.pluto.tv/series/61fa4c7df30167001a6fe0c5/tile_1780393321327.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1db8ed6d97900076ea15c" start="20260604122000 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1db8ed6d97900076ea15c" start="20260604122000 +0000" stop="20260604130600 +0000">
+        <title>Are You The One?: Hate to Burst Your Bubble</title>
+        <desc>Huset vil absolutt finne ut hvilke av superparene som er perfekte for hverandre. Jonathan er fast bestemt på å få en kjærlighetsboble til å sprekke. Kai sjekker opp, rett for ansiktet på Jenna.</desc>
+        <icon src="https://images.pluto.tv/series/61fa4c7df30167001a6fe0c5/tile_1780393321327.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1db8ed6d97900076ea15c" start="20260604130600 +0000" stop="20260604160000 +0000">
         <title>Are You The One?</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1db8ed6d97900076ea15c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41902,7 +42264,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Opplev de dramatiske øyeblikkene når de unge mødrene takler hverdagslige utfordringer eller opplever uforglemmelige øyeblikk. Det er uavbrutt drama hele dagen, hver dag.</desc>
         <icon src="https://images.pluto.tv/series/6837153f61f04ba22556ff62/tile_1748440473850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c1df62b7672a0007b6c9ba" start="20260604120152 +0000" stop="20260604160000 +0000">
+    <programme channel="61c1df62b7672a0007b6c9ba" start="20260604120152 +0000" stop="20260604123152 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Opplev de dramatiske øyeblikkene når de unge mødrene takler hverdagslige utfordringer eller opplever uforglemmelige øyeblikk. Det er uavbrutt drama hele dagen, hver dag.</desc>
+        <icon src="https://images.pluto.tv/series/6837153f61f04ba22556ff62/tile_1748440473850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1df62b7672a0007b6c9ba" start="20260604123152 +0000" stop="20260604130152 +0000">
+        <title>MTV Teen Mom</title>
+        <desc>Opplev de dramatiske øyeblikkene når de unge mødrene takler hverdagslige utfordringer eller opplever uforglemmelige øyeblikk. Det er uavbrutt drama hele dagen, hver dag.</desc>
+        <icon src="https://images.pluto.tv/series/6837153f61f04ba22556ff62/tile_1748440473850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c1df62b7672a0007b6c9ba" start="20260604130152 +0000" stop="20260604160000 +0000">
         <title>MTV Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c1df62b7672a0007b6c9ba/featuredImage_1748001793322.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41912,7 +42284,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Ramsay tests the chefs' palates. Celebrity diners Eric McCormack and Robert Patrick stop by for dinner, bringing tensions to a boil.</desc>
         <icon src="https://images.pluto.tv/series/660fa8925483810014d451ce/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62022f7b9fcc3800076f8c26" start="20260604123400 +0000" stop="20260604160000 +0000">
+    <programme channel="62022f7b9fcc3800076f8c26" start="20260604123400 +0000" stop="20260604132600 +0000">
+        <title>Hell's Kitchen USA</title>
+        <desc>Each team must present chef Ramsay with a dish made with king crab; each team gets to create their own menus for the dinner service.</desc>
+        <icon src="https://images.pluto.tv/series/660fa8925483810014d451ce/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62022f7b9fcc3800076f8c26" start="20260604132600 +0000" stop="20260604160000 +0000">
         <title>Hell's Kitchen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62022f7b9fcc3800076f8c26/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41922,7 +42299,13 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Et beskyttet vitne blir drept mens Walker og Trivette vokter ham, noe som kan føre til at en mafioso slipper ut av fengsel. Under dekke av å være en leiemorder drar Walker til fengselet for å få en drapstilståelse ut av mafiosoen.</desc>
         <icon src="https://images.pluto.tv/series/62e23339be1ffb001409267c/tile_1773156961028.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62a0ae8b2241f500073e0925" start="20260604125300 +0000" stop="20260604160000 +0000">
+    <programme channel="62a0ae8b2241f500073e0925" start="20260604125300 +0000" stop="20260604134700 +0000">
+        <title>Walker Texas Ranger: LaRues tilbakekomst</title>
+        <desc>Alex satte Victor LaRue, mannen som kidnappet og prøvde å voldta henne,  i fengsel,
+men minnet hjemsøker henne. Hun frykter for livet når han slippes ut grunnet en formalitet og søker hevn.</desc>
+        <icon src="https://images.pluto.tv/series/62e23339be1ffb001409267c/tile_1773156961028.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62a0ae8b2241f500073e0925" start="20260604134700 +0000" stop="20260604160000 +0000">
         <title>Walker Texas Ranger</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62a0ae8b2241f500073e0925/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41932,7 +42315,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Rob Dyrdek styrer serien, som inneholder klipp fra nettet, samt har kjendisgjester og medprogramledere som Sterling «Steelo», Madison Beer og danske Nina Agdal. Nye episoder hver onsdag.</desc>
         <icon src="https://images.pluto.tv/series/68761b53fd6704e9d3e8a64a/tile_1752575792355.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62cd9e0d10bb020007005628" start="20260604120559 +0000" stop="20260604160000 +0000">
+    <programme channel="62cd9e0d10bb020007005628" start="20260604120559 +0000" stop="20260604123559 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek styrer serien, som inneholder klipp fra nettet, samt har kjendisgjester og medprogramledere som Sterling «Steelo», Madison Beer og danske Nina Agdal. Nye episoder hver onsdag.</desc>
+        <icon src="https://images.pluto.tv/series/68761b53fd6704e9d3e8a64a/tile_1752575792355.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62cd9e0d10bb020007005628" start="20260604123559 +0000" stop="20260604130559 +0000">
+        <title>MTV Ridiculousness</title>
+        <desc>Rob Dyrdek styrer serien, som inneholder klipp fra nettet, samt har kjendisgjester og medprogramledere som Sterling «Steelo», Madison Beer og danske Nina Agdal. Nye episoder hver onsdag.</desc>
+        <icon src="https://images.pluto.tv/series/68761b53fd6704e9d3e8a64a/tile_1752575792355.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62cd9e0d10bb020007005628" start="20260604130559 +0000" stop="20260604160000 +0000">
         <title>MTV Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62cd9e0d10bb020007005628/featuredImage_1762762298155.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41942,7 +42335,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>I dette avsnittet pimper gjengen fra West Coast Customs Shondas Ford Mustang Convertible. Hun ruller i vei i et pimpet og helt trafikksikkert kjøretøy.</desc>
         <icon src="https://images.pluto.tv/series/626f7be0e26cc40014ab05c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="632afc466699570007ed1106" start="20260604122204 +0000" stop="20260604160000 +0000">
+    <programme channel="632afc466699570007ed1106" start="20260604122204 +0000" stop="20260604124504 +0000">
+        <title>Pimp My Ride: Maxima Station Wagon</title>
+        <desc>I dette avsnittet pimper teamet fra West Coast Customs Ezras Nissan Maxima Station Wagon. Han kjører av gårde i en mobil DJ-bås.</desc>
+        <icon src="https://images.pluto.tv/series/626f7be0e26cc40014ab05c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="632afc466699570007ed1106" start="20260604124504 +0000" stop="20260604130904 +0000">
+        <title>Pimp My Ride: Volkswagen Baja</title>
+        <desc>I dette avsnittet pimper teamet fra West Coast Customs Krissys Volkswagen Baja Bug. Boblen fra 1969 ble konstruert med holdbarhet som mål. Men med sitt bøyde eksosrør og sine ødelagte dører, kan den virkelig beskrives som alt annet enn akkurat det.</desc>
+        <icon src="https://images.pluto.tv/series/626f7be0e26cc40014ab05c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="632afc466699570007ed1106" start="20260604130904 +0000" stop="20260604160000 +0000">
         <title>Best of MTV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/632afc466699570007ed1106/featuredImage_1767773488031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41952,7 +42355,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Sal Mineo guest stars as a ruthless young operator who heads up an international narcotics ring which the IMF attempts to break up on Paramount Television's "Mission: Impossible."</desc>
         <icon src="https://images.pluto.tv/series/647dda06a7ef77001ae0e55f/tile_1747830373044.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="639b4eb4da3fda0008036f6e" start="20260604123500 +0000" stop="20260604160000 +0000">
+    <programme channel="639b4eb4da3fda0008036f6e" start="20260604123500 +0000" stop="20260604133300 +0000">
+        <title>Mission: Impossible: My Friend, My Enemy</title>
+        <desc>Special-guest star Jill Haworth portrays a glamorous double agent, who uses her feminine wiles on Paris to set him up for an enemy plot on Paramount Television's "Mission: Impossible" series.</desc>
+        <icon src="https://images.pluto.tv/series/647dda06a7ef77001ae0e55f/tile_1747830373044.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="639b4eb4da3fda0008036f6e" start="20260604133300 +0000" stop="20260604160000 +0000">
         <title>Mission Impossible</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/639b4eb4da3fda0008036f6e/featuredImage_1747829697525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41962,7 +42370,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Mads og Mia ønsker å flytte litt utenfor byen - men ikke helt på landet. Med Tobias og Mads sin hjelp kjøper de en bolig som har nøyaktig alt de ikke liker.</desc>
         <icon src="https://images.pluto.tv/series/636cffa9cea64000135b8e15/tile_1775554561077.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63c6a1c46d126a000760b91c" start="20260604120529 +0000" stop="20260604160000 +0000">
+    <programme channel="63c6a1c46d126a000760b91c" start="20260604120529 +0000" stop="20260604131829 +0000">
+        <title>Buying Blind Denmark NO: Episode 401</title>
+        <desc>I første episode møter vi Tine og Lars, som har svimlende åtte millioner å kjøpe hus og pusse opp for. Men det store budsjettet har ikke hjulpet dem så langt - kan ekspertene være til hjelp?</desc>
+        <icon src="https://images.pluto.tv/series/636cffa9cea64000135b8e15/tile_1775554561077.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c6a1c46d126a000760b91c" start="20260604131829 +0000" stop="20260604160000 +0000">
         <title>Boligkjøp i blinde</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63c6a1c46d126a000760b91c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41972,7 +42385,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Tareq Taylor returns to his home turf to see what has happened and what the future might bring to the new nordic cuisine. He visits a local goat farmer and meets up with young enthusiastic chefs who takes this nordic legacy further.</desc>
         <icon src="https://images.pluto.tv/series/63e3a5431fdb9b0013766d75/tile_1772467561809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63c95451d3485c0007734f55" start="20260604120800 +0000" stop="20260604160000 +0000">
+    <programme channel="63c95451d3485c0007734f55" start="20260604120800 +0000" stop="20260604124200 +0000">
+        <title>Tareq Taylor's Nordic Cookery: Zealand</title>
+        <desc>Tareq Taylor visits the South Coast of Denmark to make his own versions of open-faced sandwiches and smoked fish dishes.</desc>
+        <icon src="https://images.pluto.tv/series/63e3a5431fdb9b0013766d75/tile_1772467561809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c95451d3485c0007734f55" start="20260604124200 +0000" stop="20260604131600 +0000">
+        <title>Tareq Taylor's Nordic Cookery: Dalsland</title>
+        <desc>Tareq Taylor puts on his hiking boots and explores the pilgrim trail of Dalsland in West Sweden. This episode will include outdoor cooking, foraging and beaver safari.</desc>
+        <icon src="https://images.pluto.tv/series/63e3a5431fdb9b0013766d75/tile_1772467561809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63c95451d3485c0007734f55" start="20260604131600 +0000" stop="20260604160000 +0000">
         <title>Tareq Taylor's Nordic Cookery</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63c95451d3485c0007734f55/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41982,7 +42405,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Geordierne har hjemmefest! Det er masse gøy og klining på gang. Beau foretrekker Bethan fremfor Abbie. Dette fører til en krangel mellom Chloe og Nathan - igjen! Scott syns lagånden bør styrkes så de rappellerer.</desc>
         <icon src="https://images.pluto.tv/series/62038331a0a48f0013d4e459/tile_1749548105065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64424a1d5a0cd500083ed27c" start="20260604121130 +0000" stop="20260604160000 +0000">
+    <programme channel="64424a1d5a0cd500083ed27c" start="20260604121130 +0000" stop="20260604130330 +0000">
+        <title>Geordie Shore: Fight Night!</title>
+        <desc>Nathan arrangerer en overraskelsesfest for sin singelbestevenn, Tahila. Aaron ringer huset og inviterer familien som støtte på hans første MMA-kamp i Newcastle. Alle stiller opp for Aaron, og familien drar i svært godt humør.</desc>
+        <icon src="https://images.pluto.tv/series/62038331a0a48f0013d4e459/tile_1749548105065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64424a1d5a0cd500083ed27c" start="20260604130330 +0000" stop="20260604160000 +0000">
         <title>Geordie Shore</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64424a1d5a0cd500083ed27c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -41992,7 +42420,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Gjengen drar til Atlantic City, der moro blir til alvor idet Mike støter fra seg både Snooki og Jwoww. En av deltakerne avslører at hun har hatt spiseforstyrrelser.</desc>
         <icon src="https://images.pluto.tv/series/630f007e7a42340013e72a48/tile_1774612491106.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64424b21e1979c0008379681" start="20260604124750 +0000" stop="20260604160000 +0000">
+    <programme channel="64424b21e1979c0008379681" start="20260604124750 +0000" stop="20260604133350 +0000">
+        <title>Jersey Shore: One Shot</title>
+        <desc>Sommeren går mot slutten, men dramaet er ikke over. Pauly får en stalker, og en deltaker havner i fengsel etter en slåsskamp.</desc>
+        <icon src="https://images.pluto.tv/series/630f007e7a42340013e72a48/tile_1774612491106.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64424b21e1979c0008379681" start="20260604133350 +0000" stop="20260604160000 +0000">
         <title>Jersey Shore</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64424b21e1979c0008379681/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42002,7 +42435,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>MacGyver is called in to test the unique security system of a top-secret research and development lab. The system, which is designed to entrap and exterminate intruders, malfunctions, trapping its creator, Jill Ludlum, and MacGyver inside.</desc>
         <icon src="https://images.pluto.tv/series/655c6242620744001433b9fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654a59d483595c0008187514" start="20260604120429 +0000" stop="20260604160000 +0000">
+    <programme channel="654a59d483595c0008187514" start="20260604120429 +0000" stop="20260604130232 +0000">
+        <title>MacGyver: Eagles</title>
+        <desc>In the wilderness, MacGyver and 10-year-old Darin Cooper intervene to save the lives of a pair of golden eagles injured by poachers. The poachers go after MacGyver -- witness to their crime -- and taking Darin and his mother hostage.</desc>
+        <icon src="https://images.pluto.tv/series/655c6242620744001433b9fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a59d483595c0008187514" start="20260604130232 +0000" stop="20260604160000 +0000">
         <title>MacGyver</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a59d483595c0008187514/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42012,7 +42450,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Ta frem bestikket! Fire fremmede konkurrerer om penger og tittelen som den ultimate vert for middagsselskapet, følg med for en spicy konkurranse.</desc>
         <icon src="https://images.pluto.tv/series/65e1a0cf4e01740008ba6869/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d7243c4e017400089e14a8" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="65d7243c4e017400089e14a8" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Come Dine with Me</title>
+        <desc>Ta frem bestikket! Fire fremmede konkurrerer om penger og tittelen som den ultimate vert for middagsselskapet, følg med for en spicy konkurranse.</desc>
+        <icon src="https://images.pluto.tv/series/65e1a0cf4e01740008ba6869/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d7243c4e017400089e14a8" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Come Dine with Me</title>
+        <desc>Ta frem bestikket! Fire fremmede konkurrerer om penger og tittelen som den ultimate vert for middagsselskapet, følg med for en spicy konkurranse.</desc>
+        <icon src="https://images.pluto.tv/series/65e1a0cf4e01740008ba6869/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d7243c4e017400089e14a8" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Come Dine with Me</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d7243c4e017400089e14a8/featuredImage_1771230847222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42022,7 +42470,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>While attending a UCLA Law seminar, Matlock and Michelle end up in a dangerous dilemma. After giving Matlock inside information regarding an upcoming hit his former law school classmate is involved in a fatal hit and run.</desc>
         <icon src="https://images.pluto.tv/series/6644ad8d4d780d00133ae75e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66290b7523e24f000832cc17" start="20260604121351 +0000" stop="20260604160000 +0000">
+    <programme channel="66290b7523e24f000832cc17" start="20260604121351 +0000" stop="20260604131112 +0000">
+        <title>Matlock: Mr. Awesome</title>
+        <desc>Matlock defends Anne Johnson, a single mother who’s been accused of murdering her recently estranged boyfriend.</desc>
+        <icon src="https://images.pluto.tv/series/6644ad8d4d780d00133ae75e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66290b7523e24f000832cc17" start="20260604131112 +0000" stop="20260604160000 +0000">
         <title>Matlock</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66290b7523e24f000832cc17/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42032,7 +42485,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Dr. Sloan and a headstrong attorney (Piper Laurie) investigate a drive-by shooting at a high school.</desc>
         <icon src="https://images.pluto.tv/series/668d2a6117101c00135cbcbc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="668bf91208d5490008065ffd" start="20260604123101 +0000" stop="20260604160000 +0000">
+    <programme channel="668bf91208d5490008065ffd" start="20260604123101 +0000" stop="20260604132645 +0000">
+        <title>Diagnosis Murder</title>
+        <desc>Dr. Sloan's daughter (Stacy Van Dyke) escapes from her abusive husband---a trucker who turns up murdered.</desc>
+        <icon src="https://images.pluto.tv/series/668d2a6117101c00135cbcbc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="668bf91208d5490008065ffd" start="20260604132645 +0000" stop="20260604160000 +0000">
         <title>Diagnosis Murder</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/668bf91208d5490008065ffd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42042,7 +42500,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Følg med huseiere når de tar valget om å endre livsstilen sin og bytte ut bylivet med det rolige livet på landet.</desc>
         <icon src="https://images.pluto.tv/series/66ff98424ca31f00080bb9d5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d71485167a8b0008fd3345" start="20260604123000 +0000" stop="20260604160000 +0000">
+    <programme channel="66d71485167a8b0008fd3345" start="20260604123000 +0000" stop="20260604130000 +0000">
+        <title>Escape to the Country</title>
+        <desc>Følg med huseiere når de tar valget om å endre livsstilen sin og bytte ut bylivet med det rolige livet på landet.</desc>
+        <icon src="https://images.pluto.tv/series/66ff98424ca31f00080bb9d5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71485167a8b0008fd3345" start="20260604130000 +0000" stop="20260604133000 +0000">
+        <title>Escape to the Country</title>
+        <desc>Følg med huseiere når de tar valget om å endre livsstilen sin og bytte ut bylivet med det rolige livet på landet.</desc>
+        <icon src="https://images.pluto.tv/series/66ff98424ca31f00080bb9d5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71485167a8b0008fd3345" start="20260604133000 +0000" stop="20260604160000 +0000">
         <title>Escape to the Country</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d71485167a8b0008fd3345/featuredImage_1745503910637.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42052,7 +42520,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Onkel Nino, moren til Ronnies baby og den nye typen til JWoww går inn i en bar.</desc>
         <icon src="https://images.pluto.tv/series/6204c7b2e9e2e90013925717/tile_1765870897277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6728c87cc7626f0008b28149" start="20260604122822 +0000" stop="20260604160000 +0000">
+    <programme channel="6728c87cc7626f0008b28149" start="20260604122822 +0000" stop="20260604131622 +0000">
+        <title>Jersey Shore Family Vacation: Millennials</title>
+        <desc>Jwowws nye mann, 24, blir med på festen i Las Vegas og blir kjent med alle huskameratene...særlig Angelina.</desc>
+        <icon src="https://images.pluto.tv/series/6204c7b2e9e2e90013925717/tile_1765870897277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6728c87cc7626f0008b28149" start="20260604131622 +0000" stop="20260604160000 +0000">
         <title>Jersey Shore Family Vacation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6728c87cc7626f0008b28149/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42062,7 +42535,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Iron Chef Chen takes on Iron Chef Sakai in this battle of lobster. Each does their best to be named the King of Iron Chefs!</desc>
         <icon src="https://images.pluto.tv/series/6850e2ffd84aa57d9ba858e4/tile_1750131459988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="682b3932faaa60cd7dbf87b4" start="20260604120439 +0000" stop="20260604160000 +0000">
+    <programme channel="682b3932faaa60cd7dbf87b4" start="20260604120439 +0000" stop="20260604125615 +0000">
+        <title>Iron Chef</title>
+        <desc>Having just been crowned as the King of Iron Chefs, Sakai has one more battle to go. Returning to Kitchen Stadium is the renowned French chef Alain Passard.</desc>
+        <icon src="https://images.pluto.tv/series/6850e2ffd84aa57d9ba858e4/tile_1750131459988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682b3932faaa60cd7dbf87b4" start="20260604125615 +0000" stop="20260604134813 +0000">
+        <title>Iron Chef</title>
+        <desc>Learn the history of the 'Iron Chef' competition with a look at the background of one of its all-time greatest chefs, Rokusaburo Michiba, the first Iron Chef Japanese.</desc>
+        <icon src="https://images.pluto.tv/series/6850e2ffd84aa57d9ba858e4/tile_1750131459988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682b3932faaa60cd7dbf87b4" start="20260604134813 +0000" stop="20260604160000 +0000">
         <title>Iron Chef</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/682b3932faaa60cd7dbf87b4/featuredImage_1747663251811.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42072,7 +42555,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Hvis du elsker kjærlighet i alle dens uttrykk, er denne kanalen for deg! Kos deg med alle MTV-programmene der kjærligheten aldri tar slutt.</desc>
         <icon src="https://images.pluto.tv/series/68540fcd21f49d1b9d9c34f6/tile_1750345005317.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685140bd21f49d1b9d177e21" start="20260604120256 +0000" stop="20260604160000 +0000">
+    <programme channel="685140bd21f49d1b9d177e21" start="20260604120256 +0000" stop="20260604123256 +0000">
+        <title>MTV Dating</title>
+        <desc>Hvis du elsker kjærlighet i alle dens uttrykk, er denne kanalen for deg! Kos deg med alle MTV-programmene der kjærligheten aldri tar slutt.</desc>
+        <icon src="https://images.pluto.tv/series/68540fcd21f49d1b9d9c34f6/tile_1750345005317.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685140bd21f49d1b9d177e21" start="20260604123256 +0000" stop="20260604130256 +0000">
+        <title>MTV Dating</title>
+        <desc>Hvis du elsker kjærlighet i alle dens uttrykk, er denne kanalen for deg! Kos deg med alle MTV-programmene der kjærligheten aldri tar slutt.</desc>
+        <icon src="https://images.pluto.tv/series/68540fcd21f49d1b9d9c34f6/tile_1750345005317.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685140bd21f49d1b9d177e21" start="20260604130256 +0000" stop="20260604160000 +0000">
         <title>MTV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685140bd21f49d1b9d177e21/featuredImage_1750843390676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42082,7 +42575,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>A crafty rancher tries to frame his wife with a hired hand in a plot to force money from her father.</desc>
         <icon src="https://images.pluto.tv/series/66c58fd357d82b00130dca92/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c01785b3900870ec7480e4" start="20260604123014 +0000" stop="20260604160000 +0000">
+    <programme channel="68c01785b3900870ec7480e4" start="20260604123014 +0000" stop="20260604133104 +0000">
+        <title>Gunsmoke</title>
+        <desc>Two bronco busters risk their lives to raise money for a ranch in Montana, only to have the dream ruined by a wild stallion.</desc>
+        <icon src="https://images.pluto.tv/series/66c58fd357d82b00130dca92/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68c01785b3900870ec7480e4" start="20260604133104 +0000" stop="20260604160000 +0000">
         <title>Pluto TV Wild West</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68c01785b3900870ec7480e4/featuredImage_1761916451822.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42092,7 +42590,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>I denne episoden av 'Ridiculousness' får Rob, Steelo og medvert Lolo Wood det tøft når de flytter ut og blir 'Såre flyttefolk', møter noen nye medarbeidere som er 'Dumme på jobben' og finner ut at det er greit å gi opp i 'Vi kutter ut'</desc>
         <icon src="https://images.pluto.tv/series/621f2990a1a84900140f7244/tile_1776863881378.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68dfa1a7fae18f8db6218222" start="20260604122557 +0000" stop="20260604160000 +0000">
+    <programme channel="68dfa1a7fae18f8db6218222" start="20260604122557 +0000" stop="20260604125157 +0000">
+        <title>Ridiculousness</title>
+        <desc>I denne episoden av 'Ridiculousness' går Rob Dyrdek, Steelo Brim og Lolo Wood på trynet i gresset idet de 'Eter plen', blir veltrent og hårete med muskelforbundne 'Gymhunder' og går langt under null i 'Dypfryst moro'.</desc>
+        <icon src="https://images.pluto.tv/series/621f2990a1a84900140f7244/tile_1776863881378.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68dfa1a7fae18f8db6218222" start="20260604125157 +0000" stop="20260604131757 +0000">
+        <title>Ridiculousness</title>
+        <desc>I denne episoden av 'Ridiculousness' er Rob, Steelo og Lolo Wood en fare for seg selv i 'Selvfelling', drar på gymet for å få seg en 'Boksesekktrøkk' og går langt i å utfordre høydeskrekken med 'Elleville høyder'.</desc>
+        <icon src="https://images.pluto.tv/series/621f2990a1a84900140f7244/tile_1776863881378.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68dfa1a7fae18f8db6218222" start="20260604131757 +0000" stop="20260604160000 +0000">
         <title>Ridiculousness - Nye episoder</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68dfa1a7fae18f8db6218222/featuredImage_1762510990039.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42102,7 +42610,22 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Rickard reser till storstaden London för att se vad den har att erbjuda. Följ med honom när han utforskar julmarknader, åker skridskor och besöker världsberömda platser.</desc>
         <icon src="https://images.pluto.tv/series/696a5e64b06fa36c2b72f533/tile_1771920373007.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6915e15ea570568f53438feb" start="20260604121345 +0000" stop="20260604160000 +0000">
+    <programme channel="6915e15ea570568f53438feb" start="20260604121345 +0000" stop="20260604122710 +0000">
+        <title>Nyfiken På</title>
+        <desc>Följ med Rickard på en resa till Rostock för den perfekta julekänslan.</desc>
+        <icon src="https://images.pluto.tv/series/696a5e64b06fa36c2b72f533/tile_1771920373007.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6915e15ea570568f53438feb" start="20260604122710 +0000" stop="20260604125659 +0000">
+        <title>Nyfiken På</title>
+        <desc>Følg med oss på resa til Afrika.</desc>
+        <icon src="https://images.pluto.tv/series/696a5e64b06fa36c2b72f533/tile_1771920373007.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6915e15ea570568f53438feb" start="20260604125659 +0000" stop="20260604132452 +0000">
+        <title>Nyfiken På</title>
+        <desc>Denna gången befinner vi oss i Kroatien tillsammans med More Sailing som arrangerar seglingsresor över hela världen.</desc>
+        <icon src="https://images.pluto.tv/series/696a5e64b06fa36c2b72f533/tile_1771920373007.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6915e15ea570568f53438feb" start="20260604132452 +0000" stop="20260604160000 +0000">
         <title>Afterwork TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6915e15ea570568f53438feb/featuredImage_1763055195328.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42112,7 +42635,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Trail boss Gil Favor is faced with losing his entire herd because of a swindle perpetrated by the boss of an earlier cattle drive.</desc>
         <icon src="https://images.pluto.tv/series/699d94be704dcd7b4d85960c/tile_1773410812754.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6964baa63dfd98e10945ac51" start="20260604122526 +0000" stop="20260604160000 +0000">
+    <programme channel="6964baa63dfd98e10945ac51" start="20260604122526 +0000" stop="20260604132823 +0000">
+        <title>Rawhide</title>
+        <desc>After escaping from his tribe's reservation, a Kiowa Indian chief captures two of Gil Favor's men as hostages to insure safe travel to freedom.</desc>
+        <icon src="https://images.pluto.tv/series/699d94be704dcd7b4d85960c/tile_1773410812754.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6964baa63dfd98e10945ac51" start="20260604132823 +0000" stop="20260604160000 +0000">
         <title>Rawhide</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6964baa63dfd98e10945ac51/featuredImage_1768252090890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42122,7 +42650,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>U.S. secret agent James T. West is lured into a hospital where he is gassed and carried out in a coffin by the weird, zombie-like aides of one Dr. Arcularis.</desc>
         <icon src="https://images.pluto.tv/series/69bc060a615bba1ee0ed1235/tile_1774003979095.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6964bca2a6c400fd418854a2" start="20260604123436 +0000" stop="20260604160000 +0000">
+    <programme channel="6964bca2a6c400fd418854a2" start="20260604123436 +0000" stop="20260604133522 +0000">
+        <title>The Wild Wild West</title>
+        <desc>Secret agent James T. West poses as a notorious desperado, Frank Slade, inaplan to arrest a Mexican bandit, Colonel Vasquez, who has been robbing banks in American border towns and then fleeing to the sanctuary of Mexico.</desc>
+        <icon src="https://images.pluto.tv/series/69bc060a615bba1ee0ed1235/tile_1774003979095.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6964bca2a6c400fd418854a2" start="20260604133522 +0000" stop="20260604160000 +0000">
         <title>The Wild Wild West</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6964bca2a6c400fd418854a2/featuredImage_1768209614642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42132,7 +42665,12 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Reno takes refuge in a commune but discovers an explosive situation there.</desc>
         <icon src="https://images.pluto.tv/series/69db65e65463ecaceb153ae3/tile_1776418142064.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699c192688133556bd253602" start="20260604124134 +0000" stop="20260604160000 +0000">
+    <programme channel="699c192688133556bd253602" start="20260604124134 +0000" stop="20260604133658 +0000">
+        <title>Renegade</title>
+        <desc>Bobby's mother and cousin visit and set off a series of unwelcome, dangerous surprises.</desc>
+        <icon src="https://images.pluto.tv/series/69db65e65463ecaceb153ae3/tile_1776418142064.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699c192688133556bd253602" start="20260604133658 +0000" stop="20260604160000 +0000">
         <title>Renegade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/699c192688133556bd253602/featuredImage_1771837795164.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43027,7 +43565,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Sam låser seg ute av huset mens han sitter barnevakt for Lilith og Frasiers sønn.</desc>
         <icon src="https://images.pluto.tv/series/643d119ca659cb001a944cf9/tile_1773153001264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63e389dcc111bc0008ee5b8c" start="20260604121249 +0000" stop="20260604160000 +0000">
+    <programme channel="63e389dcc111bc0008ee5b8c" start="20260604121249 +0000" stop="20260604124114 +0000">
+        <title>Cheers NO</title>
+        <desc>Sam legger ut på jakt etter en passende mor til hans fremtidige barn.</desc>
+        <icon src="https://images.pluto.tv/series/643d119ca659cb001a944cf9/tile_1773153001264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63e389dcc111bc0008ee5b8c" start="20260604124114 +0000" stop="20260604130939 +0000">
+        <title>Cheers NO</title>
+        <desc>Sam og Rebecca søker psykiatrisk hjelp for å komme i rett stemning.</desc>
+        <icon src="https://images.pluto.tv/series/643d119ca659cb001a944cf9/tile_1773153001264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63e389dcc111bc0008ee5b8c" start="20260604130939 +0000" stop="20260604160000 +0000">
         <title>Cheers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63e389dcc111bc0008ee5b8c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43037,7 +43585,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Childhood dreams come true when Sabrina casts a spell that turns Harvey into a superhero.</desc>
         <icon src="https://images.pluto.tv/series/6530f33625fde2001a3adb53/tile_1776979813869.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6512d3c96a84140008513ff5" start="20260604121956 +0000" stop="20260604160000 +0000">
+    <programme channel="6512d3c96a84140008513ff5" start="20260604121956 +0000" stop="20260604124553 +0000">
+        <title>Sabrina the Teenage Witch: Love In Bloom</title>
+        <desc>Valentine’s Day gets complicated when Sabrina learns two boys are vying for her heart.</desc>
+        <icon src="https://images.pluto.tv/series/6530f33625fde2001a3adb53/tile_1776979813869.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6512d3c96a84140008513ff5" start="20260604124553 +0000" stop="20260604131149 +0000">
+        <title>Sabrina the Teenage Witch: Welcome Back Duke</title>
+        <desc>Sabrina discovers why the road to ruin is paved with good intentions.</desc>
+        <icon src="https://images.pluto.tv/series/6530f33625fde2001a3adb53/tile_1776979813869.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6512d3c96a84140008513ff5" start="20260604131149 +0000" stop="20260604160000 +0000">
         <title>Sabrina the Teenage Witch</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6512d3c96a84140008513ff5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43047,7 +43605,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>When Annie's mother shows up on Annie's doorstep with suitcase in hand, Caroline  finds herself caught in the middle.</desc>
         <icon src="https://images.pluto.tv/series/67333860e1038900133908a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a7aac9d512590008ab2dcb" start="20260604122111 +0000" stop="20260604160000 +0000">
+    <programme channel="66a7aac9d512590008ab2dcb" start="20260604122111 +0000" stop="20260604124900 +0000">
+        <title>Caroline in the City</title>
+        <desc>Another side of Caroline's artistic expression -- her dream of being a ballerina -- is revealed when she is locked in a laundromat overnight with a homeless man.</desc>
+        <icon src="https://images.pluto.tv/series/67333860e1038900133908a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a7aac9d512590008ab2dcb" start="20260604124900 +0000" stop="20260604131645 +0000">
+        <title>Caroline in the City</title>
+        <desc>Caroline and Joe's romance takes a nosedive when his ex-girlfriend Lisa returns from her Greenpeace mission and seeks shelter at Joe's apartment.</desc>
+        <icon src="https://images.pluto.tv/series/67333860e1038900133908a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a7aac9d512590008ab2dcb" start="20260604131645 +0000" stop="20260604160000 +0000">
         <title>Caroline in the City</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a7aac9d512590008ab2dcb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43057,7 +43625,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Becker has a run-in at the office with an elder hostile Jake's grandmother.</desc>
         <icon src="https://images.pluto.tv/series/66fd5018a88a190013455b2c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="672e1634e482950008c759a5" start="20260604121105 +0000" stop="20260604160000 +0000">
+    <programme channel="672e1634e482950008c759a5" start="20260604121105 +0000" stop="20260604123804 +0000">
+        <title>Becker</title>
+        <desc>Reggie makes John a test subject in her psychology experiment and Jake gets his driver's license renewed. (TV-PG)</desc>
+        <icon src="https://images.pluto.tv/series/66fd5018a88a190013455b2c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="672e1634e482950008c759a5" start="20260604123804 +0000" stop="20260604130444 +0000">
+        <title>Becker</title>
+        <desc>John Becker goes on a cruise and Jake dates a supermodel. (TV-PG)</desc>
+        <icon src="https://images.pluto.tv/series/66fd5018a88a190013455b2c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="672e1634e482950008c759a5" start="20260604130444 +0000" stop="20260604160000 +0000">
         <title>Becker</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/672e1634e482950008c759a5/featuredImage_1731073681619.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43067,7 +43645,17 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Adam has trouble helping Katie prepare for her driving test; Don turns to Lowell for help romancing Marcy.</desc>
         <icon src="https://images.pluto.tv/series/685bbc740d69b4d354c72e37/tile_1750842488017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6825eeeeb19ce6d4a34ebb2a" start="20260604121250 +0000" stop="20260604160000 +0000">
+    <programme channel="6825eeeeb19ce6d4a34ebb2a" start="20260604121250 +0000" stop="20260604123850 +0000">
+        <title>Man With A Plan</title>
+        <desc>Adam tries to give Andi the perfect 20th wedding anniversary gift by re-creating their honeymoon.</desc>
+        <icon src="https://images.pluto.tv/series/685bbc740d69b4d354c72e37/tile_1750842488017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6825eeeeb19ce6d4a34ebb2a" start="20260604123850 +0000" stop="20260604130518 +0000">
+        <title>Man With A Plan</title>
+        <desc>A dad finds out that parenting is harder than he thought after his wife goes back to work and he's left at home to take care of the kids.</desc>
+        <icon src="https://images.pluto.tv/series/685bbc740d69b4d354c72e37/tile_1750842488017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6825eeeeb19ce6d4a34ebb2a" start="20260604130518 +0000" stop="20260604160000 +0000">
         <title>Man with a Plan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6825eeeeb19ce6d4a34ebb2a/featuredImage_1747316618254.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -43077,7 +43665,22 @@ sport, trening, underholdning og dokumentar. Bli med for ukentlige direktesendin
         <desc>Charlie offers immoral dating advice to Lacey.</desc>
         <icon src="https://images.pluto.tv/series/62a338ca1f287c001338bca6/tile_1775554920991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6964b77dff4f2148e520fa9b" start="20260604120511 +0000" stop="20260604160000 +0000">
+    <programme channel="6964b77dff4f2148e520fa9b" start="20260604120511 +0000" stop="20260604123011 +0000">
+        <title>Anger Management: Charlie Loses His Virginity Again</title>
+        <desc>Charlie asks for a second chance with the woman to whom he lost his virginity.</desc>
+        <icon src="https://images.pluto.tv/series/62a338ca1f287c001338bca6/tile_1775554920991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6964b77dff4f2148e520fa9b" start="20260604123011 +0000" stop="20260604125611 +0000">
+        <title>Anger Management: Charlie Does It for Science</title>
+        <desc>Charlie is pursued by a reporter who is interested in his sex study.</desc>
+        <icon src="https://images.pluto.tv/series/62a338ca1f287c001338bca6/tile_1775554920991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6964b77dff4f2148e520fa9b" start="20260604125611 +0000" stop="20260604132111 +0000">
+        <title>Anger Management: Charlie &amp; Lacey Shack Up</title>
+        <desc>Charlie's bad-girl patient gets sentenced to house arrest and moves in with Charlie.</desc>
+        <icon src="https://images.pluto.tv/series/62a338ca1f287c001338bca6/tile_1775554920991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6964b77dff4f2148e520fa9b" start="20260604132111 +0000" stop="20260604160000 +0000">
         <title>Anger Management</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6964b77dff4f2148e520fa9b/featuredImage_1768208300541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
