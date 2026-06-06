@@ -2436,6 +2436,11 @@
         <desc>An alien soldier (James Caviezel) crashes on Earth during the time of the Vikings and blends his technology with theirs to hunt his enemy.</desc>
         <icon src="https://images.pluto.tv/series/64a84bab12c80e00130c07b5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="645e7828e1979c00087b75b4" start="20260606213600 +0000" stop="20260606233600 +0000">
+        <title>The Three Musketeers</title>
+        <desc>A young swordsman (Logan Lerman) joins three of France's finest warriors in a quest to foil a plot against the crown.</desc>
+        <icon src="https://images.pluto.tv/series/6539c85fe2a2d8001aac549f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64b585f84ea480000838e446" start="20260606154500 +0000" stop="20260606181500 +0000">
         <title>The Gambler</title>
         <desc>Jim Bennett (Mark Wahlberg) is a professor leading a double life as a high-stakes gambler. When he borrows money from dangerous gangsters, he places the lives of his loved ones in mortal danger and must risk everything to keep from losing it all.</desc>
@@ -10236,10 +10241,20 @@ and a toddler is found painting his furniture.</desc>
         <desc>Get wowed by the pest-killing prowess hidden beneath the ladybug's cute shell.</desc>
         <icon src="https://images.pluto.tv/series/67fd465cafe56ba72e8ddf25/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66df8aa7abec540008ca8cb6" start="20260606170000 +0000" stop="20260606190300 +0000">
-        <title>Homeful</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/66df8aa7abec540008ca8cb6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="66df8aa7abec540008ca8cb6" start="20260606162200 +0000" stop="20260606171500 +0000">
+        <title>Holmes Makes It Right</title>
+        <desc>Mike and the crew rebuild a beloved castle playground after an arsonist burns it down.</desc>
+        <icon src="https://images.pluto.tv/series/6736733db7ea5e0013b190b9/tile_1752714494329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66df8aa7abec540008ca8cb6" start="20260606171500 +0000" stop="20260606180900 +0000">
+        <title>Holmes Makes It Right</title>
+        <desc>A house can't level out because of faulty HVAC.</desc>
+        <icon src="https://images.pluto.tv/series/6736733db7ea5e0013b190b9/tile_1752714494329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66df8aa7abec540008ca8cb6" start="20260606180900 +0000" stop="20260606190300 +0000">
+        <title>Holmes Makes It Right</title>
+        <desc>A problem with a home's insulation escalates to a complete demo, leaving Mike with a hard decision to make.</desc>
+        <icon src="https://images.pluto.tv/series/6736733db7ea5e0013b190b9/tile_1752714494329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66df8aa7abec540008ca8cb6" start="20260606190300 +0000" stop="20260606193000 +0000">
         <title>Ice Cold Cash</title>
@@ -13561,10 +13576,10 @@ and a toddler is found painting his furniture.</desc>
         <desc>Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
         <icon src="https://images.pluto.tv/series/6987a1c4644861a57c712d78/tile_1772233659196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696998915a0ae9e1b563f0c6" start="20260606170000 +0000" stop="20260606193100 +0000">
-        <title>Qello Concerts</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/696998915a0ae9e1b563f0c6/featuredImage_1770231484215.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="696998915a0ae9e1b563f0c6" start="20260606165300 +0000" stop="20260606193100 +0000">
+        <title>The Who: Live At The Isle Of Wight Festival 2004</title>
+        <desc>In 2004 The Who returned to the Isle Of Wight Festival for the first time since their legendary performance in 1970; the group's UK concerts in 2004 were the first in their home country since the death of founder member John Entwistle.</desc>
+        <icon src="https://images.pluto.tv/series/69e2bb99f22f20f7682079fb/tile_1776466841875.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="696998915a0ae9e1b563f0c6" start="20260606193100 +0000" stop="20260606205900 +0000">
         <title>The Everly Brothers Reunion Concert</title>
@@ -13575,11 +13590,6 @@ and a toddler is found painting his furniture.</desc>
         <title>John Mellencamp - Plain Spoken: Live in Chicago</title>
         <desc>John Mellencamp's career in music, spanning more than 42 years, has seen him transition from pop star to one of the most highly regarded songwriters of a generation.</desc>
         <icon src="https://images.pluto.tv/series/69e325003312e3048e97e77c/tile_1776493825725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696998915a0ae9e1b563f0c6" start="20260606223600 +0000" stop="20260606233700 +0000">
-        <title>Foo Fighters - Austin City Limits</title>
-        <desc>The Austin City Limits Music Festival is an annual music festival that takes place at Zilker Park in Austin, Texas. The festival features more than 130 bands on eight stages for three days.</desc>
-        <icon src="https://images.pluto.tv/series/69839e81cd24a9501e297d36/tile_1770233474315.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5dc48170e280c80009a861ab" start="20260606170000 +0000" stop="20260606180000 +0000">
         <title>Latest New York News &amp; Headlines</title>
@@ -30488,32 +30498,42 @@ pacifier.</desc>
         <desc>Satellite imagery reveals what appears to be the tops of manmade pyramids in Antarctica; ancient astronaut theorists conjecture that extraterrestrials may have colonized an ice-free Antarctica before a global catastrophe plunged it into an ice age.</desc>
         <icon src="https://images.pluto.tv/series/68a4d2c42eb4d0c1a4ec79e8/tile_1779001461515.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607010000 +0000" stop="20260607040000 +0000">
-        <title>Storage Wars by A&amp;E</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/featuredImage_1755034317938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607010000 +0000" stop="20260607012600 +0000">
+        <title>Storage Wars</title>
+        <desc>The bidders go old school and strike it rich with treasures from the past.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607012600 +0000" stop="20260607015100 +0000">
+        <title>Storage Wars</title>
+        <desc>The buyers discover that the best-kept secrets of their lockers are found in the most unsuspecting places ranging from paintings to cabinets and safes.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607015100 +0000" stop="20260607021700 +0000">
+        <title>Storage Wars</title>
+        <desc>The buyers invade Ivy's home turf of Lancaster, Calif.; Mary attempts to make a deal with an unexpected ally; Jarrod and Brandi pressure their colleagues; Rene tries to prove his superiority.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607021700 +0000" stop="20260607024200 +0000">
+        <title>Storage Wars</title>
+        <desc>Brandi and Jarrod split up; Ivy hires a new employee to take care of the shop; Darrell finds success again; Rene learns how to strip.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607024200 +0000" stop="20260607030800 +0000">
+        <title>Storage Wars</title>
+        <desc>Tucked away in his storage Man Cave, Barry Weiss and Kenny sit down with Brandi and the Dotsons to relive old times, find out what they've been doing and gather intelligence, as he plans his return to the auction game.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607030800 +0000" stop="20260607033400 +0000">
+        <title>Storage Wars</title>
+        <desc>The buyers seek bargains in the hills of Murrieta, Calif.; Dave angers the Gambler into doing something drastic; Ivy scores a locker by using brains over brawn.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607033400 +0000" stop="20260607040000 +0000">
+        <title>Storage Wars</title>
+        <desc>Barry Weiss and his cohort Kenny take a stroll down storage lane and have tons of fun commenting on Barry's favorite episodes.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607040000 +0000" stop="20260607072500 +0000">
-        <title>Storage Wars: Best Bidding Wars</title>
-        <desc>Dave returns and a bid-off ensues; Darrell tries a new tactic that he hopes will prove successful; Rene gets into a bidding war with some locals; the bidders play mind games and psych each other out; a new buyer challenges Barry and Jarrod.</desc>
-        <icon src="https://plut.tmsimg.com/assets/p14510780_i_s4_ab.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607072500 +0000" stop="20260607100000 +0000">
-        <title>Storage Wars by A&amp;E</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/featuredImage_1755034317938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607100000 +0000" stop="20260607132500 +0000">
-        <title>Storage Wars: Best Bidding Wars</title>
-        <desc>Dave returns and a bid-off ensues; Darrell tries a new tactic that he hopes will prove successful; Rene gets into a bidding war with some locals; the bidders play mind games and psych each other out; a new buyer challenges Barry and Jarrod.</desc>
-        <icon src="https://plut.tmsimg.com/assets/p14510780_i_s4_ab.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607132500 +0000" stop="20260607160000 +0000">
-        <title>Storage Wars by A&amp;E</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/featuredImage_1755034317938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607160000 +0000" stop="20260607192500 +0000">
         <title>Storage Wars: Best Bidding Wars</title>
         <desc>Dave returns and a bid-off ensues; Darrell tries a new tactic that he hopes will prove successful; Rene gets into a bidding war with some locals; the bidders play mind games and psych each other out; a new buyer challenges Barry and Jarrod.</desc>
         <icon src="https://plut.tmsimg.com/assets/p14510780_i_s4_ab.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -46510,10 +46530,15 @@ follies and a musical montage of cats vs. dogs.</desc>
         <desc>The main floor evolves into a kitchen and dining room; Sarah leaves for a work commitment; the weather poses a problem.</desc>
         <icon src="https://images.pluto.tv/series/67367367b7ea5e0013b1a519/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66df8aa7abec540008ca8cb6" start="20260607073600 +0000" stop="20260607090000 +0000">
-        <title>Homeful</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/66df8aa7abec540008ca8cb6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="66df8aa7abec540008ca8cb6" start="20260607073600 +0000" stop="20260607082900 +0000">
+        <title>Holmes Inspection</title>
+        <desc>Mike does an inspection of a flipped house.</desc>
+        <icon src="https://images.pluto.tv/series/6736733bb7ea5e0013b1902b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66df8aa7abec540008ca8cb6" start="20260607082900 +0000" stop="20260607092100 +0000">
+        <title>Holmes Inspection</title>
+        <desc>Safety issues in a home.</desc>
+        <icon src="https://images.pluto.tv/series/6736733bb7ea5e0013b1902b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66ff0cf663292d0008320cf8" start="20260607044741 +0000" stop="20260607053759 +0000">
         <title>Anthony Bourdain: No Reservations</title>
@@ -54735,22 +54760,22 @@ follies and a musical montage of cats vs. dogs.</desc>
         <desc>Ancient alien theorists speculate about why many of the architectural marvels of the ancient world bear striking similarities to one another even though they were built by civilizations separated by thousands of miles.</desc>
         <icon src="https://images.pluto.tv/series/68a4d2c42eb4d0c1a4ec79e8/tile_1779001461515.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607090000 +0000" stop="20260607100000 +0000">
-        <title>Storage Wars by A&amp;E</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/featuredImage_1755034317938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607084200 +0000" stop="20260607090800 +0000">
+        <title>Storage Wars</title>
+        <desc>The buyers head to Las Vegas, where they soon learn the rules of the auction game have changed; Jarrod takes on the big dogs; Darrell locates a unit with golden potential.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607090800 +0000" stop="20260607093400 +0000">
+        <title>Storage Wars</title>
+        <desc>A locker in Whittier, Calif., features a high payoff; Dave eyes a unit with a stockpile of antiques; Barry's locker may contain old weapons.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607093400 +0000" stop="20260607100000 +0000">
+        <title>Storage Wars</title>
+        <desc>Jarrod and Brandi uncover the ultimate guy's unit among the lockers in Santa Ana, Calif.; Darrell and Dave battle over a valuable antique.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1778688958061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607100000 +0000" stop="20260607132500 +0000">
-        <title>Storage Wars: Best Bidding Wars</title>
-        <desc>Dave returns and a bid-off ensues; Darrell tries a new tactic that he hopes will prove successful; Rene gets into a bidding war with some locals; the bidders play mind games and psych each other out; a new buyer challenges Barry and Jarrod.</desc>
-        <icon src="https://plut.tmsimg.com/assets/p14510780_i_s4_ab.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607132500 +0000" stop="20260607160000 +0000">
-        <title>Storage Wars by A&amp;E</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/featuredImage_1755034317938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260607160000 +0000" stop="20260607192500 +0000">
         <title>Storage Wars: Best Bidding Wars</title>
         <desc>Dave returns and a bid-off ensues; Darrell tries a new tactic that he hopes will prove successful; Rene gets into a bidding war with some locals; the bidders play mind games and psych each other out; a new buyer challenges Barry and Jarrod.</desc>
         <icon src="https://plut.tmsimg.com/assets/p14510780_i_s4_ab.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -61752,22 +61777,22 @@ Stinky's Pumpkin: Stinky feels that he is a failure at everything he does until 
     <programme channel="61d4b38226b8a50007fe03a6" start="20260607090000 +0000" stop="20260607100000 +0000">
         <title>Hair &amp; Heavy</title>
         <desc>Nothing but the most colorful rockers of the '80s and early '90s.</desc>
-        <icon src="https://images.pluto.tv/series/698c80b5fe60310baf179791/tile_1780758963804.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/698c80b5fe60310baf179791/tile_1780744361472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="61d4b38226b8a50007fe03a6" start="20260607100000 +0000" stop="20260607110000 +0000">
         <title>Hard Rock Heroes</title>
         <desc>The most loud and proud bands in music.</desc>
-        <icon src="https://images.pluto.tv/series/698c80b3c144dcc29b7dda28/tile_1780758963107.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/698c80b3c144dcc29b7dda28/tile_1780744353425.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="61d4b38226b8a50007fe03a6" start="20260607110000 +0000" stop="20260607120000 +0000">
         <title>Pop Punk &amp; Emo Rock!</title>
         <desc>Videos that embrace rock's more fun, but sensitive, side.</desc>
-        <icon src="https://images.pluto.tv/series/698c80b6539a4a433af658a5/tile_1780758965838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/698c80b6539a4a433af658a5/tile_1780744354027.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="61d4b38226b8a50007fe03a6" start="20260607120000 +0000" stop="20260607130000 +0000">
         <title>Acoustic Rock</title>
         <desc>Videos and performances from artists and bands that are usually a lot more louder.</desc>
-        <icon src="https://images.pluto.tv/series/698c80bf3b7ea3083420438e/tile_1780758965366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/698c80bf3b7ea3083420438e/tile_1780744357193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="61d4b38226b8a50007fe03a6" start="20260607130000 +0000" stop="20260607140000 +0000">
         <title>Live &amp; LOUD: Rock &amp; Alt</title>
@@ -62059,10 +62084,15 @@ Stinky's Pumpkin: Stinky feels that he is a failure at everything he does until 
         <desc>Stingray DJAZZ is a deep dive into jazz without boundaries, offering a selection of concerts, major festival performances, rare documentaries, intimate portraits, and behind-the-scenes footage of artists from around the world.</desc>
         <icon src="https://images.pluto.tv/series/6987a1c4644861a57c712d78/tile_1772233659196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696998915a0ae9e1b563f0c6" start="20260607090000 +0000" stop="20260607105500 +0000">
-        <title>Qello Concerts</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/696998915a0ae9e1b563f0c6/featuredImage_1770231484215.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="696998915a0ae9e1b563f0c6" start="20260607083700 +0000" stop="20260607090200 +0000">
+        <title>Qello Concerts' Best</title>
+        <desc>The best of Qello Concerts.</desc>
+        <icon src="https://images.pluto.tv/series/69839e7fcd24a9501e297b02/tile_1778537687901.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696998915a0ae9e1b563f0c6" start="20260607090200 +0000" stop="20260607105500 +0000">
+        <title>Sting - Bring On The Night</title>
+        <desc>Documents the preparation and rehearsals for Sting's first solo concert, as well as his supporting band's opinions on their leader and his controversial efforts.</desc>
+        <icon src="https://images.pluto.tv/series/69839e84cd24a9501e298140/tile_1772007330831.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="696998915a0ae9e1b563f0c6" start="20260607105500 +0000" stop="20260607122200 +0000">
         <title>Rod Stewart - Live at Hyde Park</title>
@@ -62073,11 +62103,6 @@ Stinky's Pumpkin: Stinky feels that he is a failure at everything he does until 
         <title>David Gilmour - Remember That Night</title>
         <desc>David Gilmour - Remember That Night: Live at the Royal Albert Hall is recorded by guitarist David Gilmour where he presents live tracks from the album On an Island and some hits from his former band Pink Floyd.</desc>
         <icon src="https://images.pluto.tv/series/69839e84cd24a9501e2981bc/tile_1770233477296.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696998915a0ae9e1b563f0c6" start="20260607152100 +0000" stop="20260607162000 +0000">
-        <title>The Beach Boys - Good Vibrations Tour</title>
-        <desc>The Beach Boys Special is a rockumentary which explores the life of the Beach Boys as camera and crews follow them across the United States on their Good Vibrations Tour.</desc>
-        <icon src="https://images.pluto.tv/series/69e3332af22f20f768690de9/tile_1776497451349.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5dc48170e280c80009a861ab" start="20260607090000 +0000" stop="20260607100000 +0000">
         <title>Latest New York News &amp; Headlines</title>
@@ -71331,14 +71356,9 @@ coop.</desc>
         <icon src="https://images.pluto.tv/series/69839fe0cd24a9501e34273a/tile_1770233825613.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="696998dfa2b623e8b20125a3" start="20260607160000 +0000" stop="20260607180000 +0000">
-        <title>ZenLIFE by Stingray</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/696998dfa2b623e8b20125a3/featuredImage_1770231337178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="696998dfa2b623e8b20125a3" start="20260607180000 +0000" stop="20260607200000 +0000">
-        <title>Zen Relaxation</title>
-        <desc>A mix of guitar, piano instrumentals to help you concentrate and feel relaxed.</desc>
-        <icon src="https://images.pluto.tv/series/69839fdfcd24a9501e34257a/tile_1770233824424.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Peaceful Piano &amp; Guitar</title>
+        <desc>Selections of peaceful music and scenes that help you work and relax.</desc>
+        <icon src="https://images.pluto.tv/series/69839fe0cd24a9501e34277c/tile_1779661045631.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="698384cb7230043f21f4a3f4" start="20260607122714 +0000" stop="20260607132220 +0000">
         <title>Property Brothers</title>

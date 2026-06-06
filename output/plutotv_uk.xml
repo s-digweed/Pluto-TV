@@ -1407,9 +1407,14 @@
         <icon src="https://images.pluto.tv/series/6911c6a33fb09016daa66d66/tile_1762798697787.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66f137cb483d460008ece053" start="20260606185700 +0000" stop="20260606213700 +0000">
-        <title>Top 14 Rugby Union</title>
-        <desc>From Chaban-Delmas Stadium in Bordeaux, Aquitaine, France.</desc>
-        <icon src="https://images.pluto.tv/series/68dfee12a44f8dcccd3cd8a9/tile_1761275548928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Rugby Pass TV</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/66f137cb483d460008ece053/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+    <programme channel="66f137cb483d460008ece053" start="20260606213700 +0000" stop="20260606230900 +0000">
+        <title>The Rugby Pod</title>
+        <desc>It's a massive week as the lads react to the URC quarter-finals being locked in, Glasgow's statement win in Belfast, Cardiff's huge result over the Stormers and Connacht emerging as dark horses. They also ask whether rugby has a growing drug problem.</desc>
+        <icon src="https://images.pluto.tv/series/6997664b29ff58622dacaf51/tile_1771529804419.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66fd37885049580008d295b6" start="20260606154400 +0000" stop="20260606183300 +0000">
         <title>Collegiate Rugby Championship</title>
@@ -1551,25 +1556,20 @@
         <desc>This film documents the effects of a tragic bus accident on the population of a small town.</desc>
         <icon src="https://images.pluto.tv/series/6915e2f86e0067f40d47f1f9/tile_1763042041346.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260606170000 +0000" stop="20260607100000 +0000">
-        <title>Wrestling Legends TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68c820525ec82769fdfcd104/featuredImage_1764927594544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="68c820525ec82769fdfcd104" start="20260606160000 +0000" stop="20260606174600 +0000">
+        <title>Biography: WWE Legends</title>
+        <desc>Growing up in East Austin, Texas, Virgil Riley Runnels, Jr. always had an outsized vision of the possibilities for himself; his iconic rivalry and promos with Ric Flair set the path for an entire industry.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5b782c5f9296df33f5c/tile_1764931007913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260607100000 +0000" stop="20260607105200 +0000">
-        <title>WWE Rivals</title>
-        <desc>The on-screen rivalry between Eddie Guerrero and Rey Mysterio is a true battle between two of the most dynamic and successful luchadores in sports entertainment history; roundtable with Kevin Nash, Natalya Neidhart, Bayley and John Bradshaw Layfield.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68c820525ec82769fdfcd104" start="20260606174600 +0000" stop="20260606201200 +0000">
+        <title>Biography: WWE Legends</title>
+        <desc>The faction known as D-Generation X and its impact on the '90s; although they could be offensive, profane and rebellious, they always entertained the crowd.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5b782c5f9296df33f5c/tile_1764931007913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260607105200 +0000" stop="20260607114300 +0000">
-        <title>WWE Rivals</title>
-        <desc>Former WWE writer Freddie Prinze Jr. leads a panel of legends and superstars that includes Hall of Famer Kevin Nash to discuss the bitter rivalry between Bret Hart and Shawn Michaels.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260607114300 +0000" stop="20260607123500 +0000">
-        <title>WWE Rivals</title>
-        <desc>In 1996, "Stone Cold" Steve Austin was climbing to the top of the WWE roster; however, one man stood in his path: Bret "Hitman" Hart, one of greatest wrestlers at the time.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68c820525ec82769fdfcd104" start="20260606201200 +0000" stop="20260606220000 +0000">
+        <title>Biography: WWE Legends</title>
+        <desc>The story of Booker T, an 11-time WCW Tag Team champion, a six-time world champion, winner of the 2006 King of the Ring Tournament, and a two-time inductee into the WWE Hall of Fame.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5b782c5f9296df33f5c/tile_1764931007913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="696e024a7e92438c27a425a8" start="20260606164400 +0000" stop="20260606171500 +0000">
         <title>FIA European Rally Championship Highlights</title>
@@ -7818,10 +7818,10 @@ welcome on the Yellow Couch.</desc>
         <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
         <icon src="https://images.pluto.tv/series/67a0a339c070cf00083c4f3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f137cb483d460008ece053" start="20260606210000 +0000" stop="20260606213700 +0000">
-        <title>Rugby Pass TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/66f137cb483d460008ece053/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="66f137cb483d460008ece053" start="20260606185700 +0000" stop="20260606213700 +0000">
+        <title>Top 14 Rugby Union</title>
+        <desc>From Chaban-Delmas Stadium in Bordeaux, Aquitaine, France.</desc>
+        <icon src="https://images.pluto.tv/series/68dfee12a44f8dcccd3cd8a9/tile_1761275548928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66f137cb483d460008ece053" start="20260606213700 +0000" stop="20260606230900 +0000">
         <title>The Rugby Pod</title>
@@ -7831,11 +7831,6 @@ welcome on the Yellow Couch.</desc>
     <programme channel="66f137cb483d460008ece053" start="20260606230900 +0000" stop="20260607014900 +0000">
         <title>Rugby World Cup 2023</title>
         <desc>The latest fixture.</desc>
-        <icon src="https://images.pluto.tv/series/6888f1638eef10068f2d7f2c/tile_1753805157172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66f137cb483d460008ece053" start="20260607014900 +0000" stop="20260607044200 +0000">
-        <title>Rugby World Cup 2023</title>
-        <desc>Ireland take on Scotland in a massive clash in Pool B, with places in the quarter-finals at stake.</desc>
         <icon src="https://images.pluto.tv/series/6888f1638eef10068f2d7f2c/tile_1753805157172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66fd37885049580008d295b6" start="20260606183300 +0000" stop="20260606215800 +0000">
@@ -7973,20 +7968,25 @@ welcome on the Yellow Couch.</desc>
         <desc>Lindsey and Jake meet on New Year’s Eve, fight over a taxi and end up having a one-night-stand. Inseparable over the following weeks they quickly fall in love and move in together.</desc>
         <icon src="https://images.pluto.tv/series/6916e88830e0de16075f8eea/tile_1763138387488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260606201200 +0000" stop="20260606220000 +0000">
-        <title>Biography: WWE Legends</title>
-        <desc>The story of Booker T, an 11-time WCW Tag Team champion, a six-time world champion, winner of the 2006 King of the Ring Tournament, and a two-time inductee into the WWE Hall of Fame.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5b782c5f9296df33f5c/tile_1764931007913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68c820525ec82769fdfcd104" start="20260606210000 +0000" stop="20260607105200 +0000">
+        <title>Wrestling Legends TV</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68c820525ec82769fdfcd104/featuredImage_1764927594544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260606220000 +0000" stop="20260606234600 +0000">
-        <title>Biography: WWE Legends</title>
-        <desc>Growing up in East Austin, Texas, Virgil Riley Runnels, Jr. always had an outsized vision of the possibilities for himself; his iconic rivalry and promos with Ric Flair set the path for an entire industry.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5b782c5f9296df33f5c/tile_1764931007913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68c820525ec82769fdfcd104" start="20260607105200 +0000" stop="20260607114300 +0000">
+        <title>WWE Rivals</title>
+        <desc>Former WWE writer Freddie Prinze Jr. leads a panel of legends and superstars that includes Hall of Famer Kevin Nash to discuss the bitter rivalry between Bret Hart and Shawn Michaels.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260606234600 +0000" stop="20260607021200 +0000">
-        <title>Biography: WWE Legends</title>
-        <desc>The faction known as D-Generation X and its impact on the '90s; although they could be offensive, profane and rebellious, they always entertained the crowd.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5b782c5f9296df33f5c/tile_1764931007913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68c820525ec82769fdfcd104" start="20260607114300 +0000" stop="20260607123500 +0000">
+        <title>WWE Rivals</title>
+        <desc>In 1996, "Stone Cold" Steve Austin was climbing to the top of the WWE roster; however, one man stood in his path: Bret "Hitman" Hart, one of greatest wrestlers at the time.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68c820525ec82769fdfcd104" start="20260607123500 +0000" stop="20260607132600 +0000">
+        <title>WWE Rivals</title>
+        <desc>The main event at WrestleMania III between Hulk Hogan and Andre the Giant cements wrestling's place in pop culture history; Freddie Prinze Jr. leads a roundtable discussion with Booker T, Natalya, D-Von Dudley and John.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="696e024a7e92438c27a425a8" start="20260606205400 +0000" stop="20260606213400 +0000">
         <title>WRC: More Than Machine</title>
@@ -18459,15 +18459,10 @@ welcome on the Yellow Couch.</desc>
         <desc>A sudden warm-up threatens to derail the ice road season; Art Burke faces scary and slick roads; Lisa Kelly is forced to ask her former boss for financial help; Alex Debogorski encounters a mystery man walking alone on an isolated winter road.</desc>
         <icon src="https://images.pluto.tv/series/6936fea182c5f9296dc7392c/tile_1765227732738.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c8202f5ec82769fdfcd0a2" start="20260607005500 +0000" stop="20260607012300 +0000">
-        <title>Customer Wars</title>
-        <desc>In Philadelphia, a disruptive passenger is removed from an airplane; a fight breaks out at a local bar in Hill City, S.D.; football fans heading to a match in West Sussex, England race against the clock to receive a beer delivery.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5d682c5f9296df38001/tile_1771888440315.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68c8202f5ec82769fdfcd0a2" start="20260607012300 +0000" stop="20260607015000 +0000">
-        <title>Customer Wars</title>
-        <desc>A hungry customer at a Florida restaurant draws the ire of other customers; Police confront a young man with a gun inside a Wisconsin Convenience store; purported seating kerfuffle escalates to an all out brawl.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5d682c5f9296df38001/tile_1771888440315.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68c8202f5ec82769fdfcd0a2" start="20260607010000 +0000" stop="20260607015000 +0000">
+        <title>Chaos on Cam</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68c8202f5ec82769fdfcd0a2/featuredImage_1765877993411.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="68c8202f5ec82769fdfcd0a2" start="20260607015000 +0000" stop="20260607021800 +0000">
         <title>Neighborhood Wars</title>
@@ -20780,9 +20775,9 @@ welcome on the Yellow Couch.</desc>
         <icon src="https://images.pluto.tv/series/67d9a3ff798df95b8e10c81e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66f137cb483d460008ece053" start="20260607050000 +0000" stop="20260607051900 +0000">
-        <title>Rugby Pass TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/66f137cb483d460008ece053/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Embedded 2024</title>
+        <desc>Embedded 2024 follows the England rugby U20s side as they head to South Africa for the World Rugby U20s Championships.</desc>
+        <icon src="https://images.pluto.tv/series/6888f1688eef10068f2d86a9/tile_1760045442259.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66f137cb483d460008ece053" start="20260607051900 +0000" stop="20260607062000 +0000">
         <title>Grassroots Rugby</title>
@@ -20804,10 +20799,15 @@ welcome on the Yellow Couch.</desc>
         <desc>Rugby sevens action from SVNS.</desc>
         <icon src="https://images.pluto.tv/series/688b5590cb153898340c9622/tile_1754037530495.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66fd37885049580008d295b6" start="20260607050000 +0000" stop="20260607073000 +0000">
-        <title>AWSN</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/66fd37885049580008d295b6/featuredImage_1748590961302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="66fd37885049580008d295b6" start="20260607040000 +0000" stop="20260607053000 +0000">
+        <title>Super Netball</title>
+        <desc>From John Cain Arena in Melbourne, Victoria, Australia.</desc>
+        <icon src="https://images.pluto.tv/series/685c9d30cfeec4dc2c6b9502/tile_1758017513792.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66fd37885049580008d295b6" start="20260607053000 +0000" stop="20260607073000 +0000">
+        <title>Super Netball</title>
+        <desc>From Adelaide Entertainment Centre in Hindmarsh, South Australia, Australia.</desc>
+        <icon src="https://images.pluto.tv/series/685c9d30cfeec4dc2c6b9502/tile_1758017513792.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66fd37885049580008d295b6" start="20260607073000 +0000" stop="20260607080000 +0000">
         <title>Sports Women Magazine</title>
@@ -20815,11 +20815,6 @@ welcome on the Yellow Couch.</desc>
         <icon src="https://images.pluto.tv/series/6971169ccd24a9501e4fc3b6/tile_1769026245174.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66fd37885049580008d295b6" start="20260607080000 +0000" stop="20260607120000 +0000">
-        <title>Disc Golf Pro Tour</title>
-        <desc>The top professionals compete for prize money on the Disc Golf Pro Tour.</desc>
-        <icon src="https://images.pluto.tv/series/685cc88f31b6562298034f6e/tile_1750911122212.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66fd37885049580008d295b6" start="20260607120000 +0000" stop="20260607153000 +0000">
         <title>Disc Golf Pro Tour</title>
         <desc>The top professionals compete for prize money on the Disc Golf Pro Tour.</desc>
         <icon src="https://images.pluto.tv/series/685cc88f31b6562298034f6e/tile_1750911122212.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -20924,20 +20919,25 @@ welcome on the Yellow Couch.</desc>
         <desc>A mistaken delivery in Mumbai's famously efficient lunchbox delivery system connects a young housewife to an old man in the dusk of his life as they build a fantasy world together through notes in the lunchbox.</desc>
         <icon src="https://images.pluto.tv/series/6938221863142c96a91930c4/tile_1765286425029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260607040000 +0000" stop="20260607054600 +0000">
-        <title>Biography: WWE Legends</title>
-        <desc>Growing up in East Austin, Texas, Virgil Riley Runnels, Jr. always had an outsized vision of the possibilities for himself; his iconic rivalry and promos with Ric Flair set the path for an entire industry.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5b782c5f9296df33f5c/tile_1764931007913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68c820525ec82769fdfcd104" start="20260607050000 +0000" stop="20260607100000 +0000">
+        <title>Wrestling Legends TV</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68c820525ec82769fdfcd104/featuredImage_1764927594544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260607054600 +0000" stop="20260607081200 +0000">
-        <title>Biography: WWE Legends</title>
-        <desc>The faction known as D-Generation X and its impact on the '90s; although they could be offensive, profane and rebellious, they always entertained the crowd.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5b782c5f9296df33f5c/tile_1764931007913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68c820525ec82769fdfcd104" start="20260607100000 +0000" stop="20260607105200 +0000">
+        <title>WWE Rivals</title>
+        <desc>The on-screen rivalry between Eddie Guerrero and Rey Mysterio is a true battle between two of the most dynamic and successful luchadores in sports entertainment history; roundtable with Kevin Nash, Natalya Neidhart, Bayley and John Bradshaw Layfield.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260607081200 +0000" stop="20260607100000 +0000">
-        <title>Biography: WWE Legends</title>
-        <desc>The story of Booker T, an 11-time WCW Tag Team champion, a six-time world champion, winner of the 2006 King of the Ring Tournament, and a two-time inductee into the WWE Hall of Fame.</desc>
-        <icon src="https://images.pluto.tv/series/6932b5b782c5f9296df33f5c/tile_1764931007913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68c820525ec82769fdfcd104" start="20260607105200 +0000" stop="20260607114300 +0000">
+        <title>WWE Rivals</title>
+        <desc>Former WWE writer Freddie Prinze Jr. leads a panel of legends and superstars that includes Hall of Famer Kevin Nash to discuss the bitter rivalry between Bret Hart and Shawn Michaels.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68c820525ec82769fdfcd104" start="20260607114300 +0000" stop="20260607123500 +0000">
+        <title>WWE Rivals</title>
+        <desc>In 1996, "Stone Cold" Steve Austin was climbing to the top of the WWE roster; however, one man stood in his path: Bret "Hitman" Hart, one of greatest wrestlers at the time.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5bb82c5f9296df3471b/tile_1764931004707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="696e024a7e92438c27a425a8" start="20260607044600 +0000" stop="20260607055500 +0000">
         <title>FIA World Rally Championship</title>
