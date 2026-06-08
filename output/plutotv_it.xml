@@ -3081,6 +3081,11 @@
         <desc>Live Snooker 900, la nuova versione veloce ed emozionante del gioco, dove le leggende dello snooker si affrontano in sfide settimanali.</desc>
         <icon src="https://images.pluto.tv/series/69d8e0067f004573bea00684/tile_1775820809903.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="69148c76e9dec35c9269a16c" start="20260608181500 +0000" stop="20260608211500 +0000">
+        <title>Snooker 900</title>
+        <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
+        <icon src="https://images.pluto.tv/series/691ad72cd2a007faba9bc468/tile_1763402080990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="691c5bef3a369d8f40192e71" start="20260608093000 +0000" stop="20260608102125 +0000">
         <title>Sintesi | Serie A 2025/2026 | Bologna - Inter</title>
         <desc>Rivivi le emozioni più belle!</desc>
@@ -11150,10 +11155,30 @@ Riuscirà Venezia a vincere la millenaria sfida con l’acqua grazie al MOSE?</d
         <desc>I Puffi e il drago</desc>
         <icon src="https://images.pluto.tv/series/68de3c40d279ff480535c649/tile_1777381920975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="690cb9140d121b44ad925ac9" start="20260608180000 +0000" stop="20260608220000 +0000">
+    <programme channel="690cb9140d121b44ad925ac9" start="20260608174300 +0000" stop="20260608183800 +0000">
         <title>Mayday: Disastro Aereo</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/690cb9140d121b44ad925ac9/featuredImage_1762957823586.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Un aereo gira misteriosamente intorno all’aeroporto di Atene. Qual è l’enigma del volo 522?</desc>
+        <icon src="https://images.pluto.tv/series/6980fe980cca0cc3456dd995/tile_1780915553514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="690cb9140d121b44ad925ac9" start="20260608183800 +0000" stop="20260608193400 +0000">
+        <title>Mayday: Disastro Aereo</title>
+        <desc>Il volo Korean Air 801 si schianta a cinque chilometri dalla destinazione.</desc>
+        <icon src="https://images.pluto.tv/series/6980fe980cca0cc3456dd995/tile_1780915553514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="690cb9140d121b44ad925ac9" start="20260608193400 +0000" stop="20260608203000 +0000">
+        <title>Mayday: Disastro Aereo</title>
+        <desc>Un 737 militare che trasporta passeggeri di alto rango si schianta a chilometri dalla destinazione prevista.</desc>
+        <icon src="https://images.pluto.tv/series/6980fe980cca0cc3456dd995/tile_1780915553514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="690cb9140d121b44ad925ac9" start="20260608203000 +0000" stop="20260608212500 +0000">
+        <title>Mayday: Disastro Aereo</title>
+        <desc>L’aereo si schianta in una foresta e viene avvolto dalle fiamme.</desc>
+        <icon src="https://images.pluto.tv/series/6980fe980cca0cc3456dd995/tile_1780915553514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="690cb9140d121b44ad925ac9" start="20260608212500 +0000" stop="20260608221900 +0000">
+        <title>Mayday: Disastro Aereo</title>
+        <desc>Il volo Arrow Air 1285 fa rifornimento e pochi secondi dopo il decollo si schianta.</desc>
+        <icon src="https://images.pluto.tv/series/6980fe980cca0cc3456dd995/tile_1780915553514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69148c76e9dec35c9269a16c" start="20260608144500 +0000" stop="20260608181500 +0000">
         <title>The Crucible Cup</title>
@@ -11169,6 +11194,11 @@ Riuscirà Venezia a vincere la millenaria sfida con l’acqua grazie al MOSE?</d
         <title>Snooker 900</title>
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/691ad72cd2a007faba9bc468/tile_1763402080990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69148c76e9dec35c9269a16c" start="20260609001500 +0000" stop="20260609011500 +0000">
+        <title>Rocket Method</title>
+        <desc>Ronnie O'Sullivan teaches snooker fundamentals, guiding viewers through the essential skills and techniques to improve their game, the Rocket Method.</desc>
+        <icon src="https://images.pluto.tv/series/691ad730d2a007faba9bcad5/tile_1763366715852.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691c5bef3a369d8f40192e71" start="20260608175330 +0000" stop="20260608181757 +0000">
         <title>Off The Pitch | Larissa Iapichino</title>
@@ -21433,6 +21463,11 @@ Da Megalopoli A Citta - Giardino</title>
         <desc>Mentre Grace, una mamma single, si divide tra il lavoro, i conti e la sua relazione con un medico sposato, sua figlia Ansiedad trova una scorciatoia per diventare adulta prendendo ispirazione da un romanzo di formazione che sta leggendo per la scuola.</desc>
         <icon src="https://images.pluto.tv/series/61444896bce9e900135ac628/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="608aa512d67fd900072323db" start="20260609100857 +0000" stop="20260609115029 +0000">
+        <title>La casa dei sogni</title>
+        <desc>Una coppia cerca la casa perfetta in cui andare a vivere e decide di assumere un architetto. L'uomo, invece di svolgere il lavoro per il quale era stato assunto, progetta la dimora dei propri sogni.</desc>
+        <icon src="https://images.pluto.tv/series/6459f94891275e001a7451ae/tile_1768605121990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="608aa5e995132a00075f7005" start="20260609055927 +0000" stop="20260609074832 +0000">
         <title>3 donne al verde</title>
         <desc>Tre donne organizzano la rapina più improbabile del Paese: rubare milioni di dollari in banconote destinate ogni giorno al tritadocumenti della banca più sicura degli Stati Uniti d'America. Prendere il denaro sarà facile... ma riusciranno a scappare?</desc>
@@ -24599,7 +24634,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>L'imprenditore nautico Ben Aronoff (John Travolta) ha creato un impero da solo. La sua azienda costruisce i motoscafi più veloci del mondo, suscitando gli interessi dei cartelli della droga, che lo attirano nei propri commerci illegali.</desc>
         <icon src="https://images.pluto.tv/series/611b8980ddc8e90013a47b60/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608aa17fb9f4490007e6419a" start="20260609105238 +0000" stop="20260609140000 +0000">
+    <programme channel="608aa17fb9f4490007e6419a" start="20260609105238 +0000" stop="20260609123838 +0000">
+        <title>Girl In Progress</title>
+        <desc>Mentre Grace, una mamma single, si divide tra il lavoro, i conti e la sua relazione con un medico sposato, sua figlia Ansiedad trova una scorciatoia per diventare adulta prendendo ispirazione da un romanzo di formazione che sta leggendo per la scuola.</desc>
+        <icon src="https://images.pluto.tv/series/61444896bce9e900135ac628/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608aa17fb9f4490007e6419a" start="20260609123838 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Film</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24609,7 +24649,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Pellicola biografica sulla vita di Lane Frost, celebre campione del rodeo. Dalla gioventù, quando Lane, grazie agli insegnamenti del padre, inizia a frequentare le gare, fino a diventare il migliore del mondo.</desc>
         <icon src="https://images.pluto.tv/series/638a102dd9c17f001457ebbe/tile_1768520887473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608aa20a2e7f270007c4878d" start="20260609103949 +0000" stop="20260609140000 +0000">
+    <programme channel="608aa20a2e7f270007c4878d" start="20260609103949 +0000" stop="20260609122310 +0000">
+        <title>Jack Hunter e la stella del paradiso</title>
+        <desc>L'avventuriero Jack Hunter insegue attraverso l'Europa Albert Littman, il suo nemico storico, cercando di contrastare i tentativi del rivale di impadronirsi di un pericoloso e misterioso oggetto.</desc>
+        <icon src="https://images.pluto.tv/series/659bf33853180b0013c292f4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608aa20a2e7f270007c4878d" start="20260609122310 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Film Azione</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24619,7 +24664,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Con l'inizio del caso Grace, Stan e Gwen si affrontano finalmente in aula. Natalie e Bruno cercano nuove prove per scagionarla, mentre Grace cerca nuovi modi per ottenere la libertà.</desc>
         <icon src="https://images.pluto.tv/series/61f3aa50dd104a001a815881/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608aa777b907770007e5d05d" start="20260609102420 +0000" stop="20260609140000 +0000">
+    <programme channel="608aa777b907770007e5d05d" start="20260609102420 +0000" stop="20260609111920 +0000">
+        <title>Remington Steele: L'ereditiera</title>
+        <desc>Un magnate malato terminale assume l'agenzia Remington Steele per localizzare la sorella gemella della figlia adottiva egocentrica.</desc>
+        <icon src="https://images.pluto.tv/series/639983f36d793400134645c0/tile_1777382280981.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608aa777b907770007e5d05d" start="20260609111920 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Serie Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608aa777b907770007e5d05d/featuredImage_1750402183256.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24629,7 +24679,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Claire vuole a tutti i costi mantenere il possesso della Drovers Run, l'azienda agricola e fattoria di famiglia che il padre Jack gestiva prima di lei. Ma i litigi con la sorella ribelle Tess continuano.</desc>
         <icon src="https://images.pluto.tv/series/611bcf59d91ff50013c28659/tile_1777382641025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60a2837f8154ab0007c4dcdf" start="20260609100500 +0000" stop="20260609140000 +0000">
+    <programme channel="60a2837f8154ab0007c4dcdf" start="20260609100500 +0000" stop="20260609105400 +0000">
+        <title>Le Sorelle McLeod: Mai mettersi contro le ragazze</title>
+        <desc>È in atto il rodeo di Gungellan e Claire trova un'opportunità per ottenere i consensi della comunità, ma Tess riceve più elogi specialmente dai fratelli Ryan.</desc>
+        <icon src="https://images.pluto.tv/series/611bcf59d91ff50013c28659/tile_1777382641025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60a2837f8154ab0007c4dcdf" start="20260609105400 +0000" stop="20260609114300 +0000">
+        <title>Le Sorelle McLeod: Chi è il capo?</title>
+        <desc>Tess rivaluta sempre di più quello che pensava della vita in campagna. I rapporti con la sorella si fanno meno conflittuali grazie all'acquisto di un nuovo gregge di pecore. Jodi dovrà compiere importanti decisioni da sola.</desc>
+        <icon src="https://images.pluto.tv/series/611bcf59d91ff50013c28659/tile_1777382641025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60a2837f8154ab0007c4dcdf" start="20260609114300 +0000" stop="20260609140000 +0000">
         <title>Le sorelle McLeod</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24639,7 +24699,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>A Natale, Jonathan e Mark cercano di convincere una coppia divorziata a collaborare per il bene del figlio. Nel frattempo, la festa potrebbe essere rovinata dall'arresto del Babbo Natale di un grande magazzino.</desc>
         <icon src="https://images.pluto.tv/series/63a1d7c8eb85c500132aa288/tile_1777450320943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60b9ff2722bfa400072676ef" start="20260609103905 +0000" stop="20260609140000 +0000">
+    <programme channel="60b9ff2722bfa400072676ef" start="20260609103905 +0000" stop="20260609113705 +0000">
+        <title>Highway to Heaven IT: L'amore di una madre</title>
+        <desc>Quattro fratelli si danno alla fuga per sfuggire a un'ordinanza del tribunale che li dividerebbe.</desc>
+        <icon src="https://images.pluto.tv/series/63a1d7c8eb85c500132aa288/tile_1777450320943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60b9ff2722bfa400072676ef" start="20260609113705 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Serie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/featuredImage_1779187121953.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24649,7 +24714,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Mentre Louise e Florence incontrano i membri del Ku Klux Klan, Tom organizza una riunione di condominio per parlare dei furti che si sono verificati.</desc>
         <icon src="https://images.pluto.tv/series/627380eac514110013443e14/tile_1779922082113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62442f28afe626000747f195" start="20260609102600 +0000" stop="20260609140000 +0000">
+    <programme channel="62442f28afe626000747f195" start="20260609102600 +0000" stop="20260609105300 +0000">
+        <title>I Jefferson: Il Mio Eroe</title>
+        <desc>George è considerato un eroe dopo aver salvato una donna da un tentativo di furto. In seguito il rapinatore lo minaccia e lui, intimidito, assume una guardia del corpo</desc>
+        <icon src="https://images.pluto.tv/series/627380eac514110013443e14/tile_1779922082113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62442f28afe626000747f195" start="20260609105300 +0000" stop="20260609112000 +0000">
+        <title>I Jefferson: Canzoni</title>
+        <desc>Per San Valentino Louise desidera qualcosa di romantico, soprattutto dopo aver visto il regalo di Tom per Helen. George però ha dimenticato questo giorno</desc>
+        <icon src="https://images.pluto.tv/series/627380eac514110013443e14/tile_1779922082113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62442f28afe626000747f195" start="20260609112000 +0000" stop="20260609140000 +0000">
         <title>I Jefferson</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62442f28afe626000747f195/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24659,7 +24734,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>La serie segue le vicende della famiglia del reverendo Camden, sua moglie Annie e i loro sette figli.</desc>
         <icon src="https://images.pluto.tv/series/62cbc07a521f4a00136284ae/tile_1778844601913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6245d3792792150007e20634" start="20260609102700 +0000" stop="20260609140000 +0000">
+    <programme channel="6245d3792792150007e20634" start="20260609102700 +0000" stop="20260609111600 +0000">
+        <title>Settimo Cielo: Who Nose</title>
+        <desc>La serie segue le vicende della famiglia del reverendo Camden, sua moglie Annie e i loro sette figli.</desc>
+        <icon src="https://images.pluto.tv/series/62cbc07a521f4a00136284ae/tile_1778844601913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6245d3792792150007e20634" start="20260609111600 +0000" stop="20260609140000 +0000">
         <title>Settimo Cielo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6245d3792792150007e20634/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24669,7 +24749,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Una chiamata anonima segnala una bomba su di una vettura di un'agenzia di consegne. Semir raggiunge il veicolo giusto in tempo per vederlo saltare in aria. Per la pattuglia inizia una micidiale corsa contro il tempo...</desc>
         <icon src="https://images.pluto.tv/series/66ab6d80b20e79001338fe4c/tile_1774616761213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="625e6cc905e09f00073addee" start="20260609100111 +0000" stop="20260609140000 +0000">
+    <programme channel="625e6cc905e09f00073addee" start="20260609100111 +0000" stop="20260609105621 +0000">
+        <title>Squadra Speciale Cobra 11</title>
+        <desc>Due spacciatori di droga sono disposti a tutto pur di riappropriarsi della droga lasciata in un'auto sequestrata. Anche a prendere in ostaggio Hartmut e la sua ragazza Natalie....</desc>
+        <icon src="https://images.pluto.tv/series/66ab6d80b20e79001338fe4c/tile_1774616761213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625e6cc905e09f00073addee" start="20260609105621 +0000" stop="20260609114759 +0000">
+        <title>Squadra Speciale Cobra 11</title>
+        <desc>Dopo un incidente, la pattuglia autostradale trova Tom Kranich sul punto di morte. Con le sue ultime parole, svela qualcosa di incomprensibile. Semir scopre che un altro uomo rimasto ucciso nell'incidente era responsabile del'intera rete elettrica.</desc>
+        <icon src="https://images.pluto.tv/series/66ab6d80b20e79001338fe4c/tile_1774616761213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625e6cc905e09f00073addee" start="20260609114759 +0000" stop="20260609140000 +0000">
         <title>Squadra Speciale Cobra 11</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/625e6cc905e09f00073addee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24679,7 +24769,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>La lealtà di Aramis viene messa alla prova quando accetta di aiutare un suo vecchio amico a scoprire cosa si nasconde dietro una missione.</desc>
         <icon src="https://images.pluto.tv/series/62fde86b3568a9001bbcf632/tile_1774618201212.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e7fa5ab5062e0007dcf97d" start="20260609103723 +0000" stop="20260609140000 +0000">
+    <programme channel="62e7fa5ab5062e0007dcf97d" start="20260609103723 +0000" stop="20260609113823 +0000">
+        <title>L'amore e la vita - Call the Midwife: Episodio 1</title>
+        <desc>Nella primavera del 1957, Jenny Lee, appena diplomata levatrice, giunge nell'East End di Londra per iniziare la carriera.</desc>
+        <icon src="https://images.pluto.tv/series/62fcb0e942b796001bc07ffe/tile_1774618201177.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e7fa5ab5062e0007dcf97d" start="20260609113823 +0000" stop="20260609140000 +0000">
         <title>BBC Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e7fa5ab5062e0007dcf97d/featuredImage_1770365241843.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24689,7 +24784,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Un cantante viene rapito e la casa discografica promette un premio a chi lo ritrova. Reno scopre che il giovane ha inscenato il suo rapimento perché era oppresso dal suo manager.</desc>
         <icon src="https://images.pluto.tv/series/6391b440d9c17f00145abab2/tile_1777449600938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="634926e4b51d2d00077819a2" start="20260609101500 +0000" stop="20260609140000 +0000">
+    <programme channel="634926e4b51d2d00077819a2" start="20260609101500 +0000" stop="20260609110500 +0000">
+        <title>Renegade: Il fantasma</title>
+        <desc>Reno viene ferito dal criminale che stava inseguendo e rischia di morire, salvandosi grazie all'arrivo dell'ambulanza; Bobby e Sandy lo aiutano poi a fuggire dall'ospedale, prima che Dixon lo trovi.</desc>
+        <icon src="https://images.pluto.tv/series/6391b440d9c17f00145abab2/tile_1777449600938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="634926e4b51d2d00077819a2" start="20260609110500 +0000" stop="20260609140000 +0000">
         <title>Renegade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/634926e4b51d2d00077819a2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24699,7 +24799,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Il magnate del petrolio George Wellington ha un maggiordomo, Hastings, che conosce tutti i segreti di famiglia. Quando Hastings viene ucciso, Remington viene assunto dallo staff della casa per prendere il posto del maggiordomo e trovare l'assassino.</desc>
         <icon src="https://images.pluto.tv/series/639983f36d793400134645c0/tile_1777382280981.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6349279ed5023700078f2bc2" start="20260609102800 +0000" stop="20260609140000 +0000">
+    <programme channel="6349279ed5023700078f2bc2" start="20260609102800 +0000" stop="20260609112200 +0000">
+        <title>Remington Steele: La corsa</title>
+        <desc>Un uomo rapisce Laura mentre è in competizione in un triathlon, quindi la scarica sul ciglio della strada.</desc>
+        <icon src="https://images.pluto.tv/series/639983f36d793400134645c0/tile_1777382280981.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6349279ed5023700078f2bc2" start="20260609112200 +0000" stop="20260609140000 +0000">
         <title>Mai dire sì</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6349279ed5023700078f2bc2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24709,7 +24814,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Jonathan e Mark vanno a lavorare presso una squadra di football. Vengono a sapere che uno dei giocatori ha assunto farmaci dal medico della squadra.</desc>
         <icon src="https://images.pluto.tv/series/63a1d7c8eb85c500132aa288/tile_1777450320943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="638f286445264d00084ec6dc" start="20260609100700 +0000" stop="20260609140000 +0000">
+    <programme channel="638f286445264d00084ec6dc" start="20260609100700 +0000" stop="20260609110500 +0000">
+        <title>Highway to Heaven IT: Da solo</title>
+        <desc>Un ragazzo senza fissa dimora desidera che qualcuno lo ami.</desc>
+        <icon src="https://images.pluto.tv/series/63a1d7c8eb85c500132aa288/tile_1777450320943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="638f286445264d00084ec6dc" start="20260609110500 +0000" stop="20260609140000 +0000">
         <title>Autostop per il cielo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/638f286445264d00084ec6dc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24719,7 +24829,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Quando John Davies, un detenuto recentemente rilasciato, confessa un rapimento con omicidio, la squadra reindaga sulla scomparsa di Yasser Blackledge, un bambino di 5 anni, avvenuta 25 anni prima.</desc>
         <icon src="https://images.pluto.tv/series/62fb6d70946347001befe02b/tile_1774618201074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6500457d3efb510008315e59" start="20260609101100 +0000" stop="20260609140000 +0000">
+    <programme channel="6500457d3efb510008315e59" start="20260609101100 +0000" stop="20260609111200 +0000">
+        <title>New Tricks: Nuove tracce per vecchie volpi: Serie 7, Episodio 4</title>
+        <desc>Una recente aggressione in una panetteria risulta collegata a due attacchi in una fabbrica di cioccolato avvenuti 10 anni prima. La squadra inizia a dare la caccia a uno stupratore seriale.</desc>
+        <icon src="https://images.pluto.tv/series/62fb6d70946347001befe02b/tile_1774618201074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6500457d3efb510008315e59" start="20260609111200 +0000" stop="20260609140000 +0000">
         <title>New Tricks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6500457d3efb510008315e59/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24729,7 +24844,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Lo scherzo di Doc fallisce quando scrive lettere d'amore firmate da Gopher; un uomo cerca di salvare la relazione con la moglie maniaca del lavoro; e una donna innocente si vendica di un uomo con intenzioni tutt'altro che innocenti.</desc>
         <icon src="https://images.pluto.tv/series/6650490f2833ae0013778e28/tile_1774617841026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cb76723a116800079e1fc3" start="20260609100738 +0000" stop="20260609140000 +0000">
+    <programme channel="65cb76723a116800079e1fc3" start="20260609100738 +0000" stop="20260609110536 +0000">
+        <title>The Love Boat: Attento a mia moglie!</title>
+        <desc>Quando Doc cerca di intrattenere la moglie del suo migliore amico, si ritrova oggetto di avances inaspettate; un fidanzamento può andare in crisi quando un passeggero incontra una vecchia fiamma; un playboy in fuga potrebbe aver trovato il vero amore.</desc>
+        <icon src="https://images.pluto.tv/series/6650490f2833ae0013778e28/tile_1774617841026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cb76723a116800079e1fc3" start="20260609110536 +0000" stop="20260609140000 +0000">
         <title>Love Boat</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cb76723a116800079e1fc3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24739,7 +24859,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Krystle inizia a lavorare con Daniel. Blake si oppone fermamente ha un duro scambio con Reece. Dex è furioso con Alexis per il suo viaggio a Sumatra per incontrare il padre di Blake.</desc>
         <icon src="https://images.pluto.tv/series/6645ee3a4d780d00134222de/tile_1774617120820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cb76ea11ced70008206b66" start="20260609102227 +0000" stop="20260609140000 +0000">
+    <programme channel="65cb76ea11ced70008206b66" start="20260609102227 +0000" stop="20260609111735 +0000">
+        <title>Dynasty: Relazioni straniere</title>
+        <desc>Krystle lancia la sua nuova attività. Jeff e Nikki tornano dalla Bolivia con la notizia del loro matrimonio e si trasferiscono nella villa. Alexis è incuriosito dal recente incontro di Blake con una delegazione cinese.</desc>
+        <icon src="https://images.pluto.tv/series/6645ee3a4d780d00134222de/tile_1774617120820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cb76ea11ced70008206b66" start="20260609111735 +0000" stop="20260609140000 +0000">
         <title>Dynasty</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cb76ea11ced70008206b66/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24749,7 +24874,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Barney assume l'identità di un potente sensitivo proveniente da un'isola dei Caraibi per ipnotizzare il leader criminale disertore e costringerlo a rivelare la sua lista super segreta di funzionari governativi da rapinare.</desc>
         <icon src="https://images.pluto.tv/series/6655b0c5cceea000134aee27/tile_1774617841020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cb77853ba51e00084cba02" start="20260609105205 +0000" stop="20260609140000 +0000">
+    <programme channel="65cb77853ba51e00084cba02" start="20260609105205 +0000" stop="20260609114952 +0000">
+        <title>Mission Impossible: Una testimone scomoda</title>
+        <desc>Nora Dawson, testimone di un omicidio, è ricoverata in un manicomio e viene tenuta sotto sostanze stupefacenti poichè non confessi. L'IMF avrà ventiquattr'ore per salvarle la vita.</desc>
+        <icon src="https://images.pluto.tv/series/6655b0c5cceea000134aee27/tile_1774617841020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cb77853ba51e00084cba02" start="20260609114952 +0000" stop="20260609140000 +0000">
         <title>Mission Impossible</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cb77853ba51e00084cba02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24759,7 +24889,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>I clienti e i gestori del bar festeggiano il centenario di Cheers.</desc>
         <icon src="https://images.pluto.tv/series/668267a01c028200131da5a4/tile_1768331161951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cb78b83a116800079e2e35" start="20260609100911 +0000" stop="20260609140000 +0000">
+    <programme channel="65cb78b83a116800079e2e35" start="20260609100911 +0000" stop="20260609103558 +0000">
+        <title>Cheers</title>
+        <desc>In seguito alla morte prematura di Eddie, Carla scopre che suo marito le metteva le corna.</desc>
+        <icon src="https://images.pluto.tv/series/668267a01c028200131da5a4/tile_1768331161951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cb78b83a116800079e2e35" start="20260609103558 +0000" stop="20260609110200 +0000">
+        <title>Cheers</title>
+        <desc>Frasier rapisce il proprio figlio per evitare che venga circonciso secondo la tradizione ebraica.</desc>
+        <icon src="https://images.pluto.tv/series/668267a01c028200131da5a4/tile_1768331161951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cb78b83a116800079e2e35" start="20260609110200 +0000" stop="20260609140000 +0000">
         <title>Cin Cin</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cb78b83a116800079e2e35/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24769,7 +24909,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Leo è a cena da Gemma con Ivan, il fratello di Prosperi; teme che il ragazzo faccia uso di droghe e decide di avvisare Paola di questo sospetto.</desc>
         <icon src="https://images.pluto.tv/series/66bc8e3050ed6e0013a549c6/tile_1774616761223.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a0eea88561260008b1c5d0" start="20260609101533 +0000" stop="20260609140000 +0000">
+    <programme channel="66a0eea88561260008b1c5d0" start="20260609101533 +0000" stop="20260609111544 +0000">
+        <title>Carabinieri</title>
+        <desc>Il fratello di Prosperi, Ivan, è stato derubato e malmenato dagli spacciatori di droga a cui è solito rivolgersi per procurarsi le dosi.</desc>
+        <icon src="https://images.pluto.tv/series/66bc8e3050ed6e0013a549c6/tile_1774616761223.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a0eea88561260008b1c5d0" start="20260609111544 +0000" stop="20260609140000 +0000">
         <title>Carabinieri</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24779,7 +24924,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Cherif indaga sull'omicidio di un giovane campione di tennis. Queste indagini lo condurranno sulla pista da ballo di una discoteca gestita da un cantante emblematico degli anni '80.</desc>
         <icon src="https://images.pluto.tv/series/6745870871cc440013c4a805/tile_1774617480812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a8c7aefe11e500085b1587" start="20260609104857 +0000" stop="20260609140000 +0000">
+    <programme channel="66a8c7aefe11e500085b1587" start="20260609104857 +0000" stop="20260609115316 +0000">
+        <title>Cherif</title>
+        <desc>Mentre indaga sulla morte di un uomo trovato accoltellato nella sua auto, Cherif riceve un colpo alla testa e si ritrova faccia a faccia con Huggy-the-good-pipes. Un genio buono che solo lui vede e sente e che aiuterà Kader nelle sue indagini.</desc>
+        <icon src="https://images.pluto.tv/series/6745870871cc440013c4a805/tile_1774617480812.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a8c7aefe11e500085b1587" start="20260609115316 +0000" stop="20260609140000 +0000">
         <title>Cherif</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a8c7aefe11e500085b1587/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24789,7 +24939,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Un partecipante a uno stage sull’estrazione dell’oro viene trovato morto. Gli investigatori si infiltrano nel gruppo per scoprire la verità.</desc>
         <icon src="https://images.pluto.tv/series/67594d88917fe40013b356ec/tile_1776890535732.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a8c8b3d2d50d000821fc4c" start="20260609101356 +0000" stop="20260609140000 +0000">
+    <programme channel="66a8c8b3d2d50d000821fc4c" start="20260609101356 +0000" stop="20260609110822 +0000">
+        <title>Tandem</title>
+        <desc>Un violinista viene trovato assassinato all’Opera. Gli investigatori scoprono che il suo violino era stato sostituito con un’imitazione.</desc>
+        <icon src="https://images.pluto.tv/series/67594d88917fe40013b356ec/tile_1776890535732.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a8c8b3d2d50d000821fc4c" start="20260609110822 +0000" stop="20260609140000 +0000">
         <title>Tandem</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a8c8b3d2d50d000821fc4c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24799,7 +24954,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Un uomo piazza degli esplosivi in edifici pubblici dove può causare la massima distruzione.</desc>
         <icon src="https://images.pluto.tv/series/67d2db08763d6b068fc7ab1f/tile_1774616761013.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d7120815d2c60008cec006" start="20260609102530 +0000" stop="20260609140000 +0000">
+    <programme channel="66d7120815d2c60008cec006" start="20260609102530 +0000" stop="20260609111059 +0000">
+        <title>Flashpoint</title>
+        <desc>La squadra rintraccia l'attentatore che ha seminato il panico in città. È un ex psichiatra e ha un giubbotto esplosivo.</desc>
+        <icon src="https://images.pluto.tv/series/67d2db08763d6b068fc7ab1f/tile_1774616761013.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d7120815d2c60008cec006" start="20260609111059 +0000" stop="20260609140000 +0000">
         <title>Flashpoint</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d7120815d2c60008cec006/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24809,7 +24969,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Un stalliere viene ucciso. La sua identità usurpata rivela misteri familiari legati alla sua scomparsa.</desc>
         <icon src="https://images.pluto.tv/series/677f90104513c5615a85d018/tile_1776888728120.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d9a98961dbf00008efb5fc" start="20260609101910 +0000" stop="20260609140000 +0000">
+    <programme channel="66d9a98961dbf00008efb5fc" start="20260609101910 +0000" stop="20260609112053 +0000">
+        <title>Section De Recherches</title>
+        <desc>Due donne vengono uccise con la stessa arma. La SR indaga su un possibile legame tra le vittime o un assassino casuale.</desc>
+        <icon src="https://images.pluto.tv/series/677f90104513c5615a85d018/tile_1776888728120.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d9a98961dbf00008efb5fc" start="20260609112053 +0000" stop="20260609140000 +0000">
         <title>Sulle tracce del crimine</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d9a98961dbf00008efb5fc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24819,7 +24984,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Annie Cambieri, chef stellata, è trovata con il collo spezzato. La scoperta di un passaporto falso di un migrante complica il caso.</desc>
         <icon src="https://images.pluto.tv/series/67603da35b7b6900135a81e8/tile_1777382281050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d9aa4315d2c60008d4ac40" start="20260609101033 +0000" stop="20260609140000 +0000">
+    <programme channel="66d9aa4315d2c60008d4ac40" start="20260609101033 +0000" stop="20260609110849 +0000">
+        <title>Alice Nevers</title>
+        <desc>Nathalie Chazela, una giovane autistica di 22 anni, viene trovata morta di notte nell’androne dell’edificio dove vive sua sorella, Florence Chazela.</desc>
+        <icon src="https://images.pluto.tv/series/67603da35b7b6900135a81e8/tile_1777382281050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d9aa4315d2c60008d4ac40" start="20260609110849 +0000" stop="20260609140000 +0000">
         <title>Alice Nevers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d9aa4315d2c60008d4ac40/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24829,7 +24999,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Sydney, Nigel e l'imprenditore miliardario Rod Thorson scendono con il paracadute nella giungla del Myanmar.</desc>
         <icon src="https://images.pluto.tv/series/67fe325903a2ab14da8f45b9/tile_1774616761194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67d9836ba1609bdb523f0c9d" start="20260609100500 +0000" stop="20260609140000 +0000">
+    <programme channel="67d9836ba1609bdb523f0c9d" start="20260609100500 +0000" stop="20260609105550 +0000">
+        <title>Relic Hunter</title>
+        <desc>Lavorando come consulenti per un film, Sydney e Nigel si rendono conto che gli oggetti di scena sono reali.</desc>
+        <icon src="https://images.pluto.tv/series/67fe325903a2ab14da8f45b9/tile_1774616761194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d9836ba1609bdb523f0c9d" start="20260609105550 +0000" stop="20260609114640 +0000">
+        <title>Relic Hunter</title>
+        <desc>Sydney viene rapita, ma da chi?</desc>
+        <icon src="https://images.pluto.tv/series/67fe325903a2ab14da8f45b9/tile_1774616761194.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67d9836ba1609bdb523f0c9d" start="20260609114640 +0000" stop="20260609140000 +0000">
         <title>Relic Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67d9836ba1609bdb523f0c9d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24839,7 +25019,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>La notte si riempie di paura! Su Pluto TV Notti di Terrore, ogni sera ti aspetta una selezione di film che ti terrà sveglio per il panico!</desc>
         <icon src="https://images.pluto.tv/series/691c3b221148fa1cd8b402c7/tile_1763482072102.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6911c8dd8caba6f046c5c5d5" start="20260609100048 +0000" stop="20260609140000 +0000">
+    <programme channel="6911c8dd8caba6f046c5c5d5" start="20260609100048 +0000" stop="20260609110048 +0000">
+        <title>Pluto TV Notti di Terrore</title>
+        <desc>La notte si riempie di paura! Su Pluto TV Notti di Terrore, ogni sera ti aspetta una selezione di film che ti terrà sveglio per il panico!</desc>
+        <icon src="https://images.pluto.tv/series/691c3b221148fa1cd8b402c7/tile_1763482072102.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6911c8dd8caba6f046c5c5d5" start="20260609110048 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Notti di Terrore</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6911c8dd8caba6f046c5c5d5/featuredImage_1766041208757.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24849,7 +25034,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>La notte si tinge di sangue! Su Pluto TV Notti di Sangue ogni sera trovi una selezione di film che perseguiterà i tuoi incubi!</desc>
         <icon src="https://images.pluto.tv/series/691c3aee99758a0f03725e04/tile_1763481601834.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6911c92b4316999535eb1e08" start="20260609100043 +0000" stop="20260609140000 +0000">
+    <programme channel="6911c92b4316999535eb1e08" start="20260609100043 +0000" stop="20260609110043 +0000">
+        <title>Pluto TV Notti di Sangue</title>
+        <desc>La notte si tinge di sangue! Su Pluto TV Notti di Sangue ogni sera trovi una selezione di film che perseguiterà i tuoi incubi!</desc>
+        <icon src="https://images.pluto.tv/series/691c3aee99758a0f03725e04/tile_1763481601834.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6911c92b4316999535eb1e08" start="20260609110043 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Notti di Sangue</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6911c92b4316999535eb1e08/featuredImage_1766041125862.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24859,7 +25049,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>La notte si tinge di passione! Su Pluto TV Notti di Passione ogni sera trovi una selezione di film che accenderà la scintilla del desiderio.</desc>
         <icon src="https://images.pluto.tv/series/691c3aab64bd039a9b9480af/tile_1763484657632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6911c9704316999535eb21cf" start="20260609100027 +0000" stop="20260609140000 +0000">
+    <programme channel="6911c9704316999535eb21cf" start="20260609100027 +0000" stop="20260609110027 +0000">
+        <title>Pluto TV Notti di Passione</title>
+        <desc>La notte si tinge di passione! Su Pluto TV Notti di Passione ogni sera trovi una selezione di film che accenderà la scintilla del desiderio.</desc>
+        <icon src="https://images.pluto.tv/series/691c3aab64bd039a9b9480af/tile_1763484657632.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6911c9704316999535eb21cf" start="20260609110027 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Notti di Passione</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6911c9704316999535eb21cf/featuredImage_1766041294522.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24869,7 +25064,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Dopo aver aiutato un parto in strada, Nina e Léo soccorrono madre e neonato in pericolo. In reparto però la caposala crolla sotto stress: malattia o burnout?</desc>
         <icon src="https://images.pluto.tv/series/699dbb884510595fecc6a512/tile_1771944841101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691c5b2e74baa89ef7230baf" start="20260609100234 +0000" stop="20260609140000 +0000">
+    <programme channel="691c5b2e74baa89ef7230baf" start="20260609100234 +0000" stop="20260609110022 +0000">
+        <title>Nina</title>
+        <desc>Ultimo giorno di tirocinio: Nina attende il giudizio di Proust. La figlia Lily vive il suo primo stage in ospedale, mentre Léo affronta il ritorno dell’ex e segue un’atleta dai dolori misteriosi.</desc>
+        <icon src="https://images.pluto.tv/series/699dbb884510595fecc6a512/tile_1771944841101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691c5b2e74baa89ef7230baf" start="20260609110022 +0000" stop="20260609140000 +0000">
         <title>Nina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691c5b2e74baa89ef7230baf/featuredImage_1771598155961.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24879,7 +25079,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Jeremy viene trovato morto nel parcheggio sotterraneo di un supermercato. Insegnante di educazione fisica e padre di un neonato, nascondeva una verità inquietante legata alle attività extrascolastiche.</desc>
         <icon src="https://images.pluto.tv/series/699ebfb06d7de5ca364fa32e/tile_1772011441217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69664afedcbf5c784492e422" start="20260609102524 +0000" stop="20260609140000 +0000">
+    <programme channel="69664afedcbf5c784492e422" start="20260609102524 +0000" stop="20260609111855 +0000">
+        <title>The Intern</title>
+        <desc>Boris e Constance indagano sull’omicidio di Lionel Kaplan, stimato imprenditore specializzato in scafi da regata. È stato massacrato a pochi metri dalla sua officina.</desc>
+        <icon src="https://images.pluto.tv/series/699ebfb06d7de5ca364fa32e/tile_1772011441217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69664afedcbf5c784492e422" start="20260609111855 +0000" stop="20260609140000 +0000">
         <title>The Intern</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69664afedcbf5c784492e422/featuredImage_1772434734016.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24889,7 +25094,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Sanji e Rufy si imbattono in un bizzarro mostro marino dalle fattezze di mucca.</desc>
         <icon src="https://images.pluto.tv/series/6a0eeb50114ca7fcbeebfd1e/tile_1779362641630.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69affcad8940750a23a7231a" start="20260609102621 +0000" stop="20260609140000 +0000">
+    <programme channel="69affcad8940750a23a7231a" start="20260609102621 +0000" stop="20260609105358 +0000">
+        <title>One Piece</title>
+        <desc>Zoro sconfigge molti soldati di Arlong nella loro base e poi si avvia in cerca del villaggio.</desc>
+        <icon src="https://images.pluto.tv/series/6a0eeb50114ca7fcbeebfd1e/tile_1779362641630.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69affcad8940750a23a7231a" start="20260609105358 +0000" stop="20260609112135 +0000">
+        <title>One Piece</title>
+        <desc>Nami ha pugnalato Usop ad Arlong Park e poi si imbatte nel resto dei suoi ex compagni.</desc>
+        <icon src="https://images.pluto.tv/series/6a0eeb50114ca7fcbeebfd1e/tile_1779362641630.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69affcad8940750a23a7231a" start="20260609112135 +0000" stop="20260609140000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69affcad8940750a23a7231a/featuredImage_1778079789267.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24899,7 +25114,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>L'Andromeda è infestata da una misteriosa creatura salita a bordo durante una tempesta solare.</desc>
         <icon src="https://images.pluto.tv/series/608fb26babe13d0013c89596/tile_1777381920846.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60802d37ee238e0007c94e64" start="20260609100500 +0000" stop="20260609140000 +0000">
+    <programme channel="60802d37ee238e0007c94e64" start="20260609100500 +0000" stop="20260609105400 +0000">
+        <title>Andromeda: E il tuo cuore volerà via</title>
+        <desc>Quando un suo vecchio amore ritorna, Tyr scompare dalla nave per proteggere la donna da un assassino.</desc>
+        <icon src="https://images.pluto.tv/series/608fb26babe13d0013c89596/tile_1777381920846.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60802d37ee238e0007c94e64" start="20260609105400 +0000" stop="20260609114300 +0000">
+        <title>Andromeda: L'uomo invincibile</title>
+        <desc>Ambientato in un universo alternativo dove Dylan è morto e Gaheris Rhade sta cercando di riformare il Commonwealth.</desc>
+        <icon src="https://images.pluto.tv/series/608fb26babe13d0013c89596/tile_1777381920846.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60802d37ee238e0007c94e64" start="20260609114300 +0000" stop="20260609140000 +0000">
         <title>Andromeda</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24909,7 +25134,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>In questa divertente commedia romantica diretta da Sandra L. Martin, Julie Gonzalo (A Cinderella Story) veste i panni di Jilian, affermata scrittrice e consulente matrimoniale la cui vita sentimentale è in profonda crisi.</desc>
         <icon src="https://images.pluto.tv/series/68da9695d279ff480590742b/tile_1759155862656.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608aa4a4cc92820007b663af" start="20260609103035 +0000" stop="20260609140000 +0000">
+    <programme channel="608aa4a4cc92820007b663af" start="20260609103035 +0000" stop="20260609120752 +0000">
+        <title>Innamorarsi a Valentine</title>
+        <desc>La californiana Kennedy Blaine eredita un ranch nella piccola città di Valentine, in Nebraska. Prima di vendere la proprietà, decide di trascorrere l'estate nella casa, insieme alla sua famiglia.</desc>
+        <icon src="https://images.pluto.tv/series/68da93b033c9798391da4347/tile_1759155408065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608aa4a4cc92820007b663af" start="20260609120752 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Film Romantici</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24919,7 +25149,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Mentre Grace, una mamma single, si divide tra il lavoro, i conti e la sua relazione con un medico sposato, sua figlia Ansiedad trova una scorciatoia per diventare adulta prendendo ispirazione da un romanzo di formazione che sta leggendo per la scuola.</desc>
         <icon src="https://images.pluto.tv/series/61444896bce9e900135ac628/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608aa512d67fd900072323db" start="20260609100857 +0000" stop="20260609140000 +0000">
+    <programme channel="608aa512d67fd900072323db" start="20260609100857 +0000" stop="20260609115029 +0000">
+        <title>La casa dei sogni</title>
+        <desc>Una coppia cerca la casa perfetta in cui andare a vivere e decide di assumere un architetto. L'uomo, invece di svolgere il lavoro per il quale era stato assunto, progetta la dimora dei propri sogni.</desc>
+        <icon src="https://images.pluto.tv/series/6459f94891275e001a7451ae/tile_1768605121990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608aa512d67fd900072323db" start="20260609115029 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Film Commedia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608aa512d67fd900072323db/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24929,7 +25164,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Durante una rapina, quattro balordi uccidono una donna ed un bambino: sono la moglie e il figlio di Don Salvatore Savastano, temuto contrabbandiere che da quel momento si trasforma in un giustiziere solitario senza altro altro scopo che la vendetta.</desc>
         <icon src="https://images.pluto.tv/series/611b89ceddc8e90013a4888c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608aa5e995132a00075f7005" start="20260609105936 +0000" stop="20260609140000 +0000">
+    <programme channel="608aa5e995132a00075f7005" start="20260609105936 +0000" stop="20260609124115 +0000">
+        <title>Fatal Instinct</title>
+        <desc>Il fratello di un ispettore di polizia figura fra i principali sospettati di una serie di omicidi a Los Angeles.</desc>
+        <icon src="https://images.pluto.tv/series/6459fab6eead4c001bf196ae/tile_1768605121952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608aa5e995132a00075f7005" start="20260609124115 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Film Thriller</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608aa5e995132a00075f7005/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24939,7 +25179,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Un pericoloso gruppo criminale vuole distruggere la basilica di San Pietro seguendo un piano chiamato Operazione DUE, Distruzione Urbe Eterna. L'unico che può fermarli è l'agente segreto James Tont. Con il mitico Lando Buzzanca.</desc>
         <icon src="https://images.pluto.tv/series/6116704dec6e1200142d4534/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608aa7d8359b270007861489" start="20260609101501 +0000" stop="20260609140000 +0000">
+    <programme channel="608aa7d8359b270007861489" start="20260609101501 +0000" stop="20260609114523 +0000">
+        <title>L'eroe</title>
+        <desc>Un giornalista ambizioso ma mediocre viene relegato a una redazione di provincia e poi licenziato. Quando il nipote di una potente imprenditrice viene rapito, torna al centro della scena. Tra scoop e paure collettive, il paese cerca un colpevole.</desc>
+        <icon src="https://images.pluto.tv/series/6996e3580d2fd4f9c2e4ee56/tile_1771496280987.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608aa7d8359b270007861489" start="20260609114523 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Cinema Italiano</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608aa7d8359b270007861489/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24949,7 +25194,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Desiderosa di veder felice la mamma, una giovane donna scrive a Babbo Natale, chiedendo per lei un nuovo compagno.</desc>
         <icon src="https://images.pluto.tv/series/619cbdb137f2a80013d3360a/tile_1777459321330.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612e05b885183d0007958101" start="20260609105835 +0000" stop="20260609140000 +0000">
+    <programme channel="612e05b885183d0007958101" start="20260609105835 +0000" stop="20260609123357 +0000">
+        <title>Natale nella fattoria degli alpaca</title>
+        <desc>Jess the “Queen of Christmas Sweaters,” quits her job at the hottest fashion label in NYC, intent on winning a Christmas competition with her own line of sustainable luxury knits. Getting her hands dirty, she teams up with Andrew.</desc>
+        <icon src="https://images.pluto.tv/series/675c10e08a29c9001398979a/tile_1768600092171.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e05b885183d0007958101" start="20260609123357 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Christmas tutto l'anno</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612e05b885183d0007958101/featuredImage_1770018716998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24959,7 +25209,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Jerry Lewis interpreta un professore di chimica timido e miope che inventa una pozione magica in grado di trasformarlo in un soave e bellissimo Romeo.</desc>
         <icon src="https://images.pluto.tv/series/60e6c374f836b10013747eeb/tile_1779688801887.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61728bb9ee3773000840c1fa" start="20260609105432 +0000" stop="20260609140000 +0000">
+    <programme channel="61728bb9ee3773000840c1fa" start="20260609105432 +0000" stop="20260609123432 +0000">
+        <title>Il fantabus</title>
+        <desc>Una splendida parodia dei film catastrofici, The Big Bus parla del primo autobus al mondo a propulsione nucleare - un mostro da 75 tonnellate su 32 enormi ruote - e del suo primo viaggio da New York a Denver.</desc>
+        <icon src="https://images.pluto.tv/series/60e6c387f836b100137482da/tile_1779683788821.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61728bb9ee3773000840c1fa" start="20260609123432 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Sci-Fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24979,7 +25234,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Tre bizzarri personaggi si mettono sulle tracce del cavallino sacro, il pony 'Shimmè', dono dell'Imperatore giapponese ai suoi sudditi emigrati nel West, ma rubato per ottenere un riscatto.</desc>
         <icon src="https://images.pluto.tv/series/63aab6e2377c6f001351c85e/tile_1768343402123.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e7fb67478a5b0007e6c50c" start="20260609105950 +0000" stop="20260609140000 +0000">
+    <programme channel="62e7fb67478a5b0007e6c50c" start="20260609105950 +0000" stop="20260609124650 +0000">
+        <title>Little Rita nel West</title>
+        <desc>La pistolera Little Rita è il terrore dei banditi, ma soprattutto disprezza l'oro, perché pensa che sia la causa di ogni male.</desc>
+        <icon src="https://images.pluto.tv/series/63aab851e21bf90013c16918/tile_1768344993224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e7fb67478a5b0007e6c50c" start="20260609124650 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Western</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e7fb67478a5b0007e6c50c/featuredImage_1732029688926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24989,7 +25249,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>In un'epoca antica, le tribù amanti della pace sono ridotte in schiavitù da una razza di cavalieri di draghi. Il giovane membro della tribù Goben deve unire le forze con i giganti vicini, gli umani, per liberare il suo popolo e sconfiggere i suoi nemici.</desc>
         <icon src="https://images.pluto.tv/series/6332a293db406700136548ca/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e8d5369e48940007fc1dc1" start="20260609103341 +0000" stop="20260609140000 +0000">
+    <programme channel="62e8d5369e48940007fc1dc1" start="20260609103341 +0000" stop="20260609120441 +0000">
+        <title>Hornet</title>
+        <desc>Una razza aliena, intenta a decimare l'umanità e a ripopolare la Terra, fa il lavaggio del cervello agli umani per compiere atti di distruzione. L'unica speranza dell'umanità risiede in un robot hi-tech non testato.</desc>
+        <icon src="https://images.pluto.tv/series/6332a2a4db40670013656a7b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e8d5369e48940007fc1dc1" start="20260609120441 +0000" stop="20260609140000 +0000">
         <title>The Asylum</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e8d5369e48940007fc1dc1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -24999,7 +25264,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Magnus e Will indagano su una serie di inspiegabili sparizioni di adolescenti e li rintracciano in un'insolita clinica di riabilitazione in Messico... gestita da un vecchio amico di Magnus - con un'agenda mortale.</desc>
         <icon src="https://images.pluto.tv/series/61b9bfb5601198001329d642/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb57d6c111bc0008fe2658" start="20260609104138 +0000" stop="20260609140000 +0000">
+    <programme channel="63eb57d6c111bc0008fe2658" start="20260609104138 +0000" stop="20260609113124 +0000">
+        <title>Sanctuary: L'energia Che Uccide</title>
+        <desc>I passeggeri e l'equipaggio di una nave che sta affondando nelle coste del Sud Africa sono salvati da Magnus e dalla sua squadra, e teletrasportati al Santuario per cure mediche. Ma quando uno è assassinato, tutti gli occhi si rivolgono a Druitt</desc>
+        <icon src="https://images.pluto.tv/series/61b9bfb5601198001329d642/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb57d6c111bc0008fe2658" start="20260609113124 +0000" stop="20260609140000 +0000">
         <title>Sanctuary</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25009,7 +25279,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Samantha e la figlia Blake invitano Chloe nella loro casa in California. Le due ragazze diventano amiche. Con la morte sospetta del fidanzato di Blake Samantha scopre il piano di Chloe. Quello di "adottare" Samantha come sua "mamma".</desc>
         <icon src="https://images.pluto.tv/series/621cb562a1a84900140ceb95/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64808a8c536e0c0008a276d1" start="20260609104839 +0000" stop="20260609140000 +0000">
+    <programme channel="64808a8c536e0c0008a276d1" start="20260609104839 +0000" stop="20260609122139 +0000">
+        <title>Amore Letale</title>
+        <desc>Quando la dottoressa Hillary Spenser salva la vita di Gregory Lipton, lui diventa pericolosamente ossessionato da lei.</desc>
+        <icon src="https://images.pluto.tv/series/63ca53c3200a670013400db4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64808a8c536e0c0008a276d1" start="20260609122139 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Legami Letali</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64808a8c536e0c0008a276d1/featuredImage_1747395859302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25019,7 +25294,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Una giovane donna viene uccisa, ma il suo ragazzo sfugge a un attacco raccapricciante.</desc>
         <icon src="https://images.pluto.tv/series/65083080c564500013a5a26a/tile_1777382652902.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64ec5cf50f73a800081310a5" start="20260609102102 +0000" stop="20260609140000 +0000">
+    <programme channel="64ec5cf50f73a800081310a5" start="20260609102102 +0000" stop="20260609104602 +0000">
+        <title>Forensic Files: È Oro Tutto ciò che Luccica</title>
+        <desc>Un'auto crivellata di colpi, un autista scomparso e nessun testimone. Fu un agguato o un attacco casuale? La vittima fu rapita o era morta? Le risposte erano racchiuse in un unico indizio, così piccolo da essere misurato in milionesimi di metro.</desc>
+        <icon src="https://images.pluto.tv/series/65083080c564500013a5a26a/tile_1777382652902.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ec5cf50f73a800081310a5" start="20260609104602 +0000" stop="20260609111014 +0000">
+        <title>Forensic Files</title>
+        <desc>In California, il DNA di un uomo innocente viene trovato sulla scena di una fatale irruzione in casa.</desc>
+        <icon src="https://images.pluto.tv/series/65083080c564500013a5a26a/tile_1777382652902.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ec5cf50f73a800081310a5" start="20260609111014 +0000" stop="20260609140000 +0000">
         <title>Forensic Files</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64ec5cf50f73a800081310a5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25039,7 +25324,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Gli Immortali è il canale dedicato ai giganti del cinema d'azione: un vero e proprio campo di battaglia dove le più grandi star del genere si scontrano attraverso i loro film più iconici.</desc>
         <icon src="https://images.pluto.tv/series/655747189d5ac40008fff4b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6536608b4f123d000876b78b" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="6536608b4f123d000876b78b" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>Gli Immortali</title>
+        <desc>Gli Immortali è il canale dedicato ai giganti del cinema d'azione: un vero e proprio campo di battaglia dove le più grandi star del genere si scontrano attraverso i loro film più iconici.</desc>
+        <icon src="https://images.pluto.tv/series/655747189d5ac40008fff4b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6536608b4f123d000876b78b" start="20260609110000 +0000" stop="20260609113000 +0000">
+        <title>Gli Immortali</title>
+        <desc>Gli Immortali è il canale dedicato ai giganti del cinema d'azione: un vero e proprio campo di battaglia dove le più grandi star del genere si scontrano attraverso i loro film più iconici.</desc>
+        <icon src="https://images.pluto.tv/series/655747189d5ac40008fff4b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6536608b4f123d000876b78b" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>Gli Immortali | Van Damme vs Lundgren</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6536608b4f123d000876b78b/featuredImage_1748416779827.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25049,7 +25344,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Cine Thriller è il canale di Nexostudios, gestito da Lucisano Media Group, dedicato ai brividi, alla suspense e all'adrenalina del cinema thriller.</desc>
         <icon src="https://images.pluto.tv/series/65572bbac917a500082311ad/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="653660b4295b840008a70ba3" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="653660b4295b840008a70ba3" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>CineThriller</title>
+        <desc>Cine Thriller è il canale di Nexostudios, gestito da Lucisano Media Group, dedicato ai brividi, alla suspense e all'adrenalina del cinema thriller.</desc>
+        <icon src="https://images.pluto.tv/series/65572bbac917a500082311ad/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="653660b4295b840008a70ba3" start="20260609110000 +0000" stop="20260609113000 +0000">
+        <title>CineThriller</title>
+        <desc>Cine Thriller è il canale di Nexostudios, gestito da Lucisano Media Group, dedicato ai brividi, alla suspense e all'adrenalina del cinema thriller.</desc>
+        <icon src="https://images.pluto.tv/series/65572bbac917a500082311ad/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="653660b4295b840008a70ba3" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>CineThriller</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/653660b4295b840008a70ba3/featuredImage_1749022093697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25059,7 +25364,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Chakotay rimane gravemente ferito durante una missione nei pressi di una nebulosa, e viene dichiarato cerebralmente morto. Ad ogni tentativo di allontanarsi, tuttavia, un'entità aliena cerca di riportarli indietro.</desc>
         <icon src="https://images.pluto.tv/series/6617af00b4334b0013ee518d/tile_1768330082149.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cb73d33ba51e00084cabad" start="20260609103359 +0000" stop="20260609140000 +0000">
+    <programme channel="65cb73d33ba51e00084cabad" start="20260609103359 +0000" stop="20260609112846 +0000">
+        <title>Star Trek: Voyager: Separazione</title>
+        <desc>B'Elanna Torres e Tom Paris vengono catturati da un gruppo di Vidiiani, che pensano di aver trovato una possibile cura alla loro fagia nel tenente Torres. Per studiarla, la separano nella sua parte klingon e nella sua parte umana.</desc>
+        <icon src="https://images.pluto.tv/series/6617af00b4334b0013ee518d/tile_1768330082149.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cb73d33ba51e00084cabad" start="20260609112846 +0000" stop="20260609140000 +0000">
         <title>Star Trek: Voyager</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25069,7 +25379,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Duri a morire è il canale dedicato al cinema d’azione, per chi ama inseguimenti, combattimenti corpo a corpo, esplosioni e sparatorie: un’intera programmazione all’insegna dell’action, un’esperienza mozzafiato ad alto tasso di adrenalina!</desc>
         <icon src="https://images.pluto.tv/series/6646eeec0120f40008b01866/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f865a62873090008d06382" start="20260609100200 +0000" stop="20260609140000 +0000">
+    <programme channel="65f865a62873090008d06382" start="20260609100200 +0000" stop="20260609103200 +0000">
+        <title>Duri a Morire</title>
+        <desc>Duri a morire è il canale dedicato al cinema d’azione, per chi ama inseguimenti, combattimenti corpo a corpo, esplosioni e sparatorie: un’intera programmazione all’insegna dell’action, un’esperienza mozzafiato ad alto tasso di adrenalina!</desc>
+        <icon src="https://images.pluto.tv/series/6646eeec0120f40008b01866/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f865a62873090008d06382" start="20260609103200 +0000" stop="20260609110200 +0000">
+        <title>Duri a Morire</title>
+        <desc>Duri a morire è il canale dedicato al cinema d’azione, per chi ama inseguimenti, combattimenti corpo a corpo, esplosioni e sparatorie: un’intera programmazione all’insegna dell’action, un’esperienza mozzafiato ad alto tasso di adrenalina!</desc>
+        <icon src="https://images.pluto.tv/series/6646eeec0120f40008b01866/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f865a62873090008d06382" start="20260609110200 +0000" stop="20260609140000 +0000">
         <title>Duri a Morire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65f865a62873090008d06382/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25089,7 +25409,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Un barone italiano, aiutato da un'aspirante attrice, organizza una rapina su un treno. Il colpo riesce, ma i soldi saranno investiti male e quindi metteranno in atto un altro piano.</desc>
         <icon src="https://images.pluto.tv/series/685d401a31b65622983215c0/tile_1776895258666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66335489307fa300082bd6e4" start="20260609105952 +0000" stop="20260609140000 +0000">
+    <programme channel="66335489307fa300082bd6e4" start="20260609105952 +0000" stop="20260609125312 +0000">
+        <title>Mathilde</title>
+        <desc>Nel crepuscolo della Russia imperiale dei Romanov, la prima ballerina Matilda Kshesinskaya diventa l'amante di tre Granduchi fino a quando incontra il futuro Nicola II.</desc>
+        <icon src="https://images.pluto.tv/series/65c4c0d8d22ce500142e6a42/tile_1768434122217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66335489307fa300082bd6e4" start="20260609125312 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Eros</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66335489307fa300082bd6e4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25109,7 +25434,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Il fantasma di un soldato annegato attende Yvette e la sua squadra di esperti paranormali, mentre affrontano le infestazioni che affliggono questo magnifico castello.</desc>
         <icon src="https://images.pluto.tv/series/670d1030af99a5001394dfa1/tile_1774618561016.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c70033b1a34600087bb09a" start="20260609103647 +0000" stop="20260609140000 +0000">
+    <programme channel="66c70033b1a34600087bb09a" start="20260609103647 +0000" stop="20260609113150 +0000">
+        <title>Most Haunted</title>
+        <desc>Immersa nella campagna britannica, la casa di Halsham nasconde un poltergeist che attende la squadra. Con le ossa ritrovate in soffitta, la squadra si spinge oltre.</desc>
+        <icon src="https://images.pluto.tv/series/670d1030af99a5001394dfa1/tile_1774618561016.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c70033b1a34600087bb09a" start="20260609113150 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Paranormal</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c70033b1a34600087bb09a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25119,7 +25449,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Lo spinoff di Catfish: False Identita' in cui Nev e il suo compare attraversano gli USA investigando su alcuni sospetti. In questo episodio Anthony e' preoccupato perche' il suo compagno di motocross non si fa vivo da un po'.</desc>
         <icon src="https://images.pluto.tv/series/62cfc99cd7fb2b001380b32e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d9ab4bf0f17500084e9b7e" start="20260609101518 +0000" stop="20260609140000 +0000">
+    <programme channel="66d9ab4bf0f17500084e9b7e" start="20260609101518 +0000" stop="20260609110218 +0000">
+        <title>MTV Suspect: Shawntel &amp; Jasmine, Brandiss &amp; Paweena</title>
+        <desc>Lo spinoff di Catfish: False Identita' in cui Nev e il suo compare attraversano gli USA investigando su alcuni sospetti. In questo episodio Shawntel crede che la sua migliore amica stia avendo una relazione con il suo ex ragazzo.</desc>
+        <icon src="https://images.pluto.tv/series/62cfc99cd7fb2b001380b32e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d9ab4bf0f17500084e9b7e" start="20260609110218 +0000" stop="20260609140000 +0000">
         <title>Pluto TV True Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25129,7 +25464,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Luisa è una maestra che viene condannata ingiustamente per un delitto passionale, in realtà mai commesso. Rimessa in libertà per buona condotta Luisa decide di vendicarsi. Cosa sarà disposta a fare per cercare giustizia?</desc>
         <icon src="https://images.pluto.tv/series/64883cb83e9a7b00132fb0a3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="671754d8e482950008962aaf" start="20260609104030 +0000" stop="20260609140000 +0000">
+    <programme channel="671754d8e482950008962aaf" start="20260609104030 +0000" stop="20260609121212 +0000">
+        <title>Killer contro killers</title>
+        <desc>Un boss recluta alcuni professionisti per rubare una preziosa formula chimica custodita in un complesso industriale sorvegliato. Tutto sembra andare secondo i piani, ma non sanno che il cliente ha intenzione di sbarazzarsi di loro in seguito.</desc>
+        <icon src="https://images.pluto.tv/series/677e55181df801001419a45b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671754d8e482950008962aaf" start="20260609121212 +0000" stop="20260609140000 +0000">
         <title>Cinema Poliziottesco</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/671754d8e482950008962aaf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25149,7 +25489,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Mutant X viene in aiuto di un'adolescente Nuovo Mutante inseguita dai russi perché possiede il segreto di una nuova arma progettata contro i mutanti.</desc>
         <icon src="https://images.pluto.tv/series/608fb210abe13d0013c87eb0/tile_1777453201092.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67ed14aaf7c5d70b9089c3bf" start="20260609100838 +0000" stop="20260609140000 +0000">
+    <programme channel="67ed14aaf7c5d70b9089c3bf" start="20260609100838 +0000" stop="20260609105738 +0000">
+        <title>Mutant X: Pazza d'amore</title>
+        <desc>Shalimar si avvicina a un altro feral quando è "lussuria a prima vista", ma le cose si complicano quando il suo nuovo ragazzo cerca di trovare una cura per la sua condizione.</desc>
+        <icon src="https://images.pluto.tv/series/608fb210abe13d0013c87eb0/tile_1777453201092.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ed14aaf7c5d70b9089c3bf" start="20260609105738 +0000" stop="20260609114638 +0000">
+        <title>Mutant X: Kilohertz</title>
+        <desc>Un Nuovo Mutante viene rapito dalla sua famiglia, e Mutant X si mette in viaggio per recuperarlo e scoprire l'interesse di Eckhart per lui.</desc>
+        <icon src="https://images.pluto.tv/series/608fb210abe13d0013c87eb0/tile_1777453201092.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67ed14aaf7c5d70b9089c3bf" start="20260609114638 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Serie Sci-Fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/featuredImage_1750259769611.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25159,7 +25509,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Bella ma povera, Adriana, incoraggiata dalla madre ad entrare nel mondo dell'arte posando come modella senza veli, finisce per diventare una delle prostitute più desiderate d'Italia. Con la meravigliosa Gina Lollobrigida.</desc>
         <icon src="https://images.pluto.tv/series/611b899bddc8e90013a47fd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6875080e3484d607323641f8" start="20260609105724 +0000" stop="20260609140000 +0000">
+    <programme channel="6875080e3484d607323641f8" start="20260609105724 +0000" stop="20260609131024 +0000">
+        <title>Amore Mio Aiutami</title>
+        <desc>Tra i film più ispirati del Sordi regista. Giovanni e Raffaella sono una coppia affiatata da anni. Quando Raffaella si innamora di Valerio, chiederà aiuto proprio a suo marito per cercare di far passare l'infatuazione. Con Monica Vitti e Alberto Sordi.</desc>
+        <icon src="https://images.pluto.tv/series/612cff7c88b83100139b5718/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6875080e3484d607323641f8" start="20260609131024 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Dive Italiane</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6875080e3484d607323641f8/featuredImage_1755261735818.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25169,7 +25524,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Nel crepuscolo della Russia imperiale dei Romanov, la prima ballerina Matilda Kshesinskaya diventa l'amante di tre Granduchi fino a quando incontra il futuro Nicola II.</desc>
         <icon src="https://images.pluto.tv/series/65c4c0d8d22ce500142e6a42/tile_1768434122217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68750875759366af05a151ce" start="20260609100546 +0000" stop="20260609140000 +0000">
+    <programme channel="68750875759366af05a151ce" start="20260609100546 +0000" stop="20260609120651 +0000">
+        <title>Le Due vie del Destino</title>
+        <desc>Con Colin Firth e Nicole Kidman, la vera storia di Eric Lomax, ex ufficiale inglese torturato dai giapponesi nel 1942 durante la costruzione della “ferrovia della morte”. Anni dopo scopre che uno dei suoi aguzzini è vivo e parte alla ricerca di vendetta.</desc>
+        <icon src="https://images.pluto.tv/series/68c282fcfd92ab53e81ffded/tile_1768495682869.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68750875759366af05a151ce" start="20260609120651 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Film Storici</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68750875759366af05a151ce/featuredImage_1756144116972.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25179,7 +25539,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>I programmi di questo canale ritornano alle 22:00.</desc>
         <icon src="https://images.pluto.tv/series/69c53fa714c0213702e62324/tile_1774534567912.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6994800c470389f33df8e090" start="20260609100001 +0000" stop="20260609140000 +0000">
+    <programme channel="6994800c470389f33df8e090" start="20260609100001 +0000" stop="20260609120001 +0000">
+        <title>Torna alle 22:00</title>
+        <desc>I programmi di questo canale ritornano alle 22:00.</desc>
+        <icon src="https://images.pluto.tv/series/69c53fa714c0213702e62324/tile_1774534567912.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6994800c470389f33df8e090" start="20260609120001 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Azione Cult</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6994800c470389f33df8e090/featuredImage_1774006898101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25189,7 +25554,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>L'incontro tra un giocatore di football americano e una ragazza in visita alla cugina. Un amore che nasce sullo sfondo di Firenze.</desc>
         <icon src="https://images.pluto.tv/series/65000c703b2005001379e008/tile_1768521246609.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699d87093d5dba980705cca8" start="20260609102737 +0000" stop="20260609140000 +0000">
+    <programme channel="699d87093d5dba980705cca8" start="20260609102737 +0000" stop="20260609115237 +0000">
+        <title>10 Cose Da Fare Prima Di Lasciarsi</title>
+        <desc>Ben e Abigail si conoscono a un appuntamento al buio in un bar e, per gioco, stilano una lista delle dieci cose da fare insieme prima di lasciarsi. Dopo aver passato la notte insieme, le cose prendono una piega inaspettata.</desc>
+        <icon src="https://images.pluto.tv/series/61167161ec6e1200142d5fdc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699d87093d5dba980705cca8" start="20260609115237 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Film Ancora Più Romantici</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/699d87093d5dba980705cca8/featuredImage_1777274173528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25199,7 +25569,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Playlist includes "Making Memories of Us," "Tread Carefully" and "Should've Said No."</desc>
         <icon src="https://images.pluto.tv/series/68dba39dfa0f5ccff5737056/tile_1759224853117.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608014d19a26320007c92ab6" start="20260609102400 +0000" stop="20260609140000 +0000">
+    <programme channel="608014d19a26320007c92ab6" start="20260609102400 +0000" stop="20260609105600 +0000">
+        <title>FailArmy Playlist</title>
+        <desc>Hits on the playlist include "Trophy Wife," "Waves of Fear" and "Sugar and Spice."</desc>
+        <icon src="https://images.pluto.tv/series/68dba39dfa0f5ccff5737056/tile_1759224853117.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608014d19a26320007c92ab6" start="20260609105600 +0000" stop="20260609112800 +0000">
+        <title>FailArmy Playlist</title>
+        <desc>Hits on the playlist include "Free Fallin'," "Balloon Mood" and "Sad Café."</desc>
+        <icon src="https://images.pluto.tv/series/68dba39dfa0f5ccff5737056/tile_1759224853117.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608014d19a26320007c92ab6" start="20260609112800 +0000" stop="20260609140000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608014d19a26320007c92ab6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25209,7 +25589,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>We revisit the final table at season three and the LA Poker Classic from the Commerce Casino in Los Angeles.</desc>
         <icon src="https://images.pluto.tv/series/6082d2bf4964ef001aa4d7cf/tile_1776890887537.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608016e446d73500075ea7e0" start="20260609101600 +0000" stop="20260609140000 +0000">
+    <programme channel="608016e446d73500075ea7e0" start="20260609101600 +0000" stop="20260609110600 +0000">
+        <title>World Poker Tour: WPT Seminole Hard Rock Part 3</title>
+        <desc>Three players compete in South Florida for the more than $660,000 first-place prize in the WPT Seminole Hard Rock.</desc>
+        <icon src="https://images.pluto.tv/series/6082d0584964ef001aa4ca7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608016e446d73500075ea7e0" start="20260609110600 +0000" stop="20260609140000 +0000">
         <title>World Poker Tour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608016e446d73500075ea7e0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25219,7 +25604,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Una sfida per i coach, una sfida per i due concorrenti, ma una sfida anche per noi per cercare di addentrarci sempre di piu' in un mondo che conta migliaia di appassionati</desc>
         <icon src="https://images.pluto.tv/series/676920f01b88450013125848/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608030eff4b6f70007e1684c" start="20260609102616 +0000" stop="20260609140000 +0000">
+    <programme channel="608030eff4b6f70007e1684c" start="20260609102616 +0000" stop="20260609104838 +0000">
+        <title>The Coach MTB</title>
+        <desc>Una sfida per i coach, una sfida per i due concorrenti, ma una sfida anche per noi per cercare di addentrarci sempre di piu' in un mondo che conta migliaia di appassionati</desc>
+        <icon src="https://images.pluto.tv/series/676920f01b88450013125848/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608030eff4b6f70007e1684c" start="20260609104838 +0000" stop="20260609114838 +0000">
+        <title>Supereroi, il lato nascosto: Alain Robert e Geraldine Fasnacht</title>
+        <desc>Arnaud Tortel incontra la campionessa di snowboard Géraldine Fasnacht e Alain Robert, noto per aver scalato a mani nude i grattacieli più alti del mondo per oltre vent'anni.</desc>
+        <icon src="https://images.pluto.tv/series/64e36b10177f70001395dddc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608030eff4b6f70007e1684c" start="20260609114838 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Sport</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/featuredImage_1746816938162.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25229,7 +25624,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Goditi tutta la comicità fornita dallo spettacolo di scherzi più longevo e adorato del mondo, in cui persone ignare vengono trascinate in situazioni esilaranti!</desc>
         <icon src="https://images.pluto.tv/series/67aef519fcecda97ebbf037f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6093f48c95132a00075fd859" start="20260609101200 +0000" stop="20260609140000 +0000">
+    <programme channel="6093f48c95132a00075fd859" start="20260609101200 +0000" stop="20260609104200 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Goditi tutta la comicità fornita dallo spettacolo di scherzi più longevo e adorato del mondo, in cui persone ignare vengono trascinate in situazioni esilaranti!</desc>
+        <icon src="https://images.pluto.tv/series/67aef519fcecda97ebbf037f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f48c95132a00075fd859" start="20260609104200 +0000" stop="20260609111200 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Goditi tutta la comicità fornita dallo spettacolo di scherzi più longevo e adorato del mondo, in cui persone ignare vengono trascinate in situazioni esilaranti!</desc>
+        <icon src="https://images.pluto.tv/series/67aef519fcecda97ebbf037f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f48c95132a00075fd859" start="20260609111200 +0000" stop="20260609140000 +0000">
         <title>Just for Laughs GAGS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6093f48c95132a00075fd859/featuredImage_1745912777868.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25239,7 +25644,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>L'unico canale dedicato alla serie televisiva animata americana Spongebob! La serie racconta le avventure e le imprese di Spongebob e dei suoi amici acquatici nella fittizia città sottomarina di Bikini Bottom</desc>
         <icon src="https://images.pluto.tv/series/6691243632e253000848416c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6093f9281db477000759fce0" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="6093f9281db477000759fce0" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>Super! SpongeBob</title>
+        <desc>L'unico canale dedicato alla serie televisiva animata americana Spongebob! La serie racconta le avventure e le imprese di Spongebob e dei suoi amici acquatici nella fittizia città sottomarina di Bikini Bottom</desc>
+        <icon src="https://images.pluto.tv/series/6691243632e253000848416c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9281db477000759fce0" start="20260609110000 +0000" stop="20260609113000 +0000">
+        <title>Super! SpongeBob</title>
+        <desc>L'unico canale dedicato alla serie televisiva animata americana Spongebob! La serie racconta le avventure e le imprese di Spongebob e dei suoi amici acquatici nella fittizia città sottomarina di Bikini Bottom</desc>
+        <icon src="https://images.pluto.tv/series/6691243632e253000848416c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9281db477000759fce0" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>Super! SpongeBob</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6093f9281db477000759fce0/featuredImage_1749451468908.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25249,7 +25664,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Kaycee, mamma single di due bambini, si è invaghita di Charles, conosciuto online. Ma il suo ghosting preoccupa Nev and Kamie, che aiutano Kaycee a scoprire lo scioccante segreto che cambia tutte le carte in tavola.</desc>
         <icon src="https://images.pluto.tv/series/60e31e8f83c54e0013988985/tile_1768340259191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6093f9ed2c75660007322bb7" start="20260609102959 +0000" stop="20260609140000 +0000">
+    <programme channel="6093f9ed2c75660007322bb7" start="20260609102959 +0000" stop="20260609111615 +0000">
+        <title>Catfish: False Identità</title>
+        <desc>Per sei anni Pamela ha speso un sacco di soldi, ed è persino stata sfrattata, in nome dell'amore per il suo dolce Fernando del Venezuela. Nev e Kamie scoprono però che si trova molto più vicino.</desc>
+        <icon src="https://images.pluto.tv/series/60e31e8f83c54e0013988985/tile_1768340259191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9ed2c75660007322bb7" start="20260609111615 +0000" stop="20260609140000 +0000">
         <title>Catfish</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/featuredImage_1750862972087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25259,7 +25679,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Lo show di MTV con protagonisti i TheShow che 'prankerannò un'intera città e gli inconsapevoli abitanti! Oggi a Palermo</desc>
         <icon src="https://images.pluto.tv/series/62319f8fcb3fb6001340a6db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609404b0a8ec810007d8de9d" start="20260609105204 +0000" stop="20260609140000 +0000">
+    <programme channel="609404b0a8ec810007d8de9d" start="20260609105204 +0000" stop="20260609114004 +0000">
+        <title>Prank and The City: Bologna</title>
+        <desc>Lo show di MTV con protagonisti i TheShow che 'prankerannò un'intera città e gli inconsapevoli abitanti! Oggi a Bologna.</desc>
+        <icon src="https://images.pluto.tv/series/62319f8fcb3fb6001340a6db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609404b0a8ec810007d8de9d" start="20260609114004 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Scherzi e risate</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25269,7 +25694,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>I sintomi dell'anoressia si fanno più forti quando Kayla inizia a prendere peso per via della gravidanza. La ragazzina si trova a lottare per mettere la salute del bimbo prima della forma fisica.</desc>
         <icon src="https://images.pluto.tv/series/60e31ec483c54e00139896fd/tile_1778769002769.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60940a07d88ba90007b9cb71" start="20260609101900 +0000" stop="20260609140000 +0000">
+    <programme channel="60940a07d88ba90007b9cb71" start="20260609101900 +0000" stop="20260609110500 +0000">
+        <title>16 anni e Incinta: Izabella</title>
+        <desc>Dopo aver tenuto nascosto la sua gravidanza per otto mesi, Izabella compromette ulteriormente il suo rapporto con la famiglia a causa del suo fidanzato.</desc>
+        <icon src="https://images.pluto.tv/series/60e31ec483c54e00139896fd/tile_1778769002769.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60940a07d88ba90007b9cb71" start="20260609110500 +0000" stop="20260609140000 +0000">
         <title>16 Anni e Incinta</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25279,7 +25709,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Les e Seth affrontano Ashley in un ultimo problema di potere che potrebbe cambiare il volto di American Jewelry &amp; Loan per sempre.</desc>
         <icon src="https://images.pluto.tv/series/6112751a483fb10013a82a2e/tile_1774617120988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60e4507a06171800072339a3" start="20260609102200 +0000" stop="20260609140000 +0000">
+    <programme channel="60e4507a06171800072339a3" start="20260609102200 +0000" stop="20260609104400 +0000">
+        <title>Il Banco dei Pugni: Vita dopo la morte</title>
+        <desc>Senza Ashley gli affari sembrano crescere - o almeno questo è quello che pensa Seth. Un disaccordo sul prestito di un cliente scoppia in una rissa.</desc>
+        <icon src="https://images.pluto.tv/series/6112751a483fb10013a82a2e/tile_1774617120988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4507a06171800072339a3" start="20260609104400 +0000" stop="20260609110800 +0000">
+        <title>Il Banco dei Pugni: Ritorno della regina</title>
+        <desc>Les scoppia quando un cliente minaccia di fare a botte per una collana rotta. Poi ai Golds vengono mostrati dei documenti personali firmati da Saddam Hussein e una valuta Irachena.</desc>
+        <icon src="https://images.pluto.tv/series/6112751a483fb10013a82a2e/tile_1774617120988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4507a06171800072339a3" start="20260609110800 +0000" stop="20260609140000 +0000">
         <title>Il Banco dei Pugni</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60e4507a06171800072339a3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25299,7 +25739,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Pif scopre che in Italia esistono famiglie omogenitoriali, ovvero in cui la coppia di genitori è composta da due mamme o due papà.</desc>
         <icon src="https://images.pluto.tv/series/617a518f6b2c51001aee2778/tile_1777382281022.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61fbd3f0733df400076c9a2d" start="20260609102100 +0000" stop="20260609140000 +0000">
+    <programme channel="61fbd3f0733df400076c9a2d" start="20260609102100 +0000" stop="20260609104700 +0000">
+        <title>Il Testimone: Eroe Per Scelta</title>
+        <desc>Pif sale sull'ambulanza dei volontari della croce bianca e va alla stazione dei vigili del fuoco per conoscere da vicino chi grazie alla loro scelta può salvare la vita a qualcuno.</desc>
+        <icon src="https://images.pluto.tv/series/617a518f6b2c51001aee2778/tile_1777382281022.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fbd3f0733df400076c9a2d" start="20260609104700 +0000" stop="20260609112800 +0000">
+        <title>Il Testimone: Fabio Volo</title>
+        <desc>Pif racconta la vita quotidiana di Fabio Volo, il grande showman scrittore che proprio ad MTV fece i primi passi da personaggio della tv.</desc>
+        <icon src="https://images.pluto.tv/series/617a518f6b2c51001aee2778/tile_1777382281022.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fbd3f0733df400076c9a2d" start="20260609112800 +0000" stop="20260609140000 +0000">
         <title>Il Testimone</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25309,7 +25759,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>I ragazzi sono costretti a sorbirsi un tv show con Russel Crowe per poter vedere poi il trailer del nuovo film di Terrance e Philip.</desc>
         <icon src="https://images.pluto.tv/series/611e0879cbc31c0013c5c96f/tile_1779180950854.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bc1f502b70e3000706298e" start="20260609102145 +0000" stop="20260609140000 +0000">
+    <programme channel="62bc1f502b70e3000706298e" start="20260609102145 +0000" stop="20260609104645 +0000">
+        <title>South Park: Mucche In Fuga</title>
+        <desc>I ragazzi di South Park provano a salvare un vitellino, destinato a diventare una bistecca, dalle torture e dalla morte.</desc>
+        <icon src="https://images.pluto.tv/series/611e0879cbc31c0013c5c96f/tile_1779180950854.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bc1f502b70e3000706298e" start="20260609104645 +0000" stop="20260609111145 +0000">
+        <title>South Park: Dottor Distruzione</title>
+        <desc>I ragazzi ne hanno abbastanza di Butters come sostituto di Kenny e gli dicono che e' fuori dal gruppo. Poi organizzano un concorso per trovare un nuovo amico.</desc>
+        <icon src="https://images.pluto.tv/series/611e0879cbc31c0013c5c96f/tile_1779180950854.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bc1f502b70e3000706298e" start="20260609111145 +0000" stop="20260609140000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bc1f502b70e3000706298e/featuredImage_1755167894115.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25319,7 +25779,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Catelynn e Tyler scoprono di non riuscire a diplomarsi in tempo. Maci, malgrado sia arrabbiata con Ryan, pianifica un incontro con lui. Gary accusa Amber di essere una cattiva madre.</desc>
         <icon src="https://images.pluto.tv/series/618946a784bc46001a3c3ff7/tile_1777458961564.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e7fc8c0d061100083946a9" start="20260609103900 +0000" stop="20260609140000 +0000">
+    <programme channel="62e7fc8c0d061100083946a9" start="20260609103900 +0000" stop="20260609112600 +0000">
+        <title>Teen Mom: Too Much Too Soon</title>
+        <desc>Maci affronta Kyle quando capisce che la sua nuova vita a Nashville non e' come sperava. Catelynn e Tyler vanno a far visita a Carly per la prima volta, dopo un anno.</desc>
+        <icon src="https://images.pluto.tv/series/618946a784bc46001a3c3ff7/tile_1777458961564.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e7fc8c0d061100083946a9" start="20260609112600 +0000" stop="20260609140000 +0000">
         <title>Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25329,7 +25794,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Jeremy, Richard e James cercano di salvare il pianeta costruendo un'auto elettrica e sulla pista di 'Top Gear' la battaglia infuria!</desc>
         <icon src="https://images.pluto.tv/series/652524d82a6001001a82925e/tile_1774616409833.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c109a4798def0008a6e03e" start="20260609104800 +0000" stop="20260609140000 +0000">
+    <programme channel="64c109a4798def0008a6e03e" start="20260609104800 +0000" stop="20260609114900 +0000">
+        <title>Top Gear: Why Lancia Has Made The Greatest Number Of Great Cars</title>
+        <desc>Jeremy e Richard cercano di capire quale casa automobilistica abbia prodotto il maggior numero di esemplari eccellenti, mentre James si mette alla guida di un'aeronave-caravan.</desc>
+        <icon src="https://images.pluto.tv/series/652524d82a6001001a82925e/tile_1774616409833.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c109a4798def0008a6e03e" start="20260609114900 +0000" stop="20260609140000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25339,7 +25809,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Ogni giorno in America vengono messe all'asta oltre 10.000 unità di stoccaggio. Clinton "Ton" Jones e Allen Haff cercano di vincere aste, acquisire tesori e venderli per trarne profitto.</desc>
         <icon src="https://images.pluto.tv/series/64ec69182daa2c001315c445/tile_1780400881386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64ec5c6644fe100009d114ae" start="20260609102000 +0000" stop="20260609140000 +0000">
+    <programme channel="64ec5c6644fe100009d114ae" start="20260609102000 +0000" stop="20260609104400 +0000">
+        <title>Auction Hunters: Too Too, Din Din</title>
+        <desc>Ogni giorno in America vengono messe all'asta oltre 10.000 unità di stoccaggio. Clinton "Ton" Jones e Allen Haff cercano di vincere aste, acquisire tesori e venderli per trarne profitto.</desc>
+        <icon src="https://images.pluto.tv/series/64ec69182daa2c001315c445/tile_1780400881386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ec5c6644fe100009d114ae" start="20260609104400 +0000" stop="20260609110800 +0000">
+        <title>Auction Hunters: Soldi a Batteria</title>
+        <desc>Ogni giorno in America vengono messe all'asta oltre 10.000 unità di stoccaggio. Clinton "Ton" Jones e Allen Haff cercano di vincere aste, acquisire tesori e venderli per trarne profitto.</desc>
+        <icon src="https://images.pluto.tv/series/64ec69182daa2c001315c445/tile_1780400881386.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ec5c6644fe100009d114ae" start="20260609110800 +0000" stop="20260609140000 +0000">
         <title>Affare Fatto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64ec5c6644fe100009d114ae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25349,7 +25829,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Tantissimi sketch divertenti e sorprendenti, senza che venga detta una sola parola. Su LOL Just For Laughs le risate non finiscono mai!</desc>
         <icon src="https://images.pluto.tv/series/68db895c9510fdffd168f54d/tile_1759218017138.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d7211d0d45610008ffcf92" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="65d7211d0d45610008ffcf92" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>LOL Just For Laughs</title>
+        <desc>Tantissimi sketch divertenti e sorprendenti, senza che venga detta una sola parola. Su LOL Just For Laughs le risate non finiscono mai!</desc>
+        <icon src="https://images.pluto.tv/series/68db895c9510fdffd168f54d/tile_1759218017138.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d7211d0d45610008ffcf92" start="20260609110000 +0000" stop="20260609113000 +0000">
+        <title>LOL Just For Laughs</title>
+        <desc>Tantissimi sketch divertenti e sorprendenti, senza che venga detta una sola parola. Su LOL Just For Laughs le risate non finiscono mai!</desc>
+        <icon src="https://images.pluto.tv/series/68db895c9510fdffd168f54d/tile_1759218017138.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d7211d0d45610008ffcf92" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>LOL Just For Laughs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d7211d0d45610008ffcf92/featuredImage_1758696621947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25359,7 +25849,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>All'ufficio oggetti smarriti dell'aeroporto arriva un giovane che ha smarrito un bagaglio. L'impiegata dell'assistenza bagagli, però, non ha una gran voglia di lavorare.</desc>
         <icon src="https://images.pluto.tv/series/6639d878e42c230013de203e/tile_1777449601018.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6602acadb2abe500081cf28a" start="20260609102117 +0000" stop="20260609140000 +0000">
+    <programme channel="6602acadb2abe500081cf28a" start="20260609102117 +0000" stop="20260609104709 +0000">
+        <title>I soliti idioti: Vabbè</title>
+        <desc>Alle poste: Gisella raddoppia, ed è un susseguirsi di &amp;quot;dica&amp;quot; e &amp;quot;vabbé&amp;quot; che non finisce più. Il povero Sebastiano riuscirà a spedire il suo pacco? Certo che no.</desc>
+        <icon src="https://images.pluto.tv/series/6639d878e42c230013de203e/tile_1777449601018.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6602acadb2abe500081cf28a" start="20260609104709 +0000" stop="20260609111340 +0000">
+        <title>I soliti idioti: Il faldone</title>
+        <desc>Dal magistrato: la Ministra e il suo portaborse Protti chiede al magistrato di tirar fuori il faldone con le prove della sua colpevolezza. Quale faldone?</desc>
+        <icon src="https://images.pluto.tv/series/6639d878e42c230013de203e/tile_1777449601018.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6602acadb2abe500081cf28a" start="20260609111340 +0000" stop="20260609140000 +0000">
         <title>I soliti idioti</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6602acadb2abe500081cf28a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25379,7 +25879,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Tuffati nel mondo del grande poker con Triton Poker, la tua finestra sulle serie di poker più prestigiose del mondo. Guarda i giocatori d'élite in emozionanti tornei, live 24 ore su 24.</desc>
         <icon src="https://images.pluto.tv/series/663dc8ce0120f400089d9941/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6616a51124e1d00008761a7e" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="6616a51124e1d00008761a7e" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>Triton Poker</title>
+        <desc>Tuffati nel mondo del grande poker con Triton Poker, la tua finestra sulle serie di poker più prestigiose del mondo. Guarda i giocatori d'élite in emozionanti tornei, live 24 ore su 24.</desc>
+        <icon src="https://images.pluto.tv/series/663dc8ce0120f400089d9941/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6616a51124e1d00008761a7e" start="20260609110000 +0000" stop="20260609113000 +0000">
+        <title>Triton Poker</title>
+        <desc>Tuffati nel mondo del grande poker con Triton Poker, la tua finestra sulle serie di poker più prestigiose del mondo. Guarda i giocatori d'élite in emozionanti tornei, live 24 ore su 24.</desc>
+        <icon src="https://images.pluto.tv/series/663dc8ce0120f400089d9941/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6616a51124e1d00008761a7e" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>Triton Poker</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6616a51124e1d00008761a7e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25389,7 +25899,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>La quindicenne Sierra LaMar parte per la scuola come fosse un giorno qualsiasi, ma scompare senza lasciare traccia. I filmati di sorveglianza aiutano a rivelare la verità sulla vicenda.</desc>
         <icon src="https://images.pluto.tv/series/68d69e18d70c07ace8463419/tile_1758900611042.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66177d18c8311c0008d077d0" start="20260609104000 +0000" stop="20260609140000 +0000">
+    <programme channel="66177d18c8311c0008d077d0" start="20260609104000 +0000" stop="20260609113400 +0000">
+        <title>Mogli assassine</title>
+        <desc>Krista Clark è una disadattata che è stata evitata per tutta la sua vita. La donna usa il sesso per ottenere l'attenzione di Tim, ma la loro relazione è purtroppo destinata a finire nel sangue.</desc>
+        <icon src="https://images.pluto.tv/series/66d8688da1c8920013c20cc7/tile_1774995116776.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66177d18c8311c0008d077d0" start="20260609113400 +0000" stop="20260609140000 +0000">
         <title>Storie Criminali</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25409,7 +25924,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>L'Ultimate Fighting Championship celebra i più grandi combattimenti, i migliori atleti e i momenti più importanti del mondo delle arti marziali.</desc>
         <icon src="https://images.pluto.tv/series/67a47d6b9a300a0008765b69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="679203d4bc03978b9b4b79a6" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="679203d4bc03978b9b4b79a6" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>UFC</title>
+        <desc>L'Ultimate Fighting Championship celebra i più grandi combattimenti, i migliori atleti e i momenti più importanti del mondo delle arti marziali.</desc>
+        <icon src="https://images.pluto.tv/series/67a47d6b9a300a0008765b69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="679203d4bc03978b9b4b79a6" start="20260609110000 +0000" stop="20260609113000 +0000">
+        <title>UFC</title>
+        <desc>L'Ultimate Fighting Championship celebra i più grandi combattimenti, i migliori atleti e i momenti più importanti del mondo delle arti marziali.</desc>
+        <icon src="https://images.pluto.tv/series/67a47d6b9a300a0008765b69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="679203d4bc03978b9b4b79a6" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/679203d4bc03978b9b4b79a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25419,7 +25944,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>For the first time in Wicked Tuna, get a behind-the-scenes look at the fishermen who put everything on the line to chase bluefin tuna and the camera crew who will do whatever to capture every second of the most unpredictable action in the North Atlantic.</desc>
         <icon src="https://images.pluto.tv/series/67f4eb301af0e5f3d550aa5b/tile_1768333689287.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67c832cc9b53325ee16fb899" start="20260609100423 +0000" stop="20260609140000 +0000">
+    <programme channel="67c832cc9b53325ee16fb899" start="20260609100423 +0000" stop="20260609105411 +0000">
+        <title>Wicked Tuna</title>
+        <desc>È il primo giorno della nuova stagione di pesca di tonno rosso a Gloucester, Massachusetts, e ogni capitano della flotta vuole prendere l’ambito primo tonno dell’anno.</desc>
+        <icon src="https://images.pluto.tv/series/67f4eb301af0e5f3d550aa5b/tile_1768333689287.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67c832cc9b53325ee16fb899" start="20260609105411 +0000" stop="20260609114325 +0000">
+        <title>Wicked Tuna</title>
+        <desc>La rivalità tra i capitani Dave Carraro e Tyler McLaughlin si intensifica, mentre altre barche cercano di istruire nuovi compagni durante la stagione di pesca nell’Atlantico settentrionale.</desc>
+        <icon src="https://images.pluto.tv/series/67f4eb301af0e5f3d550aa5b/tile_1768333689287.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67c832cc9b53325ee16fb899" start="20260609114325 +0000" stop="20260609140000 +0000">
         <title>Wicked Tuna</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67c832cc9b53325ee16fb899/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25429,7 +25964,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Jwoww tenta di dimostrare a Roger che lei può essere una ragazza adatta al Maine. Snooki e Jionni si rendono conto che è dura essere genitori. Roger rivela un segreto.</desc>
         <icon src="https://images.pluto.tv/series/61b85ff9eeb8a300130d023f/tile_1768258264854.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67e3b0d2443f0671bc8a1297" start="20260609100300 +0000" stop="20260609140000 +0000">
+    <programme channel="67e3b0d2443f0671bc8a1297" start="20260609100300 +0000" stop="20260609105000 +0000">
+        <title>Snooki &amp; Jwoww: La Luna di Miele è finita</title>
+        <desc>Il viaggio in Maine solidifica i sentimenti di Roger per Jwoww, ma poi litigano di nuovo. Intanto la relazione tra Snooki e Jionni è messa a dura prova dall'arrivo del bambino.</desc>
+        <icon src="https://images.pluto.tv/series/61b85ff9eeb8a300130d023f/tile_1768258264854.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67e3b0d2443f0671bc8a1297" start="20260609105000 +0000" stop="20260609113600 +0000">
+        <title>Snooki &amp; Jwoww: Si volta pagina</title>
+        <desc>Snooki e Jionni tentano di rimettere in sesto la loro relazione. Jwoww intanto pensa di presentare Roger a sua madre.</desc>
+        <icon src="https://images.pluto.tv/series/61b85ff9eeb8a300130d023f/tile_1768258264854.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67e3b0d2443f0671bc8a1297" start="20260609113600 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Shore</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/featuredImage_1747721158974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25439,7 +25984,22 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Un topolino per Puffetta / Dal pianeta Puffo</desc>
         <icon src="https://images.pluto.tv/series/68de3c40d279ff480535c649/tile_1777381920975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68adb5853efb41cd97ce413d" start="20260609100123 +0000" stop="20260609140000 +0000">
+    <programme channel="68adb5853efb41cd97ce413d" start="20260609100123 +0000" stop="20260609102703 +0000">
+        <title>I Puffi</title>
+        <desc>La caccia ai tartufi</desc>
+        <icon src="https://images.pluto.tv/series/68de3c40d279ff480535c649/tile_1777381920975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adb5853efb41cd97ce413d" start="20260609102703 +0000" stop="20260609105427 +0000">
+        <title>I Puffi</title>
+        <desc>Amici per la pelle / La rivincita dei Puffi</desc>
+        <icon src="https://images.pluto.tv/series/68de3c40d279ff480535c649/tile_1777381920975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adb5853efb41cd97ce413d" start="20260609105427 +0000" stop="20260609112145 +0000">
+        <title>I Puffi</title>
+        <desc>L'ultima risata / Gli incredibili Puffi</desc>
+        <icon src="https://images.pluto.tv/series/68de3c40d279ff480535c649/tile_1777381920975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adb5853efb41cd97ce413d" start="20260609112145 +0000" stop="20260609140000 +0000">
         <title>I Puffi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/featuredImage_1759447099413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25447,9 +26007,14 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
     <programme channel="690cb9140d121b44ad925ac9" start="20260609091500 +0000" stop="20260609101100 +0000">
         <title>Mayday: Disastro Aereo</title>
         <desc>Durante il trasferimento di bimbi vietnamiti orfani da Saigon verso la salvezza, tutto va terribilmente storto</desc>
-        <icon src="https://images.pluto.tv/series/6980fe980cca0cc3456dd995/tile_1780893845117.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6980fe980cca0cc3456dd995/tile_1780915553514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="690cb9140d121b44ad925ac9" start="20260609101100 +0000" stop="20260609140000 +0000">
+    <programme channel="690cb9140d121b44ad925ac9" start="20260609101100 +0000" stop="20260609110600 +0000">
+        <title>Mayday: Disastro Aereo</title>
+        <desc>Il volo FedEx 705 ha appena terminato la fase di salita da Memphis quando inizia l’attacco.</desc>
+        <icon src="https://images.pluto.tv/series/6980fe980cca0cc3456dd995/tile_1780915553514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="690cb9140d121b44ad925ac9" start="20260609110600 +0000" stop="20260609140000 +0000">
         <title>Mayday: Disastro Aereo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/690cb9140d121b44ad925ac9/featuredImage_1762957823586.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25459,17 +26024,42 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Snooker legends compete in a one-day spectacular at Connexin Live, Hull. It is Semi-Final time! Ken Doherty Vs Jimmy White and Tony Drago Vs Igor Figueiredo.</desc>
         <icon src="https://images.pluto.tv/series/692989d263142c96a9117ab1/tile_1764329939922.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69148c76e9dec35c9269a16c" start="20260609101500 +0000" stop="20260609140000 +0000">
-        <title>Pluto TV Snooker 900</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/69148c76e9dec35c9269a16c/featuredImage_1763016465403.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="69148c76e9dec35c9269a16c" start="20260609101500 +0000" stop="20260609144500 +0000">
+        <title>The Crucible Cup</title>
+        <desc>Live Snooker 900, la nuova versione veloce ed emozionante del gioco, dove le leggende dello snooker si affrontano in sfide settimanali.</desc>
+        <icon src="https://images.pluto.tv/series/69d8e0067f004573bea00684/tile_1775820809903.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691c5bef3a369d8f40192e71" start="20260609093501 +0000" stop="20260609100904 +0000">
         <title>Match Review | Serie A 2025/2026 | Inter - Hellas Verona</title>
         <desc>Dopo il fischio finale, il via alla festa, con la cerimonia di consegna del trofeo dello Scudetto. A seguire, la parata per le vie di Milano.</desc>
         <icon src="https://images.pluto.tv/series/6a0c381f488e575cff714f1b/tile_1779185696189.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691c5bef3a369d8f40192e71" start="20260609100904 +0000" stop="20260609140000 +0000">
+    <programme channel="691c5bef3a369d8f40192e71" start="20260609100904 +0000" stop="20260609102404 +0000">
+        <title>Challenge Zone Con Betsson Sport | Ep. 01</title>
+        <desc>2 team, 5 sfide, 1 vincitore.</desc>
+        <icon src="https://images.pluto.tv/series/69fa68bc2c1c785c11236bea/tile_1778018493775.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691c5bef3a369d8f40192e71" start="20260609102404 +0000" stop="20260609103348 +0000">
+        <title>Lautaro Cam | Inter Vs Roma</title>
+        <desc>Una domenica da ricordare, con il ritorno del Toro che ha inaugurato il finale di stagione dei nerazzurri.</desc>
+        <icon src="https://images.pluto.tv/series/69fa68e52387729708eb03b3/tile_1778018534357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691c5bef3a369d8f40192e71" start="20260609103348 +0000" stop="20260609104456 +0000">
+        <title>Inter Club | An International Story | Ep.05</title>
+        <desc>Inter Club: An International Story, il format presented by Coca Cola.</desc>
+        <icon src="https://images.pluto.tv/series/69fca0235c3098aeb079b932/tile_1778163748423.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691c5bef3a369d8f40192e71" start="20260609104456 +0000" stop="20260609105551 +0000">
+        <title>Inter Club | An International Story | Ep.04</title>
+        <desc>Inter Club: An International Story, il format presented by Coca Cola.</desc>
+        <icon src="https://images.pluto.tv/series/69fa687dff3691f8e66a7b78/tile_1778018430207.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691c5bef3a369d8f40192e71" start="20260609105551 +0000" stop="20260609110501 +0000">
+        <title>Marea Nerazzurra: La Parata Per Le Vie Di Milano</title>
+        <desc>Dalla Terrazza 21 i giocatori hanno raccolto l'abbraccio del popolo interista.</desc>
+        <icon src="https://images.pluto.tv/series/6a0c87c31a1e887021ceac24/tile_1779206084236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691c5bef3a369d8f40192e71" start="20260609110501 +0000" stop="20260609140000 +0000">
         <title>Inter 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691c5bef3a369d8f40192e71/featuredImage_1775046814007.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25479,7 +26069,12 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce9d4b1996b7d1335393/tile_1772539550622.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e0fe49ba4ac18057433ac" start="20260609105400 +0000" stop="20260609140000 +0000">
+    <programme channel="696e0fe49ba4ac18057433ac" start="20260609105400 +0000" stop="20260609112400 +0000">
+        <title>FIA European Rally Championship Highlights</title>
+        <desc>Coverage of the latest rally event.</desc>
+        <icon src="https://images.pluto.tv/series/69aeb8c26d7de5ca36a5b32f/tile_1773058244029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e0fe49ba4ac18057433ac" start="20260609112400 +0000" stop="20260609140000 +0000">
         <title>Rally TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e0fe49ba4ac18057433ac/featuredImage_1770893941495.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25489,7 +26084,27 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>I Honda SH 125 e 150 si rinnovano per il 2026. Estetica elegante e nuove funzioni come sella comoda e vano per smartphone. Scopri i dettagli con l'intervista a Honda Moto Italia.</desc>
         <icon src="https://images.pluto.tv/series/69fa45cedb369c4511fcea4c/tile_1778009550944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6971fc6dca441014e4600f2c" start="20260609100700 +0000" stop="20260609140000 +0000">
+    <programme channel="6971fc6dca441014e4600f2c" start="20260609100700 +0000" stop="20260609101700 +0000">
+        <title>Scopriamo la Honda CB1000GT</title>
+        <desc>La nuova Honda CB1000GT, svelata a EICMA, combina sportività e comfort con un motore derivato da Fireblade e Hornet. Intervista a Andrea Venturini di Honda Moto Italia.</desc>
+        <icon src="https://images.pluto.tv/series/69fa4561a7b5a6c560e3d50f/tile_1778009442043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6971fc6dca441014e4600f2c" start="20260609101700 +0000" stop="20260609103200 +0000">
+        <title>CFMOTO 675NK: una nuova esperienza</title>
+        <desc>Scopri come le modifiche trasformano la CFMOTO 675NK. Gomme e freni migliorano stabilità, precisione e frenata, rendendo la moto più performante e divertente.</desc>
+        <icon src="https://images.pluto.tv/series/69fa459a853a01a827a842fc/tile_1778009499303.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6971fc6dca441014e4600f2c" start="20260609103200 +0000" stop="20260609105200 +0000">
+        <title>Porsche Cayenne: 1156 CV e ricarica wireless</title>
+        <desc>La nuova Cayenne elettrica debutta con 1156 CV, ricarica wireless e innovazioni tecniche. Porsche unisce tradizione e modernità in un SUV rivoluzionario.</desc>
+        <icon src="https://images.pluto.tv/series/69fa45a30df891e1e6408e43/tile_1778009508427.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6971fc6dca441014e4600f2c" start="20260609105200 +0000" stop="20260609111100 +0000">
+        <title>Macna: Abbigliamento Riscaldabile Moto</title>
+        <desc>Scopri l'abbigliamento riscaldabile Macna per l'inverno in moto: intimo, guanti, calze e manopole smart, controllabili via app o manopole. Innovazione e comfort per gli appassionati delle due ruote.</desc>
+        <icon src="https://images.pluto.tv/series/69fa45d7c45cded79a10fb84/tile_1778009560273.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6971fc6dca441014e4600f2c" start="20260609111100 +0000" stop="20260609140000 +0000">
         <title>Automoto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6971fc6dca441014e4600f2c/featuredImage_1773142799051.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -25799,7 +26414,17 @@ La squadra: Margherita Aina, Luca Ferrero, ...</desc>
         <desc>La raccolta definitiva per gli appassionati del rock degli ultimi sei decenni, dal blues e grunge al soft rock e all'heavy metal. Include brani classici di Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana e molti altri.</desc>
         <icon src="https://images.pluto.tv/series/69f89ae7df0b6d462cf229be/tile_1777900263966.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69ef5682980899a9edf1a884" start="20260609100443 +0000" stop="20260609140000 +0000">
+    <programme channel="69ef5682980899a9edf1a884" start="20260609100443 +0000" stop="20260609103443 +0000">
+        <title>That’s Rock</title>
+        <desc>La raccolta definitiva per gli appassionati del rock degli ultimi sei decenni, dal blues e grunge al soft rock e all'heavy metal. Include brani classici di Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana e molti altri.</desc>
+        <icon src="https://images.pluto.tv/series/69f89ae7df0b6d462cf229be/tile_1777900263966.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69ef5682980899a9edf1a884" start="20260609103443 +0000" stop="20260609110443 +0000">
+        <title>That’s Rock</title>
+        <desc>La raccolta definitiva per gli appassionati del rock degli ultimi sei decenni, dal blues e grunge al soft rock e all'heavy metal. Include brani classici di Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana e molti altri.</desc>
+        <icon src="https://images.pluto.tv/series/69f89ae7df0b6d462cf229be/tile_1777900263966.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69ef5682980899a9edf1a884" start="20260609110443 +0000" stop="20260609140000 +0000">
         <title>That's Rock</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69ef5682980899a9edf1a884/featuredImage_1778766358318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

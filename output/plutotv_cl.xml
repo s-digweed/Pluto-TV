@@ -13237,6 +13237,11 @@ Chris "Señor Plástico"</desc>
         <desc>El veterano de Vietnam John Rambo ha sobrevivido a muchas pruebas terribles en su vida y desde entonces se ha retirado a una existencia simple y aislada en Tailandia, donde pasa su tiempo capturando serpientes para artistas locales.</desc>
         <icon src="https://images.pluto.tv/series/5e552dc25c1e25001a24f314/tile_1777908961497.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dcde437229eff00091b6c30" start="20260608224200 +0000" stop="20260609002800 +0000">
+        <title>Meet The Spartans</title>
+        <desc>Parodia de "300" y otras películas. El rey Leónidas y su ejército de 12 hombres luchan contra Jerjes de Persia para defender la libertad de Esparta.</desc>
+        <icon src="https://images.pluto.tv/series/675738973b8ac60013f7c65d/tile_1769033881841.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5dd6ddb30a1d8a000908ed4c" start="20260608165800 +0000" stop="20260608183800 +0000">
         <title>Un Amor de Perro</title>
         <desc>Un perro herido encuentra su camino hacia los corazones de una familia después de escapar de un anillo subterráneo de peleas de perros.</desc>
@@ -31747,11 +31752,6 @@ Chris "Señor Plástico"</desc>
         <desc>Una confusión pone a Slevin en mitad de la guerra entre dos clanes mafiosos neoyorquinos, el que dirige El Rabino y el que comanda aquel al que llaman El Jefe. Slevin intentará escapar vivo de los gánsteres, los sicarios y la policía.</desc>
         <icon src="https://images.pluto.tv/series/697798acf65a7c96c6a3f601/tile_1769445548915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61b793ccf571b80007b7a610" start="20260609100400 +0000" stop="20260609120000 +0000">
-        <title>Siervos de la guerra</title>
-        <desc>Un detective experto colabora con una policía novata en la resolución del misterioso asesinato de un conocido especialista en trasplante de médula ósea.</desc>
-        <icon src="https://images.pluto.tv/series/66ce387fd99fc70013490e6f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="624af40c004f8000079b784d" start="20260609052300 +0000" stop="20260609073900 +0000">
         <title>La Ciudad de Las Sombras</title>
         <desc>Un corredor de seguros de Nueva York busca a su socio corrupto en Camboya.</desc>
@@ -35932,11 +35932,6 @@ Chris "Señor Plástico"</desc>
         <desc>Buenos Aires Conquest con skaters como Aldana Beltrán, Leticia Buffoni, Ángelo Caro y más, patinando por puntos icónicos de la ciudad porteña.</desc>
         <icon src="https://images.pluto.tv/series/684dffcb32c29c353d9b0815/tile_1749942222449.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67813f893886aa863497733d" start="20260609103500 +0000" stop="20260609122100 +0000">
-        <title>Long Live Chainsaw</title>
-        <desc>La verdadera historia del ascenso, la muerte prematura y el legado duradero de Stevie Smith, leyenda canadiense del ciclismo de montaña de descenso.</desc>
-        <icon src="https://images.pluto.tv/series/67b364f4f77b5e1d233d8e81/tile_1758082311190.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="67a3b45a21af380008133aa4" start="20260609060000 +0000" stop="20260609070000 +0000">
         <title>Real Madrid TV</title>
         <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
@@ -38022,7 +38017,12 @@ Chris "Señor Plástico"</desc>
         <desc>Bruno descubre a Luz María en el night club cantando, le grita y piensa que ella se acercó a él por interés. Cayetano trata de convencerlo y le dice que él no dejo que le dijera la verdad.</desc>
         <icon src="https://images.pluto.tv/series/6578a97d954dcc0014d3bf0e/tile_1769466601757.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde0cc2efd2700090b7ff4" start="20260609105200 +0000" stop="20260609140000 +0000">
+    <programme channel="5dcde0cc2efd2700090b7ff4" start="20260609105200 +0000" stop="20260609114400 +0000">
+        <title>Corazón apasionado</title>
+        <desc>Balboa advierte a Armando que está implicado en la muerte de Felipe y que en algún momento tiene que ir a la comisaría a declarar.</desc>
+        <icon src="https://images.pluto.tv/series/651dc1da727df0001a3cca59/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde0cc2efd2700090b7ff4" start="20260609114400 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Novelas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage_1772819701162.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38032,7 +38032,17 @@ Chris "Señor Plástico"</desc>
         <desc>Kelly se da cuenta de que tiene que echar atrás su compromiso. Katrina descubre a su novio con otra.</desc>
         <icon src="https://images.pluto.tv/series/64d1329b8a0f7100137995b9/tile_1769550490468.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde197f6591d0009839e04" start="20260609100800 +0000" stop="20260609140000 +0000">
+    <programme channel="5dcde197f6591d0009839e04" start="20260609100800 +0000" stop="20260609105900 +0000">
+        <title>Cheaters</title>
+        <desc>Brian se entera de que su esposa tiene algo con su primo. Janyce pilla a su novio almorzando con otra.</desc>
+        <icon src="https://images.pluto.tv/series/64d1329b8a0f7100137995b9/tile_1769550490468.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde197f6591d0009839e04" start="20260609105900 +0000" stop="20260609115000 +0000">
+        <title>Cheaters</title>
+        <desc>Elena descubre que su marido tiene apetito por más que dulces. Brandon se entera de que su novia está rara.</desc>
+        <icon src="https://images.pluto.tv/series/64d1329b8a0f7100137995b9/tile_1769550490468.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde197f6591d0009839e04" start="20260609115000 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38042,7 +38052,12 @@ Chris "Señor Plástico"</desc>
         <desc>Fuerte temática, ya que las mujeres no callan ni los problemas más pequeños. Aunque siempre se muestra la realidad, las imágenes y el lenguaje, se escogen con cuidado para alcanzar una audiencia más grande.</desc>
         <icon src="https://images.pluto.tv/series/60d4ad83fad1f80013b37b06/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dd837642c6e9300098ad484" start="20260609104400 +0000" stop="20260609140000 +0000">
+    <programme channel="5dd837642c6e9300098ad484" start="20260609104400 +0000" stop="20260609113200 +0000">
+        <title>Lo Que Callamos Las Mujeres</title>
+        <desc>Fuerte temática, ya que las mujeres no callan ni los problemas más pequeños. Aunque siempre se muestra la realidad, las imágenes y el lenguaje, se escogen con cuidado para alcanzar una audiencia más grande.</desc>
+        <icon src="https://images.pluto.tv/series/60d4ad83fad1f80013b37b06/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd837642c6e9300098ad484" start="20260609113200 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Series Latinas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38052,7 +38067,12 @@ Chris "Señor Plástico"</desc>
         <desc>Dentro del Museo Arqueológico Nacional de Atenas.</desc>
         <icon src="https://images.pluto.tv/series/5f85c9b4b06bf7001adc12bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ddc503ac7ef120009b101a2" start="20260609104600 +0000" stop="20260609140000 +0000">
+    <programme channel="5ddc503ac7ef120009b101a2" start="20260609104600 +0000" stop="20260609113600 +0000">
+        <title>Secretos de los Museos: San Petersburgo</title>
+        <desc>Dentro del Museo del Hermitage de San Petersburgo.</desc>
+        <icon src="https://images.pluto.tv/series/5f85c9b4b06bf7001adc12bf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddc503ac7ef120009b101a2" start="20260609113600 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Documentales</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/featuredImage_1767716226724.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38062,7 +38082,12 @@ Chris "Señor Plástico"</desc>
         <desc>Una hija está escribiendo sobre su madre.</desc>
         <icon src="https://images.pluto.tv/series/64a2d190fdd8620013ec4b5e/tile_1769549042797.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5de802659167b10009e7deba" start="20260609105300 +0000" stop="20260609140000 +0000">
+    <programme channel="5de802659167b10009e7deba" start="20260609105300 +0000" stop="20260609114900 +0000">
+        <title>Highway to Heaven LT</title>
+        <desc>Jonathan visita un centro de rehabilitación.</desc>
+        <icon src="https://images.pluto.tv/series/64a2d190fdd8620013ec4b5e/tile_1769549042797.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5de802659167b10009e7deba" start="20260609114900 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Series Retro</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38072,7 +38097,17 @@ Chris "Señor Plástico"</desc>
         <desc>Si te encanta el amor en todas sus formas, ¡este canal es para ti! ¡Disfruta de todos los programas de MTV donde el amor nunca está de más!</desc>
         <icon src="https://images.pluto.tv/series/6851727c33a52de120cbbd4f/tile_1750343514882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5de91b7ea86ee60009d89e75" start="20260609101000 +0000" stop="20260609140000 +0000">
+    <programme channel="5de91b7ea86ee60009d89e75" start="20260609101000 +0000" stop="20260609104000 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus formas, ¡este canal es para ti! ¡Disfruta de todos los programas de MTV donde el amor nunca está de más!</desc>
+        <icon src="https://images.pluto.tv/series/6851727c33a52de120cbbd4f/tile_1750343514882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5de91b7ea86ee60009d89e75" start="20260609104000 +0000" stop="20260609111000 +0000">
+        <title>MTV Reality</title>
+        <desc>Si te encanta el amor en todas sus formas, ¡este canal es para ti! ¡Disfruta de todos los programas de MTV donde el amor nunca está de más!</desc>
+        <icon src="https://images.pluto.tv/series/6851727c33a52de120cbbd4f/tile_1750343514882.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5de91b7ea86ee60009d89e75" start="20260609111000 +0000" stop="20260609140000 +0000">
         <title>MTV Pride</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage_1780320194126.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38082,7 +38117,12 @@ Chris "Señor Plástico"</desc>
         <desc>La guerra es más intensa que nunca y los artistas deben luchar por cada ventaja posible... y aliarse.  Una alianza toma forma, y un brillante desafío de eliminación deja a un equipo quemado.</desc>
         <icon src="https://images.pluto.tv/series/666312601c02820013efe934/tile_1769469843025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fab088b3279760007d4e4fd" start="20260609101200 +0000" stop="20260609140000 +0000">
+    <programme channel="5fab088b3279760007d4e4fd" start="20260609101200 +0000" stop="20260609110100 +0000">
+        <title>Ink Master</title>
+        <desc>Un desafío lleva a los artistas a dar una vuelta, dejándolos mareados y fuera de control. La guerra es más intensa ya que la batalla continúa por 100.000 dólares y el título de "Ink Master".</desc>
+        <icon src="https://images.pluto.tv/series/666312601c02820013efe934/tile_1769469843025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab088b3279760007d4e4fd" start="20260609110100 +0000" stop="20260609140000 +0000">
         <title>MTV Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/featuredImage_1764875981566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38092,7 +38132,17 @@ Chris "Señor Plástico"</desc>
         <desc>Hilda le declara su amor a Albeiro, los dos hacen el amor. Bairon se percata de lo sucedido y acepta el noviazgo de su madre con el supuesto novio de Catalina. La familia celebra el cumpleaños de Catalina.</desc>
         <icon src="https://images.pluto.tv/series/5edfffd86e0047001cb878d7/tile_1768769640996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604bdf4e6d0abc0007ba77ad" start="20260609100100 +0000" stop="20260609140000 +0000">
+    <programme channel="604bdf4e6d0abc0007ba77ad" start="20260609100100 +0000" stop="20260609105300 +0000">
+        <title>Sin tetas no hay paraíso</title>
+        <desc>Catalina hace el amor con Albeiro después de embriagarlo para que no se note la pérdida de su virginidad. Catalina y Jessica vuelven a Bogotá. El hombre oscuro contrata a Bairon para matar a un político.</desc>
+        <icon src="https://images.pluto.tv/series/5edfffd86e0047001cb878d7/tile_1768769640996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604bdf4e6d0abc0007ba77ad" start="20260609105300 +0000" stop="20260609114400 +0000">
+        <title>Sin tetas no hay paraíso</title>
+        <desc>El hombre oscuro le da la misión a Bairon y a su compañero de eliminar al magistrado con un tiempo límite de un mes. Catalina seduce a Octavio. El hombre las echa de la casa. Las mujeres se encuentran con el doctor para la cirugía de los senos.</desc>
+        <icon src="https://images.pluto.tv/series/5edfffd86e0047001cb878d7/tile_1768769640996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604bdf4e6d0abc0007ba77ad" start="20260609114400 +0000" stop="20260609140000 +0000">
         <title>Sin Tetas No Hay Paraíso</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38102,7 +38152,12 @@ Chris "Señor Plástico"</desc>
         <desc>En la dinastía Yuan, fundada por Genghis Khan, la emperatriz Ki era originaria del pequeño reino de Goryeo. Sung Nyang de Goryeo finge ser un muchacho para sobrevivir en la dinastía Yuan y se convierte en su reina.</desc>
         <icon src="https://images.pluto.tv/series/65ae8033ecf2e50013e49797/tile_1769467321533.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6185a9a88b2ce30007de5128" start="20260609105000 +0000" stop="20260609140000 +0000">
+    <programme channel="6185a9a88b2ce30007de5128" start="20260609105000 +0000" stop="20260609115900 +0000">
+        <title>The Empress Ki</title>
+        <desc>En la dinastía Yuan, fundada por Genghis Khan, la emperatriz Ki era originaria del pequeño reino de Goryeo. Sung Nyang de Goryeo finge ser un muchacho para sobrevivir en la dinastía Yuan y se convierte en su reina.</desc>
+        <icon src="https://images.pluto.tv/series/65ae8033ecf2e50013e49797/tile_1769467321533.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6185a9a88b2ce30007de5128" start="20260609115900 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Dramas Coreanos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/featuredImage_1765467371603.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38112,7 +38167,17 @@ Chris "Señor Plástico"</desc>
         <desc>Maurice, el padre de Samantha, se enoja mucho cuando le ponen a la nueva bebé el nombre del padre de Darrin.</desc>
         <icon src="https://images.pluto.tv/series/5e6a35cc407e62001babd4a3/tile_1768768566472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="631fb6be21b7440007b9f606" start="20260609101600 +0000" stop="20260609140000 +0000">
+    <programme channel="631fb6be21b7440007b9f606" start="20260609101600 +0000" stop="20260609104700 +0000">
+        <title>Hechizada</title>
+        <desc>Samantha les cambia la imagen a las brujas y Endora hace que Darrin se convierta en una bruja poco a poco.</desc>
+        <icon src="https://images.pluto.tv/series/5e6a35cc407e62001babd4a3/tile_1768768566472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="631fb6be21b7440007b9f606" start="20260609104700 +0000" stop="20260609111800 +0000">
+        <title>Hechizada</title>
+        <desc>El tío Arthur hace que Bunny se multiplique en lugar de desaparecer.</desc>
+        <icon src="https://images.pluto.tv/series/5e6a35cc407e62001babd4a3/tile_1768768566472.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="631fb6be21b7440007b9f606" start="20260609111800 +0000" stop="20260609140000 +0000">
         <title>Hechizada</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/featuredImage_1764961658066.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38122,7 +38187,12 @@ Chris "Señor Plástico"</desc>
         <desc>El Tino es enviado al ejército por su madre debido a la pérdida de su año escolar. El Pibe es convocado a la selección y a su vez nombrado el capitán del equipo. René es invitado a jugar un partido de fútbol  con los hombres de Pablo Escobar.</desc>
         <icon src="https://images.pluto.tv/series/5eaadd47a3eeeb001aa62a63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63211ba9cad976000794f988" start="20260609101700 +0000" stop="20260609140000 +0000">
+    <programme channel="63211ba9cad976000794f988" start="20260609101700 +0000" stop="20260609110700 +0000">
+        <title>La Selección</title>
+        <desc>El Pibe se alegra al enterarse de que Clarisa está esperando un hijo suyo. Pablo escobar le envía a René una lujosa camioneta  como regalo para incentivarlo a jugar el partido con sus hombres.</desc>
+        <icon src="https://images.pluto.tv/series/5eaadd47a3eeeb001aa62a63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63211ba9cad976000794f988" start="20260609110700 +0000" stop="20260609140000 +0000">
         <title>La Selección</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63211ba9cad976000794f988/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38132,7 +38202,12 @@ Chris "Señor Plástico"</desc>
         <desc>Mehmet está en estado de coma e inestable, y los doctores le dicen a la familia que necesita un trasplante de riñón o morirá. Onur contrata a un investigador privado en busca de respuestas.</desc>
         <icon src="https://images.pluto.tv/series/64f677046b9e3e00135281fa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="639751f81a36b400072b8f5a" start="20260609110000 +0000" stop="20260609140000 +0000">
+    <programme channel="639751f81a36b400072b8f5a" start="20260609110000 +0000" stop="20260609120000 +0000">
+        <title>Gumus</title>
+        <desc>Berk le reclama a Didem por haberle mentido. Onur va a la policía y les da a conocer sus sospechas. Gumus podría donarle un riñón a su esposo.</desc>
+        <icon src="https://images.pluto.tv/series/64f677046b9e3e00135281fa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="639751f81a36b400072b8f5a" start="20260609120000 +0000" stop="20260609140000 +0000">
         <title>Vive Kanal D Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38142,7 +38217,12 @@ Chris "Señor Plástico"</desc>
         <desc>MacGyver es la única esperanza de los Thornton cuando un exagente que busca venganza los toma como rehenes en los pantanos de Luisiana.</desc>
         <icon src="https://images.pluto.tv/series/643fea281a5081001ad8a1d8/tile_1769543641798.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb95baa99571000898a078" start="20260609100700 +0000" stop="20260609140000 +0000">
+    <programme channel="63eb95baa99571000898a078" start="20260609100700 +0000" stop="20260609110500 +0000">
+        <title>MacGyver LT</title>
+        <desc>MacGyver descubre un complot de asesinato contra un informante que amenaza con exponer una red de tráfico de drogas.</desc>
+        <icon src="https://images.pluto.tv/series/643fea281a5081001ad8a1d8/tile_1769543641798.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb95baa99571000898a078" start="20260609110500 +0000" stop="20260609140000 +0000">
         <title>MacGyver</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb95baa99571000898a078/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38152,7 +38232,12 @@ Chris "Señor Plástico"</desc>
         <desc>Las reinas reciben sus papeles para la nueva serie exitosa "Breastworld".</desc>
         <icon src="https://images.pluto.tv/series/620fc813a5b2950013c07425/tile_1769212441625.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64510d3ad3fdde00080951f2" start="20260609103400 +0000" stop="20260609140000 +0000">
+    <programme channel="64510d3ad3fdde00080951f2" start="20260609103400 +0000" stop="20260609114800 +0000">
+        <title>RuPaul's Drag Race</title>
+        <desc>Las reinas transformarán a algunas de las superestrellas de redes sociales más famosas de hoy en día.</desc>
+        <icon src="https://images.pluto.tv/series/620fc813a5b2950013c07425/tile_1769212441625.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64510d3ad3fdde00080951f2" start="20260609114800 +0000" stop="20260609140000 +0000">
         <title>MTV Drag</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38162,7 +38247,12 @@ Chris "Señor Plástico"</desc>
         <desc>Corazón</desc>
         <icon src="https://images.pluto.tv/series/664789bf0120f40008b23c10/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="646ccdd0939a5900088a1980" start="20260609110000 +0000" stop="20260609140000 +0000">
+    <programme channel="646ccdd0939a5900088a1980" start="20260609110000 +0000" stop="20260609120000 +0000">
+        <title>Corazón</title>
+        <desc>Corazón</desc>
+        <icon src="https://images.pluto.tv/series/664789bf0120f40008b23c10/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="646ccdd0939a5900088a1980" start="20260609120000 +0000" stop="20260609140000 +0000">
         <title>Corazón</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38172,7 +38262,12 @@ Chris "Señor Plástico"</desc>
         <desc>La serie narra este gran viaje de Mariana, su lucha por salir de la cárcel, su liberación de la adicción, su regreso a la vida, obsesionada por buscar la verdad, por saber qué pasó y por encontrar y destruir a quién o quiénes arruinaron su vida.</desc>
         <icon src="https://images.pluto.tv/series/5e45af0315db0cd28ae4fb76/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6474a7958e3c0a0008b97cae" start="20260609101700 +0000" stop="20260609140000 +0000">
+    <programme channel="6474a7958e3c0a0008b97cae" start="20260609101700 +0000" stop="20260609110600 +0000">
+        <title>Nada Personal</title>
+        <desc>La serie narra este gran viaje de Mariana, su lucha por salir de la cárcel, su liberación de la adicción, su regreso a la vida, obsesionada por buscar la verdad, por saber qué pasó y por encontrar y destruir a quién o quiénes arruinaron su vida.</desc>
+        <icon src="https://images.pluto.tv/series/5e45af0315db0cd28ae4fb76/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6474a7958e3c0a0008b97cae" start="20260609110600 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Novelas de México</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/featuredImage_1765475296297.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38182,7 +38277,12 @@ Chris "Señor Plástico"</desc>
         <desc>Luis Gustavo va a hablar con Virginia y esta lo recibe con un beso.</desc>
         <icon src="https://images.pluto.tv/series/6964fe60cfcbd725c7558a5c/tile_1768226435173.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6474a86917f5e100089a0c1c" start="20260609103600 +0000" stop="20260609140000 +0000">
+    <programme channel="6474a86917f5e100089a0c1c" start="20260609103600 +0000" stop="20260609112800 +0000">
+        <title>Alma Mia</title>
+        <desc>Amanda le dice a Sharon que quiere disponer de su dinero para ayudar a Alma Mia en su juicio.</desc>
+        <icon src="https://images.pluto.tv/series/6964fe60cfcbd725c7558a5c/tile_1768226435173.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6474a86917f5e100089a0c1c" start="20260609112800 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Novelas de Venezuela</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/featuredImage_1765471713313.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38192,7 +38292,17 @@ Chris "Señor Plástico"</desc>
         <desc>Carrie no está ni un poco celosa porque sabe que su esposo es un buen sujeto, así que Doug intenta provocarla probando que no es tan bueno.</desc>
         <icon src="https://images.pluto.tv/series/690ccca5d2a007fabab028c2/tile_1762466948532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="655f626d57fe4a00085c7c3e" start="20260609101830 +0000" stop="20260609140000 +0000">
+    <programme channel="655f626d57fe4a00085c7c3e" start="20260609101830 +0000" stop="20260609104530 +0000">
+        <title>The King of Queens</title>
+        <desc>Carrie es invitada para ir a una fiesta elegante en casa de su jefe y ella desea que Doug la acompañe. Sin embargo, cuando él llega tarde, medio vestido y muriendo de hambre, ella está mortificada.</desc>
+        <icon src="https://images.pluto.tv/series/690ccca5d2a007fabab028c2/tile_1762466948532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="655f626d57fe4a00085c7c3e" start="20260609104530 +0000" stop="20260609111130 +0000">
+        <title>The King of Queens</title>
+        <desc>Cuando los vecinos peculiares anuncian que se van a separar y tienen una multipropiedad en los Hamptons que quieren regalar, Carrie no se detendrá ante nada para ganarla.</desc>
+        <icon src="https://images.pluto.tv/series/690ccca5d2a007fabab028c2/tile_1762466948532.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="655f626d57fe4a00085c7c3e" start="20260609111130 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Series de Comedia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38202,7 +38312,12 @@ Chris "Señor Plástico"</desc>
         <desc>Juliette Barnes regresa a casa.</desc>
         <icon src="https://images.pluto.tv/series/66d84e909f04dd0013c61b67/tile_1769472722071.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="655f636d954b020008c93299" start="20260609101600 +0000" stop="20260609140000 +0000">
+    <programme channel="655f636d954b020008c93299" start="20260609101600 +0000" stop="20260609110700 +0000">
+        <title>Nashville</title>
+        <desc>Maddie y Cash elaboran un plan para actuar mientras Juliette hace su propio plan para recuperar a Glenn.</desc>
+        <icon src="https://images.pluto.tv/series/66d84e909f04dd0013c61b67/tile_1769472722071.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="655f636d954b020008c93299" start="20260609110700 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Series de Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/655f636d954b020008c93299/featuredImage_1765466171343.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38212,7 +38327,12 @@ Chris "Señor Plástico"</desc>
         <desc>Aera elige entre dos trayectorias profesionales. Llega el día de la pelea de Dongman y Taksu.</desc>
         <icon src="https://images.pluto.tv/series/61aa6254c323f20013e53ed1/tile_1769211001785.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6661d5424b10960008599fa3" start="20260609100300 +0000" stop="20260609140000 +0000">
+    <programme channel="6661d5424b10960008599fa3" start="20260609100300 +0000" stop="20260609111200 +0000">
+        <title>Luchando para abrirme paso</title>
+        <desc>Aera le hace un favor a un antiguo compañero de clase. A pesar de sí mismo, Dongman termina peleando de nuevo.</desc>
+        <icon src="https://images.pluto.tv/series/61aa6254c323f20013e53ed1/tile_1769211001785.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6661d5424b10960008599fa3" start="20260609111200 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Dramas Coreanos Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6661d5424b10960008599fa3/featuredImage_1765467438253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38222,7 +38342,22 @@ Chris "Señor Plástico"</desc>
         <desc>Popeye le cuenta un cuento para dormir a Diesel sobre un héroe llamado “la Marca de Cero”. Popeye se involucra en la historia y tiene que pelear con el villano Brutus.</desc>
         <icon src="https://images.pluto.tv/series/602c566bf5408c001a4fc3e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677d93afe650a700081e5f18" start="20260609100200 +0000" stop="20260609140000 +0000">
+    <programme channel="677d93afe650a700081e5f18" start="20260609100200 +0000" stop="20260609103000 +0000">
+        <title>Popeye el marino</title>
+        <desc>Popeye y Brutus compiten en una carrera a pie a campo traviesa a Los Ángeles y de regreso. El ganador recibirá una cita con la encantadora Olivia Olivo. Sin embargo, durante la carrera, Brutus recurre a las trampas para intentar ganar.</desc>
+        <icon src="https://images.pluto.tv/series/602c566bf5408c001a4fc3e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677d93afe650a700081e5f18" start="20260609103000 +0000" stop="20260609105700 +0000">
+        <title>Popeye el marino</title>
+        <desc>Popeye y Olive tienen una fuerte pelea de amantes y Popeye sale pisando fuerte y se une a la Legión Extranjera.</desc>
+        <icon src="https://images.pluto.tv/series/602c566bf5408c001a4fc3e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677d93afe650a700081e5f18" start="20260609105700 +0000" stop="20260609112400 +0000">
+        <title>Popeye el marino</title>
+        <desc>Muscleonia era gobernada por quien fuera el hombre más fuerte de la tierra. Cada día, el Rey Brutus le preguntaba a su espejo mágico quién es el hombre más fuerte y el espejo decía: "Rey Brutus".</desc>
+        <icon src="https://images.pluto.tv/series/602c566bf5408c001a4fc3e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677d93afe650a700081e5f18" start="20260609112400 +0000" stop="20260609140000 +0000">
         <title>Popeye</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/677d93afe650a700081e5f18/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38232,7 +38367,12 @@ Chris "Señor Plástico"</desc>
         <desc>Cuando el demonio de la ilusión trae a la vida real a los personajes invencibles de antiguas películas de terror para que maten a las Hechiceras, el mejor aliado resulta ser el primer amor de Phoebe: un personaje de una vieja película.</desc>
         <icon src="https://images.pluto.tv/series/6812382600cabfe6fe7f9093/tile_1769627161496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67f95fa76b11614ab0caaef3" start="20260609101600 +0000" stop="20260609140000 +0000">
+    <programme channel="67f95fa76b11614ab0caaef3" start="20260609101600 +0000" stop="20260609110800 +0000">
+        <title>Charmed</title>
+        <desc>Las hermanas deben encontrar a un demonio que mató a una de las compañeras de clase de Phoebe. Mientras, Dan descubre que Leo estuvo casado anteriormente y decide hacerse cargo del asunto.</desc>
+        <icon src="https://images.pluto.tv/series/6812382600cabfe6fe7f9093/tile_1769627161496.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67f95fa76b11614ab0caaef3" start="20260609110800 +0000" stop="20260609140000 +0000">
         <title>Hechiceras</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/featuredImage_1764954143537.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38242,7 +38382,12 @@ Chris "Señor Plástico"</desc>
         <desc>Tras perder a su bebé, a su madre y quedar paralítica, Ram se arrepiente por sus acciones y le pide a Pink un último favor. Unpon pone a merced de las autoridades a Yarin, de igual modo, emprende las mismas acciones con el señor Trai.</desc>
         <icon src="https://images.pluto.tv/series/68347162a21058b98ff1b332/tile_1748267364821.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6806d570c178637410ae4962" start="20260609105000 +0000" stop="20260609140000 +0000">
+    <programme channel="6806d570c178637410ae4962" start="20260609105000 +0000" stop="20260609115000 +0000">
+        <title>Te Necesito</title>
+        <desc>Después de todo lo ocurrido, Lu finalmente hace la petición que Ram tanto ha esperado, ella no da crédito a lo que escucha. Pink, poniendo en riesgo su felicidad, hace una apuesta con Pon. El destino de los cuatro personajes está a punto de ser escogido.</desc>
+        <icon src="https://images.pluto.tv/series/68347162a21058b98ff1b332/tile_1748267364821.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6806d570c178637410ae4962" start="20260609115000 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Series de Otros Continentes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6806d570c178637410ae4962/featuredImage_1765466496602.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38252,7 +38397,12 @@ Chris "Señor Plástico"</desc>
         <desc>Zafer y Kılıç descubren que el arma era de su almacén. Ferhat le pide a Ayaz que queme el almacén. Todos los hombres de Kılıç se someten a una investigación.</desc>
         <icon src="https://images.pluto.tv/series/68346ce703a2ab14da6acfd9/tile_1748266217020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686eed4c677f2f98b4a1ccd4" start="20260609103700 +0000" stop="20260609140000 +0000">
+    <programme channel="686eed4c677f2f98b4a1ccd4" start="20260609103700 +0000" stop="20260609113000 +0000">
+        <title>La Venganza</title>
+        <desc>Kılıç descubre que arrestaron a su hijo. Ferhat y Ayaz se preguntan</desc>
+        <icon src="https://images.pluto.tv/series/68346ce703a2ab14da6acfd9/tile_1748266217020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686eed4c677f2f98b4a1ccd4" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Novelas de Otros Continentes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/featuredImage_1765466599084.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38262,7 +38412,17 @@ Chris "Señor Plástico"</desc>
         <desc>El Pituforobotín</desc>
         <icon src="https://images.pluto.tv/series/691b2e4669032f4edfd915be/tile_1763400982389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68a3a97fd8f7693ae3f8575f" start="20260609102022 +0000" stop="20260609140000 +0000">
+    <programme channel="68a3a97fd8f7693ae3f8575f" start="20260609102022 +0000" stop="20260609105022 +0000">
+        <title>Los Pitufos</title>
+        <desc>Paraíso Pitufo / La Abominable Bestia De La Nieve</desc>
+        <icon src="https://images.pluto.tv/series/691b2e4669032f4edfd915be/tile_1763400982389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68a3a97fd8f7693ae3f8575f" start="20260609105022 +0000" stop="20260609111822 +0000">
+        <title>Los Pitufos</title>
+        <desc>La Fuente De La Juventud</desc>
+        <icon src="https://images.pluto.tv/series/691b2e4669032f4edfd915be/tile_1763400982389.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68a3a97fd8f7693ae3f8575f" start="20260609111822 +0000" stop="20260609140000 +0000">
         <title>Los Pitufos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/featuredImage_1760386875949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38272,7 +38432,17 @@ Chris "Señor Plástico"</desc>
         <desc>La madre de Jeannie se enamora del Dr. Bellows.</desc>
         <icon src="https://images.pluto.tv/series/5e6a5206725522001445f0a9/tile_1768768926840.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68ffc086a530e036bc8f0305" start="20260609101428 +0000" stop="20260609140000 +0000">
+    <programme channel="68ffc086a530e036bc8f0305" start="20260609101428 +0000" stop="20260609104328 +0000">
+        <title>I Dream Of Jeannie</title>
+        <desc>Jeannie aparece como invitada del programa Laugh-In.</desc>
+        <icon src="https://images.pluto.tv/series/5e6a5206725522001445f0a9/tile_1768768926840.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ffc086a530e036bc8f0305" start="20260609104328 +0000" stop="20260609111128 +0000">
+        <title>I Dream Of Jeannie</title>
+        <desc>Jeannie prueba un método para convertir las cosas en porcelana.</desc>
+        <icon src="https://images.pluto.tv/series/5e6a5206725522001445f0a9/tile_1768768926840.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ffc086a530e036bc8f0305" start="20260609111128 +0000" stop="20260609140000 +0000">
         <title>Mi Bella Genio</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68ffc086a530e036bc8f0305/featuredImage_1765303255598.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38282,7 +38452,12 @@ Chris "Señor Plástico"</desc>
         <desc>Seth se entera de que a su esposa le gustan con más calle. Rena descubre que el amigo de su novio es amiga.</desc>
         <icon src="https://images.pluto.tv/series/64d1329b8a0f7100137995b9/tile_1769550490468.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="698a45156dc3c71eb1ba6599" start="20260609102631 +0000" stop="20260609140000 +0000">
+    <programme channel="698a45156dc3c71eb1ba6599" start="20260609102631 +0000" stop="20260609111731 +0000">
+        <title>Cheaters</title>
+        <desc>Ethan descubre a su novia tarareando con otro. Jennifer se encuentra a su concubino en un sex-shop con otra.</desc>
+        <icon src="https://images.pluto.tv/series/64d1329b8a0f7100137995b9/tile_1769550490468.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="698a45156dc3c71eb1ba6599" start="20260609111731 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Amor y Mentiras</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/featuredImage_1771861302997.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38292,7 +38467,12 @@ Chris "Señor Plástico"</desc>
         <desc>Telefónicamente, Desireé participa a Carlota que ya consiguió a la persona para el trabajo, pero le recuerda que ella debe pagar.</desc>
         <icon src="https://images.pluto.tv/series/650db5cc4827fc001a7d6e2f/tile_1769463764572.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699762a0172a5c3296892d92" start="20260609104952 +0000" stop="20260609140000 +0000">
+    <programme channel="699762a0172a5c3296892d92" start="20260609104952 +0000" stop="20260609114152 +0000">
+        <title>Juana La Virgen</title>
+        <desc>Mauricio confiesa a la joven Pérez que necesita sentir sus labios de nuevo. Firme, la chica le sugiere no volverse a ver más. Así, podrán controlar lo que sienten. No obstante, promete avisarle cuando nazca el niño.</desc>
+        <icon src="https://images.pluto.tv/series/650db5cc4827fc001a7d6e2f/tile_1769463764572.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699762a0172a5c3296892d92" start="20260609114152 +0000" stop="20260609140000 +0000">
         <title>Juana La Virgen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/699762a0172a5c3296892d92/featuredImage_1774563132979.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38302,7 +38482,12 @@ Chris "Señor Plástico"</desc>
         <desc>Olimpia, llena de celos porque Tza Tza va a casarse con Josema,  se ensaña dándole golpes a la mujer.</desc>
         <icon src="https://images.pluto.tv/series/6512da14e2a2d8001a6bf007/tile_1769463764528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699763787cfe0ffadadd106f" start="20260609102505 +0000" stop="20260609140000 +0000">
+    <programme channel="699763787cfe0ffadadd106f" start="20260609102505 +0000" stop="20260609111805 +0000">
+        <title>Mi Gorda Bella</title>
+        <desc>Josema se da cuenta de que Olimpia sabe dónde está Tza Tza cuando a la cruel  mujer se le escapa la mención del futuro matrimonio de ellos. Furioso la acorrala exigiendo que le diga dónde está la mujer.</desc>
+        <icon src="https://images.pluto.tv/series/6512da14e2a2d8001a6bf007/tile_1769463764528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699763787cfe0ffadadd106f" start="20260609111805 +0000" stop="20260609140000 +0000">
         <title>Mi Gorda Bella</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/699763787cfe0ffadadd106f/featuredImage_1774993772357.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38312,7 +38497,12 @@ Chris "Señor Plástico"</desc>
         <desc>Historias intensas y realistas sobre problemas sociales, corrupción y abuso de poder. Una Serie llena de suspenso, drama y reflexión, donde personas comunes enfrentan situaciones extremas y buscan justicia.</desc>
         <icon src="https://images.pluto.tv/series/69c619cb1f1accd54926d11d/tile_1774590453461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699769fa19ac123965833fd3" start="20260609110000 +0000" stop="20260609140000 +0000">
+    <programme channel="699769fa19ac123965833fd3" start="20260609110000 +0000" stop="20260609120000 +0000">
+        <title>Cuando los Ángeles Caen</title>
+        <desc>Historias intensas y realistas sobre problemas sociales, corrupción y abuso de poder. Una Serie llena de suspenso, drama y reflexión, donde personas comunes enfrentan situaciones extremas y buscan justicia.</desc>
+        <icon src="https://images.pluto.tv/series/69c619cb1f1accd54926d11d/tile_1774590453461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699769fa19ac123965833fd3" start="20260609120000 +0000" stop="20260609140000 +0000">
         <title>Cuando los Ángeles Caen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/699769fa19ac123965833fd3/featuredImage_1773786938217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39077,7 +39267,17 @@ Chris "Señor Plástico"</desc>
         <desc>Sumérjase en una aventura divertida para descubrir los secretos de los mejores postres.</desc>
         <icon src="https://images.pluto.tv/series/60b78121ab1ee2001ad34540/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde0657444a40009cd2422" start="20260609101906 +0000" stop="20260609140000 +0000">
+    <programme channel="5dcde0657444a40009cd2422" start="20260609101906 +0000" stop="20260609104806 +0000">
+        <title>Dulce Compañía</title>
+        <desc>Sumérjase en una aventura divertida para descubrir los secretos de los mejores postres.</desc>
+        <icon src="https://images.pluto.tv/series/60b78121ab1ee2001ad34540/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde0657444a40009cd2422" start="20260609104806 +0000" stop="20260609111806 +0000">
+        <title>Dulce Compañía</title>
+        <desc>Sumérjase en una aventura divertida para descubrir los secretos de los mejores postres.</desc>
+        <icon src="https://images.pluto.tv/series/60b78121ab1ee2001ad34540/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde0657444a40009cd2422" start="20260609111806 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Estilo de Vida</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage_1778796418783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39087,7 +39287,22 @@ Chris "Señor Plástico"</desc>
         <desc>Sasuke y su equipo se dirigen al escondite del norte para reclutar a su próximo miembro, Jugo.</desc>
         <icon src="https://images.pluto.tv/series/69f0f43b8f919a54cfebf256/tile_1777398844276.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde17bf6591d0009839e02" start="20260609100300 +0000" stop="20260609140000 +0000">
+    <programme channel="5dcde17bf6591d0009839e02" start="20260609100300 +0000" stop="20260609103100 +0000">
+        <title>Naruto Shippuden</title>
+        <desc>Sasuke llega a la celda de Jugo. Pero Jugo se niega a ser liberado.</desc>
+        <icon src="https://images.pluto.tv/series/69f0f43b8f919a54cfebf256/tile_1777398844276.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde17bf6591d0009839e02" start="20260609103100 +0000" stop="20260609105900 +0000">
+        <title>Naruto Shippuden</title>
+        <desc>El futuro Hokage, Minato Namikaze, asigna a Kakashi, Obito y Rin una misión en el Puente Kannabi.</desc>
+        <icon src="https://images.pluto.tv/series/69f0f43b8f919a54cfebf256/tile_1777398844276.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde17bf6591d0009839e02" start="20260609105900 +0000" stop="20260609112700 +0000">
+        <title>Naruto Shippuden</title>
+        <desc>Obito ignora la orden de Kakashi de continuar con la misión y la abandona para salvar a Rin.</desc>
+        <icon src="https://images.pluto.tv/series/69f0f43b8f919a54cfebf256/tile_1777398844276.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde17bf6591d0009839e02" start="20260609112700 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Anime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39097,7 +39312,17 @@ Chris "Señor Plástico"</desc>
         <desc>El origen de las bromas de cámara oculta más divertidas, más increíbles, más risibles llenas de comedia y carcajadas.  ¡Las mejores bromas del mundo!</desc>
         <icon src="https://images.pluto.tv/series/60300d4df5408c001a500b39/tile_1769194451010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e8397936791b30007ebb5a7" start="20260609102700 +0000" stop="20260609140000 +0000">
+    <programme channel="5e8397936791b30007ebb5a7" start="20260609102700 +0000" stop="20260609105400 +0000">
+        <title>Just Kidding</title>
+        <desc>El origen de las bromas de cámara oculta más divertidas, más increíbles, más risibles llenas de comedia y carcajadas.  ¡Las mejores bromas del mundo!</desc>
+        <icon src="https://images.pluto.tv/series/60300d4df5408c001a500b39/tile_1769194451010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e8397936791b30007ebb5a7" start="20260609105400 +0000" stop="20260609112100 +0000">
+        <title>Just Kidding</title>
+        <desc>El origen de las bromas de cámara oculta más divertidas, más increíbles, más risibles llenas de comedia y carcajadas.  ¡Las mejores bromas del mundo!</desc>
+        <icon src="https://images.pluto.tv/series/60300d4df5408c001a500b39/tile_1769194451010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e8397936791b30007ebb5a7" start="20260609112100 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Humor</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39107,7 +39332,17 @@ Chris "Señor Plástico"</desc>
         <desc>Golden Retriever's are the third most popular dog breed in America.</desc>
         <icon src="https://images.pluto.tv/series/68dabb73a44f8dcccd054096/tile_1759165300758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ebacbcae43a6d000787b88e" start="20260609100400 +0000" stop="20260609140000 +0000">
+    <programme channel="5ebacbcae43a6d000787b88e" start="20260609100400 +0000" stop="20260609103500 +0000">
+        <title>Countdown: The Funniest Pets</title>
+        <desc>The collection includes a peacock, a baby goat riding on another animal and several turkeys.</desc>
+        <icon src="https://images.pluto.tv/series/68dabb77a44f8dcccd0546cc/tile_1759165314369.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebacbcae43a6d000787b88e" start="20260609103500 +0000" stop="20260609110700 +0000">
+        <title>We Heart Animals</title>
+        <desc>They roll their way straight into viewers' hearts.</desc>
+        <icon src="https://images.pluto.tv/series/68dabb73a44f8dcccd054197/tile_1759165302771.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebacbcae43a6d000787b88e" start="20260609110700 +0000" stop="20260609140000 +0000">
         <title>The Pet Collective</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39117,7 +39352,17 @@ Chris "Señor Plástico"</desc>
         <desc>Playlist includes "Making Memories of Us," "Tread Carefully" and "Should've Said No."</desc>
         <icon src="https://images.pluto.tv/series/68daa695f1f80c81512b6731/tile_1759181097684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ebaccf1734aaf0007142c86" start="20260609102400 +0000" stop="20260609140000 +0000">
+    <programme channel="5ebaccf1734aaf0007142c86" start="20260609102400 +0000" stop="20260609105600 +0000">
+        <title>FailArmy Playlist</title>
+        <desc>Hits on the playlist include "Trophy Wife," "Waves of Fear" and "Sugar and Spice."</desc>
+        <icon src="https://images.pluto.tv/series/68daa695f1f80c81512b6731/tile_1759181097684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebaccf1734aaf0007142c86" start="20260609105600 +0000" stop="20260609112800 +0000">
+        <title>FailArmy Playlist</title>
+        <desc>Hits on the playlist include "Free Fallin'," "Balloon Mood" and "Sad Café."</desc>
+        <icon src="https://images.pluto.tv/series/68daa695f1f80c81512b6731/tile_1759181097684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebaccf1734aaf0007142c86" start="20260609112800 +0000" stop="20260609140000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39127,7 +39372,17 @@ Chris "Señor Plástico"</desc>
         <desc>Asumiendo que el equipo de la hoja no podría superar a Jirobo, los demás ninjas del sonido no se molestan en dejar trampas por el camino.</desc>
         <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ee92e72fb286e0007285fec" start="20260609102200 +0000" stop="20260609140000 +0000">
+    <programme channel="5ee92e72fb286e0007285fec" start="20260609102200 +0000" stop="20260609105200 +0000">
+        <title>Naruto: Visión De 360 Grados: El Punto Ciego Del Byakugan</title>
+        <desc>Neji se enfrenta a Kidomaru mientras los demás continúan con su persecución de Sasuke y el resto de los ninjas del sonido.</desc>
+        <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ee92e72fb286e0007285fec" start="20260609105200 +0000" stop="20260609112200 +0000">
+        <title>Naruto: Perder No Es Una Opción</title>
+        <desc>Kidomaru cambia de táctica y crea un arco y flecha para atacar el punto ciego de Neji.</desc>
+        <icon src="https://images.pluto.tv/series/5e73b850e40c9f001a0a9fb4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ee92e72fb286e0007285fec" start="20260609112200 +0000" stop="20260609140000 +0000">
         <title>Naruto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39137,7 +39392,17 @@ Chris "Señor Plástico"</desc>
         <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
         <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f998c1fc54853000797bacd" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="5f998c1fc54853000797bacd" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>Tastemade</title>
+        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
+        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f998c1fc54853000797bacd" start="20260609110000 +0000" stop="20260609113000 +0000">
+        <title>Tastemade</title>
+        <desc>Los amantes de la buena vida tienen su señal: 24 hs del día con los mejores shows de comida, viajes y diseño.</desc>
+        <icon src="https://images.pluto.tv/series/5fd0e2ac1f2abf0007e47a30/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f998c1fc54853000797bacd" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>Tastemade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/featuredImage_1730999717463.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39147,7 +39412,17 @@ Chris "Señor Plástico"</desc>
         <desc>Mark se mete en problemas cuando se decide a ayudar a Leonard con unos inconvenientes.</desc>
         <icon src="https://images.pluto.tv/series/5e4f203fc105e9390ea4f683/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ffcc21a432945000762d06b" start="20260609101500 +0000" stop="20260609140000 +0000">
+    <programme channel="5ffcc21a432945000762d06b" start="20260609101500 +0000" stop="20260609104000 +0000">
+        <title>Ugly Americans</title>
+        <desc>Twayne es forzado a enfrentar duras consecuencias por haber vendido su alma a políticos locales.</desc>
+        <icon src="https://images.pluto.tv/series/5e4f203fc105e9390ea4f683/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffcc21a432945000762d06b" start="20260609104000 +0000" stop="20260609110500 +0000">
+        <title>Ugly Americans</title>
+        <desc>Mark y Randall acompañan a Callie en un viaje al infierno con motivo de Halloween.</desc>
+        <icon src="https://images.pluto.tv/series/5e4f203fc105e9390ea4f683/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffcc21a432945000762d06b" start="20260609110500 +0000" stop="20260609140000 +0000">
         <title>Comedy Central Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/featuredImage_1762352084828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39157,7 +39432,17 @@ Chris "Señor Plástico"</desc>
         <desc>Después de que una rutina de tonsilectomía sale horriblemente mal, Cartman se enfrenta cara a cara con su propia mortalidad.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609ae5cd48d3200007b0a98e" start="20260609101100 +0000" stop="20260609140000 +0000">
+    <programme channel="609ae5cd48d3200007b0a98e" start="20260609101100 +0000" stop="20260609103800 +0000">
+        <title>South Park</title>
+        <desc>Cuando los chicos ayudan a Britney Spears a llegar al Polo Norte, descubren el secreto impactante detrás de su popularidad.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609ae5cd48d3200007b0a98e" start="20260609103800 +0000" stop="20260609110500 +0000">
+        <title>South Park</title>
+        <desc>En el homenaje de South Park a la película "Heavy Metal", los chicos tratan de que Kenny se libre de la última locura por las drogas que ha capturado a la escuela.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609ae5cd48d3200007b0a98e" start="20260609110500 +0000" stop="20260609140000 +0000">
         <title>Comedy Central South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/featuredImage_1767793472241.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39167,7 +39452,22 @@ Chris "Señor Plástico"</desc>
         <desc>Cuando la escuela de Lawndale sufre una crisis económica, la cura puede ser peor que la enfermedad. La locura se produce cuando la señora Li firma un contrato con una compañía de gaseosas.</desc>
         <icon src="https://images.pluto.tv/series/5e20986b370805f4c87911aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62d0895ebe7a970008785244" start="20260609100500 +0000" stop="20260609140000 +0000">
+    <programme channel="62d0895ebe7a970008785244" start="20260609100500 +0000" stop="20260609103200 +0000">
+        <title>Daria</title>
+        <desc>Es Lawndale un bonito y pequeño vecindario, o un nexo del mal embrujado por las almas en pena del más allá. Se conocen en este capítulo tres leyendas urbanas de Lawndale.</desc>
+        <icon src="https://images.pluto.tv/series/5e20986b370805f4c87911aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d0895ebe7a970008785244" start="20260609103200 +0000" stop="20260609105900 +0000">
+        <title>Daria</title>
+        <desc>Los estudiantes de la preparatoria de Lawndale hacen un viaje de excursión a un campamento militar para aprender sobre historia, psicología y dispararle a la gente.</desc>
+        <icon src="https://images.pluto.tv/series/5e20986b370805f4c87911aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d0895ebe7a970008785244" start="20260609105900 +0000" stop="20260609112600 +0000">
+        <title>Daria</title>
+        <desc>Un ensayo de Daria es enviado sin su permiso a la editora de una revista adolescente, y al ser ganador la propia editora se presenta en la casa de Daria y la sigue a todos lados.</desc>
+        <icon src="https://images.pluto.tv/series/5e20986b370805f4c87911aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d0895ebe7a970008785244" start="20260609112600 +0000" stop="20260609140000 +0000">
         <title>Daria</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62d0895ebe7a970008785244/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39177,7 +39477,22 @@ Chris "Señor Plástico"</desc>
         <desc>Gaspar y el Abuelo sufren un accidente en el desayuno que les trae muchos problemas. Mientras Jonathan necesita el apoyo de su familia para una presentación en la escuela.</desc>
         <icon src="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62d08af527ce19000731eaa0" start="20260609100400 +0000" stop="20260609140000 +0000">
+    <programme channel="62d08af527ce19000731eaa0" start="20260609100400 +0000" stop="20260609103200 +0000">
+        <title>La Familia del Barrio</title>
+        <desc>Este capitulo completo es una sátira de la típica historia de telenovelas que ha puesto a México en el mapa como su exponente más fuerte, sin reflejar necesariamente algún estándar de calidad.</desc>
+        <icon src="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d08af527ce19000731eaa0" start="20260609103200 +0000" stop="20260609105900 +0000">
+        <title>La Familia del Barrio</title>
+        <desc>Una aparición religiosa se manifiesta en el baño del departamento y poco tardan el noruego y el abuelo en encontrarle una ventaja a esta situación.</desc>
+        <icon src="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d08af527ce19000731eaa0" start="20260609105900 +0000" stop="20260609112600 +0000">
+        <title>La Familia del Barrio</title>
+        <desc>El Noruego no cumple con sus responsabilidades con la casa por lo que es expulsado por Gaspar. El Noruego se embarca en una travesía sin saber que lleva un ángel guardián. Segunda parte.</desc>
+        <icon src="https://images.pluto.tv/series/5f1756eb6ebd4d0013287f74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62d08af527ce19000731eaa0" start="20260609112600 +0000" stop="20260609140000 +0000">
         <title>La Familia del Barrio</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39197,7 +39512,12 @@ Chris "Señor Plástico"</desc>
         <desc>Azteca Internacional es un canal con cobertura en toda Latinoamérica y el resto del mundo. Ofreciendo el mejor entretenimiento, noticias, telenovelas y series nuevas para toda la familia.</desc>
         <icon src="https://images.pluto.tv/series/652ebc0e8f5c430008917e1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="646cce4d1593940008a33f09" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="646cce4d1593940008a33f09" start="20260609103000 +0000" stop="20260609114500 +0000">
+        <title>Rutas de la vida</title>
+        <desc>Azteca Internacional es un canal con cobertura en toda Latinoamérica y el resto del mundo. Ofreciendo el mejor entretenimiento, noticias, telenovelas y series nuevas para toda la familia.</desc>
+        <icon src="https://images.pluto.tv/series/652ebc0e8f5c430008917e1d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="646cce4d1593940008a33f09" start="20260609114500 +0000" stop="20260609140000 +0000">
         <title>Azteca Internacional</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/646cce4d1593940008a33f09/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39207,7 +39527,17 @@ Chris "Señor Plástico"</desc>
         <desc>Mike Holmes arregla el trabajo malo de un albañil en un sótano.</desc>
         <icon src="https://images.pluto.tv/series/6591890908d0ab00139c12f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64fb1f6e6625510008c00848" start="20260609101400 +0000" stop="20260609140000 +0000">
+    <programme channel="64fb1f6e6625510008c00848" start="20260609101400 +0000" stop="20260609104000 +0000">
+        <title>Holmes en tu hogar</title>
+        <desc>Construyendo una bella y fuerte terraza de dos niveles.</desc>
+        <icon src="https://images.pluto.tv/series/6591890908d0ab00139c12f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64fb1f6e6625510008c00848" start="20260609104000 +0000" stop="20260609110600 +0000">
+        <title>Holmes en tu hogar</title>
+        <desc>Un contratista deja una escalera peligrosa y de mala calidad, así que Debbie y Ross llaman a Mike Holmes para que les construya una escalera al cielo.</desc>
+        <icon src="https://images.pluto.tv/series/6591890908d0ab00139c12f2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64fb1f6e6625510008c00848" start="20260609110600 +0000" stop="20260609140000 +0000">
         <title>Homeful</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64fb1f6e6625510008c00848/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39217,7 +39547,17 @@ Chris "Señor Plástico"</desc>
         <desc>Un espacio de noticias y entretenimiento, con un estilo fresco y único.</desc>
         <icon src="https://images.pluto.tv/series/65d5fb0eea323e00130bb169/tile_1777759654458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652e91fd6208700008dcaf7b" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="652e91fd6208700008dcaf7b" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>Mensaje de la felicidad</title>
+        <desc>Canal 6 CdMx, el espacio televisivo donde convergen la información precisa, el mejor entretenimiento y los programas más interesantes. Música, entrevistas, información y chimentos conviven en un solo lugar.</desc>
+        <icon src="https://images.pluto.tv/series/65d5fb17ea323e00130bc043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652e91fd6208700008dcaf7b" start="20260609110000 +0000" stop="20260609120000 +0000">
+        <title>Telediario express</title>
+        <desc>La información más destacada en el ámbito nacional e internacional.</desc>
+        <icon src="https://images.pluto.tv/series/65d5fb0dea323e00130bb0c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652e91fd6208700008dcaf7b" start="20260609120000 +0000" stop="20260609140000 +0000">
         <title>Canal 6 CdMX</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39227,7 +39567,17 @@ Chris "Señor Plástico"</desc>
         <desc>¡Parece que el Coon es más nefasto incluso que el Señor Oscuro, Cthulhu! Mientras que el Coon castiga a sus antiguos amigos, Kenny lucha con la maldición de su súper poderes a través de su alter ego, Mysterion.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df7272ec9fda0008b7a970" start="20260609102400 +0000" stop="20260609140000 +0000">
+    <programme channel="65df7272ec9fda0008b7a970" start="20260609102400 +0000" stop="20260609105100 +0000">
+        <title>South Park</title>
+        <desc>Cartman decide entrar en el negocio de la venta de fetos abortados. Por otro lado, Kenny contrae una enfermedad muscular mortal.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df7272ec9fda0008b7a970" start="20260609105100 +0000" stop="20260609111800 +0000">
+        <title>South Park</title>
+        <desc>La verdadera identidad de Mysterions es revelada. Mientras tanto, el Coon, despreciado por sus compañeros súper héroes, está en busca de venganza, y logra convencer a Cthulu para ser compañeros de equipo.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df7272ec9fda0008b7a970" start="20260609111800 +0000" stop="20260609140000 +0000">
         <title>South Park: Colección Kenny</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39237,7 +39587,17 @@ Chris "Señor Plástico"</desc>
         <desc>Cartman encuentra una manera única de tratar con el síndrome de Asperger. Mientras tanto, Stan no parece recuperar su vida a la normalidad, no importa cuánto se esfuerce.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df72db18036500081a8292" start="20260609101200 +0000" stop="20260609140000 +0000">
+    <programme channel="65df72db18036500081a8292" start="20260609101200 +0000" stop="20260609103900 +0000">
+        <title>South Park</title>
+        <desc>Stan tiene un nuevo perro llamado Sparky que resulta ser gay, por lo que todos sus compañeros se burlan de él. Cuando Sparky se va de casa, Stan lo busca en el Santuario de Animales del Gran Gay Al y aprende algo sobre la homosexualidad.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df72db18036500081a8292" start="20260609103900 +0000" stop="20260609110600 +0000">
+        <title>South Park</title>
+        <desc>El abuelo de Stan cumple 102 años y quiere suicidarse, pero al no poder hacerlo, le pide a Stan que lo ayude.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df72db18036500081a8292" start="20260609110600 +0000" stop="20260609140000 +0000">
         <title>South Park: Colección Stan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df72db18036500081a8292/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39247,7 +39607,17 @@ Chris "Señor Plástico"</desc>
         <desc>Al ver a un chico con el síndrome de Tourette en una juguetería, Cartman se obsesiona con el tema y se percata de que puede decir lo que quiera sin consecuencias, por lo que se aprovecha de eso.</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df731cec9fda0008b7aa8d" start="20260609101600 +0000" stop="20260609140000 +0000">
+    <programme channel="65df731cec9fda0008b7aa8d" start="20260609101600 +0000" stop="20260609104300 +0000">
+        <title>South Park</title>
+        <desc>South Park es invadido por hippies y Cartman trata de eliminarlos, tratándolos como si fueran una plaga. Mientras tanto, los hippies les están "lavando el cerebro" a Kyle, Stan y Kenny. Cartman es ahora la única esperanza.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df731cec9fda0008b7aa8d" start="20260609104300 +0000" stop="20260609111000 +0000">
+        <title>South Park</title>
+        <desc>Cartman se infiltra en la Agencia de Seguridad Nacional porque cree que lo están espiando, y no le gusta lo que encuentra en su expediente personal.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df731cec9fda0008b7aa8d" start="20260609111000 +0000" stop="20260609140000 +0000">
         <title>South Park: Colección Cartman</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39257,7 +39627,17 @@ Chris "Señor Plástico"</desc>
         <desc>En "Imaginaciónlandia", Stan y Butters luchan contra un ejército de fuerzas imaginarias. La Suprema Corte declara que las criaturas imaginarias no son reales y planean destruir "Imaginaciónlandia".</desc>
         <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df73520d4561000817c29b" start="20260609101700 +0000" stop="20260609140000 +0000">
+    <programme channel="65df73520d4561000817c29b" start="20260609101700 +0000" stop="20260609104400 +0000">
+        <title>South Park</title>
+        <desc>La última de las pruebas científicas revela que algunos de los chicos de South Park tiene un problema de adicción al sexo.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df73520d4561000817c29b" start="20260609104400 +0000" stop="20260609111100 +0000">
+        <title>South Park</title>
+        <desc>Kyle firma un contrato con la empresa Apple sin leerlo previamente. Mientras tanto, Cartman enloquece a su mamá porque ésta no le compro un iPad.</desc>
+        <icon src="https://images.pluto.tv/series/60c8f213e301960013db44f8/tile_1777536721671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df73520d4561000817c29b" start="20260609111100 +0000" stop="20260609140000 +0000">
         <title>South Park: Colección Kyle</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df73520d4561000817c29b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39267,7 +39647,17 @@ Chris "Señor Plástico"</desc>
         <desc>Bromas Gags – Just for Laughs</desc>
         <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678029c654f43dad4b5c1ec0" start="20260609101500 +0000" stop="20260609140000 +0000">
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260609101500 +0000" stop="20260609104500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260609104500 +0000" stop="20260609111500 +0000">
+        <title>Bromas Gags – Just for Laughs</title>
+        <desc>Bromas Gags – Just for Laughs</desc>
+        <icon src="https://images.pluto.tv/series/67aeca9bd10c4a43ee9724e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678029c654f43dad4b5c1ec0" start="20260609111500 +0000" stop="20260609140000 +0000">
         <title>Bromas Gags - Just for Laughs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39277,7 +39667,12 @@ Chris "Señor Plástico"</desc>
         <desc>Buenos Aires Conquest con skaters como Aldana Beltrán, Leticia Buffoni, Ángelo Caro y más, patinando por puntos icónicos de la ciudad porteña.</desc>
         <icon src="https://images.pluto.tv/series/684dffcb32c29c353d9b0815/tile_1749942222449.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67813f893886aa863497733d" start="20260609103500 +0000" stop="20260609140000 +0000">
+    <programme channel="67813f893886aa863497733d" start="20260609103500 +0000" stop="20260609122100 +0000">
+        <title>Long Live Chainsaw</title>
+        <desc>La verdadera historia del ascenso, la muerte prematura y el legado duradero de Stevie Smith, leyenda canadiense del ciclismo de montaña de descenso.</desc>
+        <icon src="https://images.pluto.tv/series/67b364f4f77b5e1d233d8e81/tile_1758082311190.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67813f893886aa863497733d" start="20260609122100 +0000" stop="20260609140000 +0000">
         <title>Red Bull TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67813f893886aa863497733d/featuredImage_1773419282944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39287,7 +39682,12 @@ Chris "Señor Plástico"</desc>
         <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
         <icon src="https://images.pluto.tv/series/67acb4a4c070cf00085b52d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67a3b45a21af380008133aa4" start="20260609110000 +0000" stop="20260609140000 +0000">
+    <programme channel="67a3b45a21af380008133aa4" start="20260609110000 +0000" stop="20260609120000 +0000">
+        <title>Real Madrid TV</title>
+        <desc>Real Madrid TV, Canal del Real Madrid CF</desc>
+        <icon src="https://images.pluto.tv/series/67acb4a4c070cf00085b52d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a3b45a21af380008133aa4" start="20260609120000 +0000" stop="20260609140000 +0000">
         <title>Realmadrid TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67a3b45a21af380008133aa4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39297,7 +39697,17 @@ Chris "Señor Plástico"</desc>
         <desc>Todos los goles del Barça en la liga 202526</desc>
         <icon src="https://images.pluto.tv/series/69fb804814a5dfae886f5d69/tile_1780901122213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67a52c8397782f00081879aa" start="20260609101733 +0000" stop="20260609140000 +0000">
+    <programme channel="67a52c8397782f00081879aa" start="20260609101733 +0000" stop="20260609103953 +0000">
+        <title>Inside</title>
+        <desc>Las mejores imagenes de los grandes momentos de la temporada</desc>
+        <icon src="https://images.pluto.tv/series/6a15cef02381ea230ffa35cc/tile_1780901122434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a52c8397782f00081879aa" start="20260609103953 +0000" stop="20260609110258 +0000">
+        <title>Inside</title>
+        <desc>El Barça regresó al nuevo Spotify Camp Nou venciendo al Athletic Club por 4 a 0</desc>
+        <icon src="https://images.pluto.tv/series/6a15cef02381ea230ffa35cc/tile_1780901122434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67a52c8397782f00081879aa" start="20260609110258 +0000" stop="20260609140000 +0000">
         <title>Top Barça</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67a52c8397782f00081879aa/featuredImage_1753987326213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39307,7 +39717,17 @@ Chris "Señor Plástico"</desc>
         <desc>Se conoce la vida, obra, gustos y anécdotas de personalidades de gran renombre en el mundo del deporte y el entretenimiento latinoamericano.</desc>
         <icon src="https://images.pluto.tv/series/68ac6850e5ae05a8904fdc5c/tile_1761523874837.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68224482c5d53e1351aaf2f2" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="68224482c5d53e1351aaf2f2" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>Beyblade: Burst Turbo</title>
+        <desc>Naru tiene un encuentro con el antiguo mentor de su padre. Aiger desafía a De la Hoya a una batalla.</desc>
+        <icon src="https://images.pluto.tv/series/68faddd83fb09016da670788/tile_1761303525566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68224482c5d53e1351aaf2f2" start="20260609110000 +0000" stop="20260609113000 +0000">
+        <title>Beyblade: Burst Turbo</title>
+        <desc>Con la partida de Xavier, solo quedan cuatro Bladers en competición. Mientras tanto, Aiger lucha para obtener el poder de Achilles.</desc>
+        <icon src="https://images.pluto.tv/series/68faddd83fb09016da670788/tile_1761303525566.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68224482c5d53e1351aaf2f2" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>Canal Claro</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/featuredImage_1751655768203.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39327,7 +39747,12 @@ Chris "Señor Plástico"</desc>
         <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
         <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b88712e777774982269ce9" start="20260609110000 +0000" stop="20260609140000 +0000">
+    <programme channel="68b88712e777774982269ce9" start="20260609110000 +0000" stop="20260609120000 +0000">
+        <title>Tastemade Viajes</title>
+        <desc>Tastemade Viajes, es un canal que ofrece 24/7 contenido de viajes, destinos impactantes, gastronomía y cultura de todo el mundo, junto a personalidades como Stanley Tucci y Eva Longoria.</desc>
+        <icon src="https://images.pluto.tv/series/68c34b3f00a2f063fd8bcb05/tile_1757629248993.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b88712e777774982269ce9" start="20260609120000 +0000" stop="20260609140000 +0000">
         <title>Tastemade Viajes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b88712e777774982269ce9/featuredImage_1759784098205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39337,7 +39762,12 @@ Chris "Señor Plástico"</desc>
         <desc>TBC</desc>
         <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b887c2e77777498226a0de" start="20260609110000 +0000" stop="20260609140000 +0000">
+    <programme channel="68b887c2e77777498226a0de" start="20260609110000 +0000" stop="20260609120000 +0000">
+        <title>Tastemade Hogar</title>
+        <desc>TBC</desc>
+        <icon src="https://images.pluto.tv/series/68c356886bdcf3b9a6a505de/tile_1757632138294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b887c2e77777498226a0de" start="20260609120000 +0000" stop="20260609140000 +0000">
         <title>Tastemade Hogar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b887c2e77777498226a0de/featuredImage_1759784259408.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39347,7 +39777,12 @@ Chris "Señor Plástico"</desc>
         <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
         <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68ba0910e1d03fec7d5c084f" start="20260609102818 +0000" stop="20260609140000 +0000">
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260609102818 +0000" stop="20260609112818 +0000">
+        <title>Al Ritmo del Jaripeo</title>
+        <desc>El poder de la música regional Mexicana y la adrenalina del jaripeo, con la monta de toros al estilo autentico mexicano.</desc>
+        <icon src="https://images.pluto.tv/series/6903c270a530e036bcb72901/tile_1761854065243.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ba0910e1d03fec7d5c084f" start="20260609112818 +0000" stop="20260609140000 +0000">
         <title>Al Ritmo del Jaripeo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/featuredImage_1760471497960.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39357,7 +39792,22 @@ Chris "Señor Plástico"</desc>
         <desc>¡Trágame tierra! Este episodio está dedicado a los momentos vergonzosos de los que ni tú te libras.  No sufras y mejor ríe con estos cinco sketches que traemos para ti. Dale play.</desc>
         <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699763d184235f26d5056002" start="20260609100753 +0000" stop="20260609140000 +0000">
+    <programme channel="699763d184235f26d5056002" start="20260609100753 +0000" stop="20260609103253 +0000">
+        <title>Enchufe.TV</title>
+        <desc>Crecer es peor que estornudar en tu periodo. De niño seguramente soñabas con crecer, pero para tu sorpresa, ahora solo sales al trabajo y al banco. En este episodio te traemos 6 sketches para que te desquites de las penas de la vida adulta. Dale play.</desc>
+        <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699763d184235f26d5056002" start="20260609103253 +0000" stop="20260609105753 +0000">
+        <title>Enchufe.TV</title>
+        <desc>Si los superhéroes hubieran sido creados en Latinoamérica, tendrían verdaderos talentos como bajarse del bus al vuelo, esquivar chanclas de mamá y un sueño profundo inmune al camión de la chatarra.  Dale play a este nuevo episodio.</desc>
+        <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699763d184235f26d5056002" start="20260609105753 +0000" stop="20260609112253 +0000">
+        <title>Enchufe.TV</title>
+        <desc>Tal vez es momento de admitir que sí le robaste a tu mamá 5 dólares para comprarte una salchipapa,  o que esas revistas inapropiadas que encontraron en tu casillero sí son tuyas. Tranquilo, no eres el único con secretos que contar. Dale play al episodio.</desc>
+        <icon src="https://images.pluto.tv/series/609440ae41fc480013268805/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699763d184235f26d5056002" start="20260609112253 +0000" stop="20260609140000 +0000">
         <title>Enchufe.TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/699763d184235f26d5056002/featuredImage_1773231206751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39367,7 +39817,17 @@ Chris "Señor Plástico"</desc>
         <desc>A Caillou le asustan los truenos, pero papá le enseña que contando el tiempo entre los truenos y los rayos sabrá cuando la tormenta esté por disiparse.</desc>
         <icon src="https://images.pluto.tv/series/5e6b8d45637ed5001a7905f6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde2ac4bc6c500094ab45b" start="20260609100956 +0000" stop="20260609140000 +0000">
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20260609100956 +0000" stop="20260609103756 +0000">
+        <title>Caillou</title>
+        <desc>Caillou intenta ser el fotógrafo de la familia pero descubre que puede ser muy difícil. // Caillou y Leo no logran encontrar el avión de Caillou.</desc>
+        <icon src="https://images.pluto.tv/series/5e6b8d45637ed5001a7905f6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20260609103756 +0000" stop="20260609110556 +0000">
+        <title>Caillou</title>
+        <desc>Caillou visita a la abuela y juntos hacen títeres de payaso y montan su propio teatro. // Mamá lleva a Caillou a la biblioteca por primera vez.</desc>
+        <icon src="https://images.pluto.tv/series/5e6b8d45637ed5001a7905f6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20260609110556 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39377,7 +39837,12 @@ Chris "Señor Plástico"</desc>
         <desc>Personajes heroicos, canciones memorables y emocionantes hazañas en la brillante animación de esta historia en el antiguo Egipto. Moisés, criado como hijo del faraón, descubre su verdadera identidad y destino.</desc>
         <icon src="https://images.pluto.tv/series/66cdff084d30430013f0407d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dd6dae8ce788b0009eaf77b" start="20260609103135 +0000" stop="20260609140000 +0000">
+    <programme channel="5dd6dae8ce788b0009eaf77b" start="20260609103135 +0000" stop="20260609112835 +0000">
+        <title>Tarzan</title>
+        <desc>Sumérgete en la mayor aventura en la jungla con acción y animación espectacular. Náufrago en África, un niño huérfano es rescatado por simios gigantes y se convierte en su rey. Con deslumbrantes canciones, cautiva a toda la familia</desc>
+        <icon src="https://images.pluto.tv/series/66cdff104d30430013f04353/tile_1769534281736.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6dae8ce788b0009eaf77b" start="20260609112835 +0000" stop="20260609140000 +0000">
         <title>Pluto TV Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39387,7 +39852,17 @@ Chris "Señor Plástico"</desc>
         <desc>Bienvenido a Nick Jr Club donde los más pequeños encontrarán a sus amigos favoritos. Desde clásicos como Pistas de Blue, Mascotas Maravillas, Ni Hao Kailan y muchos éxitos más. Todo en los shows de Nick Jr Club.</desc>
         <icon src="https://images.pluto.tv/series/680b7b3556ff83bcd672d28f/tile_1745582905671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20260609101900 +0000" stop="20260609140000 +0000">
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20260609101900 +0000" stop="20260609104900 +0000">
+        <title>Nick Jr. Club</title>
+        <desc>Bienvenido a Nick Jr Club donde los más pequeños encontrarán a sus amigos favoritos. Desde clásicos como Pistas de Blue, Mascotas Maravillas, Ni Hao Kailan y muchos éxitos más. Todo en los shows de Nick Jr Club.</desc>
+        <icon src="https://images.pluto.tv/series/680b7b3556ff83bcd672d28f/tile_1745582905671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20260609104900 +0000" stop="20260609111900 +0000">
+        <title>Nick Jr. Club</title>
+        <desc>Bienvenido a Nick Jr Club donde los más pequeños encontrarán a sus amigos favoritos. Desde clásicos como Pistas de Blue, Mascotas Maravillas, Ni Hao Kailan y muchos éxitos más. Todo en los shows de Nick Jr Club.</desc>
+        <icon src="https://images.pluto.tv/series/680b7b3556ff83bcd672d28f/tile_1745582905671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20260609111900 +0000" stop="20260609140000 +0000">
         <title>Nick Jr. Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage_1748446520796.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39397,7 +39872,17 @@ Chris "Señor Plástico"</desc>
         <desc>Carlitos está cansado de que la gente bromee con su pelo colorado, y le pide a Tommy que se lo tiña negro con la tintura del Abuelo. / Cuando Firulais se pierde, Hugo trata de reemplazarlo con una serie nueva de juguetes.</desc>
         <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile_1769212082642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ea7215005d66d0007e8128a" start="20260609102200 +0000" stop="20260609140000 +0000">
+    <programme channel="5ea7215005d66d0007e8128a" start="20260609102200 +0000" stop="20260609105100 +0000">
+        <title>Rugrats</title>
+        <desc>Angélica convence a los bebés de que Carlitos es un extraterrestre. / Después de que Chas le habla a Carlitos sobre los gérmenes, Carlitos tiene temor de tocar cosas por miedo a tener contacto con gérmenes.</desc>
+        <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile_1769212082642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ea7215005d66d0007e8128a" start="20260609105100 +0000" stop="20260609112000 +0000">
+        <title>Rugrats</title>
+        <desc>Carlota anuncia que está embarazada, y Angélica teme ser olvidada una vez que nazca el bebé. / Los Rugrats se imaginan que son héroes para recuperar los muñecos de su programa de televisión favorito que Angélica les quitó.</desc>
+        <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile_1769212082642.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ea7215005d66d0007e8128a" start="20260609112000 +0000" stop="20260609140000 +0000">
         <title>Rugrats</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39407,7 +39892,12 @@ Chris "Señor Plástico"</desc>
         <desc>Clase de Bebé introduce a sus pequeños a nuevas palabras, números, figuras y otras bases preescolares con algunos de mejores amigos de BabyFirst, como Al, Harry, Fred y Fiona.</desc>
         <icon src="https://images.pluto.tv/series/5f282699aed833001aab3c0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ebac49ce4dc8b00078b23bc" start="20260609103200 +0000" stop="20260609140000 +0000">
+    <programme channel="5ebac49ce4dc8b00078b23bc" start="20260609103200 +0000" stop="20260609110700 +0000">
+        <title>Lo Mejor de BabyFirst</title>
+        <desc>La pandilla BabyFirst ha vuelto a inspirar a su pequeño. Aprenda sobre un jugador de Baseball con Harry y Larry, explore un banjo con GooGoo y GaaGaa y mucho más!</desc>
+        <icon src="https://images.pluto.tv/series/5f296bd4e5aa33001afd6df7/tile_1768771802944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebac49ce4dc8b00078b23bc" start="20260609110700 +0000" stop="20260609140000 +0000">
         <title>Babyfirst</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39417,7 +39907,17 @@ Chris "Señor Plástico"</desc>
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile_1769543281753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f4d3d06fb60d8000781fce8" start="20260609100500 +0000" stop="20260609140000 +0000">
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20260609100500 +0000" stop="20260609103500 +0000">
+        <title>El Reino Infantil - Rebrand LT</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile_1769543281753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20260609103500 +0000" stop="20260609110500 +0000">
+        <title>El Reino Infantil - Rebrand LT</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile_1769543281753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20260609110500 +0000" stop="20260609140000 +0000">
         <title>El Reino Infantil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39427,7 +39927,17 @@ Chris "Señor Plástico"</desc>
         <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
         <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fab09a8749b1a00077d35d2" start="20260609101445 +0000" stop="20260609140000 +0000">
+    <programme channel="5fab09a8749b1a00077d35d2" start="20260609101445 +0000" stop="20260609104445 +0000">
+        <title>Nickelodeon Teen</title>
+        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
+        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab09a8749b1a00077d35d2" start="20260609104445 +0000" stop="20260609111445 +0000">
+        <title>Nickelodeon Teen</title>
+        <desc>Nick Teen es el canal ideal para jóvenes, donde pueden pasar el rato. Disfruta de tus series favoritas como Clarissa Lo Explica Todo y True Jackson, entre muchas más. Mira este canal las 24 hs. y no te aburrirás nunca.</desc>
+        <icon src="https://images.pluto.tv/series/68246ff11c94b0d8d4056272/tile_1779834547898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fab09a8749b1a00077d35d2" start="20260609111445 +0000" stop="20260609140000 +0000">
         <title>Nickelodeon Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/featuredImage_1749640836366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39437,7 +39947,17 @@ Chris "Señor Plástico"</desc>
         <desc>Chris se va de vacaciones y deja a Kenan y Kel a cargo de su casa por unos días. Parece que todo está bajo control, sin embargo las cosas empiezan a ir terriblemente mal ¡cuando se olvidan de cuidar la casa!</desc>
         <icon src="https://images.pluto.tv/series/5eff42e91bfe8e001a9a5460/tile_1768770360980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fcea93ffcf94500071c4b2f" start="20260609100200 +0000" stop="20260609140000 +0000">
+    <programme channel="5fcea93ffcf94500071c4b2f" start="20260609100200 +0000" stop="20260609103200 +0000">
+        <title>Kenan y Kel</title>
+        <desc>Kenan se convierte en un héroe cuando captura a un peligroso criminal en la tienda de comestibles Rigby's. Cuando el criminal escapa de la prisión, decide ir a la casa de Kenan para vengarse.</desc>
+        <icon src="https://images.pluto.tv/series/5eff42e91bfe8e001a9a5460/tile_1768770360980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fcea93ffcf94500071c4b2f" start="20260609103200 +0000" stop="20260609110100 +0000">
+        <title>Kenan y Kel</title>
+        <desc>Kenan conoce a una chica rica y alquila una limusina llevarla al restaurante más caro de la ciudad. El problema es que no contaba con que Kel se metiera en el medio para arruinar todo.</desc>
+        <icon src="https://images.pluto.tv/series/5eff42e91bfe8e001a9a5460/tile_1768770360980.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fcea93ffcf94500071c4b2f" start="20260609110100 +0000" stop="20260609140000 +0000">
         <title>Kenan y Kel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39447,7 +39967,17 @@ Chris "Señor Plástico"</desc>
         <desc>Jaden conoce al mejor alumno de la Academia North, Jesse Anderson, un duelista que puede hablar con los espíritus de los monstruos, ¡igual que Jaden!</desc>
         <icon src="https://images.pluto.tv/series/687e46784f8d4a99177053ce/tile_1769630761716.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5fceaab478f2af00080ff51f" start="20260609100300 +0000" stop="20260609140000 +0000">
+    <programme channel="5fceaab478f2af00080ff51f" start="20260609100300 +0000" stop="20260609103300 +0000">
+        <title>Yu-Gi-Oh! GX</title>
+        <desc>El duelo de Jaden contra Jesse continúa mientras conocemos los orígenes de las misteriosas cartas de la Bestia de Cristal de Jesse.</desc>
+        <icon src="https://images.pluto.tv/series/687e46784f8d4a99177053ce/tile_1769630761716.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fceaab478f2af00080ff51f" start="20260609103300 +0000" stop="20260609110300 +0000">
+        <title>Yu-Gi-Oh! GX</title>
+        <desc>Syrus es secuestrado por el nuevo chico malo de la Academia de Duelo, Axel Brodie, y sólo Jaden puede salvarlo... ¡haciendo un duelo con Axel!</desc>
+        <icon src="https://images.pluto.tv/series/687e46784f8d4a99177053ce/tile_1769630761716.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5fceaab478f2af00080ff51f" start="20260609110300 +0000" stop="20260609140000 +0000">
         <title>Yu-Gi-Oh</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39467,7 +39997,17 @@ Chris "Señor Plástico"</desc>
         <desc>El grupo de rufianes que dirige Luffy avanza hacia el palacio. Sin embargo, el gigante Pica lanza un puñetazo sin piedad que obstruye su camino.</desc>
         <icon src="https://images.pluto.tv/series/62a8ce14c4eb8f001407e63d/tile_1769234761175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ff4b9ccf938f8000779eb99" start="20260609100900 +0000" stop="20260609140000 +0000">
+    <programme channel="5ff4b9ccf938f8000779eb99" start="20260609100900 +0000" stop="20260609103800 +0000">
+        <title>One Piece - Dressrosa Saga</title>
+        <desc>Al tiempo que cada una de las batallas empieza a intensificarse, Zoro se enfrenta a Pica, quien usa su cuerpo verdadero. Por otro lado, Law habla sobre los sentimientos que tenía ocultos en su corazón.</desc>
+        <icon src="https://images.pluto.tv/series/62a8ce14c4eb8f001407e63d/tile_1769234761175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff4b9ccf938f8000779eb99" start="20260609103800 +0000" stop="20260609110700 +0000">
+        <title>One Piece - Dressrosa Saga</title>
+        <desc>Luffy se abre paso entre los guardias de Doflamingo de camino al refugio de este, mientras que en la parte baja el Almirante Fujitora se enfrenta a Sabo, que tiene el poder del Puño de Fuego tras haberse comido la Fruta Llama-Llama.</desc>
+        <icon src="https://images.pluto.tv/series/62a8ce14c4eb8f001407e63d/tile_1769234761175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff4b9ccf938f8000779eb99" start="20260609110700 +0000" stop="20260609140000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/featuredImage-1663941434061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39477,7 +40017,17 @@ Chris "Señor Plástico"</desc>
         <desc>Kuuga tuvo algunas dificultades para luchar contra el CNI 23, pero Ichijo lo salvó usando la nueva munición.</desc>
         <icon src="https://images.pluto.tv/series/6745e553a7fde50013c6d26e/tile_1776891611089.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ff608e60e2996000768c366" start="20260609102000 +0000" stop="20260609140000 +0000">
+    <programme channel="5ff608e60e2996000768c366" start="20260609102000 +0000" stop="20260609104800 +0000">
+        <title>Kamen Rider Kuuga</title>
+        <desc>El Departamento de Investigaciones 1 se encontraba en estado de emergencia por la aparición de un OVNI.</desc>
+        <icon src="https://images.pluto.tv/series/6745e553a7fde50013c6d26e/tile_1776891611089.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff608e60e2996000768c366" start="20260609104800 +0000" stop="20260609111600 +0000">
+        <title>Kamen Rider Kuuga</title>
+        <desc>El objeto volador no identificado vuela hacia Kuuga y realiza una fusión con su bicicleta, el TryChaser 2000. Ahora se convierte en TryGouram.</desc>
+        <icon src="https://images.pluto.tv/series/6745e553a7fde50013c6d26e/tile_1776891611089.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ff608e60e2996000768c366" start="20260609111600 +0000" stop="20260609140000 +0000">
         <title>Tokusato</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ff608e60e2996000768c366/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39487,7 +40037,12 @@ Chris "Señor Plástico"</desc>
         <desc>¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga.</desc>
         <icon src="https://images.pluto.tv/series/609d8b003029660007d932ba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6047fabfce6e8e00070bcc9f" start="20260609110000 +0000" stop="20260609140000 +0000">
+    <programme channel="6047fabfce6e8e00070bcc9f" start="20260609110000 +0000" stop="20260609120000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga.</desc>
+        <icon src="https://images.pluto.tv/series/609d8b003029660007d932ba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6047fabfce6e8e00070bcc9f" start="20260609120000 +0000" stop="20260609140000 +0000">
         <title>MTV Biggest Pop</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39497,7 +40052,17 @@ Chris "Señor Plástico"</desc>
         <desc>¡Entrenemos a nuestros niños a usar el baño con la compilación de las canciones de 'Hábitos Saludables de Pinkfong'!</desc>
         <icon src="https://images.pluto.tv/series/641c6100fe0679001af21d59/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="619d5e6a093e7c0007489211" start="20260609102000 +0000" stop="20260609140000 +0000">
+    <programme channel="619d5e6a093e7c0007489211" start="20260609102000 +0000" stop="20260609104900 +0000">
+        <title>Canciones de Pinkfong para niños - Season 1 LATAM</title>
+        <desc>¡Vamos juntos a resolver varios casos con las Súper Patrullas! ¡Vamos, Súper Patrullas!</desc>
+        <icon src="https://images.pluto.tv/series/641c6100fe0679001af21d59/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619d5e6a093e7c0007489211" start="20260609104900 +0000" stop="20260609112100 +0000">
+        <title>Canciones de Pinkfong para niños - Season 1 LATAM</title>
+        <desc>¡Resolvamos nuestra curiosidad con nuestro genio amigo, Hogi!</desc>
+        <icon src="https://images.pluto.tv/series/641c6100fe0679001af21d59/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619d5e6a093e7c0007489211" start="20260609112100 +0000" stop="20260609140000 +0000">
         <title>Baby Shark TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39507,7 +40072,17 @@ Chris "Señor Plástico"</desc>
         <desc>Los chicos de iCarly deciden contratar un pasante para el web show. Carly y Sam contratan un chico que consideran lindo, pero resulta ser más un problema que una solución</desc>
         <icon src="https://images.pluto.tv/series/61a6280c178ebd00137ae300/tile_1769210641547.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="620ff0a01f9e8700076c6f9d" start="20260609102000 +0000" stop="20260609140000 +0000">
+    <programme channel="620ff0a01f9e8700076c6f9d" start="20260609102000 +0000" stop="20260609104900 +0000">
+        <title>iCarly: La Guerra de los Fans - Parte 2</title>
+        <desc>Carly, Sam y Freddie acuden una convención que reúne a celebridades de la internet para reunirse con sus fans. Accidentalmente ellos inician una guerra entre sus fans sobre quiénes terminaran juntos, si Carly y Freddie o Sam y Freddie</desc>
+        <icon src="https://images.pluto.tv/series/61a6280c178ebd00137ae300/tile_1769210641547.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620ff0a01f9e8700076c6f9d" start="20260609104900 +0000" stop="20260609111800 +0000">
+        <title>iCarly: Ay, Por Dios!</title>
+        <desc>Los chicos de iCarly pasan la noche terminando haciendo proyectos de ciencia para el encierro de fin de semestre en Ridgeway. Mientras tanto, Carly y Freddie empiezan a sospechar que Sam quizás este enamorada de su nuevo amigo Brad</desc>
+        <icon src="https://images.pluto.tv/series/61a6280c178ebd00137ae300/tile_1769210641547.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="620ff0a01f9e8700076c6f9d" start="20260609111800 +0000" stop="20260609140000 +0000">
         <title>Nickelodeon iCarly</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39517,7 +40092,12 @@ Chris "Señor Plástico"</desc>
         <desc>Bob Esponja Pantalones Cuadrados</desc>
         <icon src="https://images.pluto.tv/series/67ad2e6e8344dd93339b7e69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6254598f5083f800076d8563" start="20260609110000 +0000" stop="20260609140000 +0000">
+    <programme channel="6254598f5083f800076d8563" start="20260609110000 +0000" stop="20260609120000 +0000">
+        <title>Bob Esponja Pantalones Cuadrados</title>
+        <desc>Bob Esponja Pantalones Cuadrados</desc>
+        <icon src="https://images.pluto.tv/series/67ad2e6e8344dd93339b7e69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6254598f5083f800076d8563" start="20260609120000 +0000" stop="20260609140000 +0000">
         <title>Bob Esponja Pantalones Cuadrados</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6254598f5083f800076d8563/featuredImage_1778796635918.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39527,7 +40107,17 @@ Chris "Señor Plástico"</desc>
         <desc>Light usa el Death Note para tratar de deshacerse de la mujer que podría capturarlo, y se sorprende cuando no funciona. Ella le ha dado un nombre falso. Light solo tiene minutos para averiguar su nombre antes de contar su historia a la policía.</desc>
         <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="626c2ed933a2890007e91422" start="20260609101600 +0000" stop="20260609140000 +0000">
+    <programme channel="626c2ed933a2890007e91422" start="20260609101600 +0000" stop="20260609104400 +0000">
+        <title>Death Note</title>
+        <desc>L insiste en plantar micrófonos y cámaras en los hogares de los miembros del cuerpo especial incluyendo la casa de Yagami, pero como siempre, Light está un paso adelante, sabe que está siendo observado!</desc>
+        <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="626c2ed933a2890007e91422" start="20260609104400 +0000" stop="20260609111400 +0000">
+        <title>Death Note</title>
+        <desc>Los asesinatos continúan y L empieza a sospechar del comportamiento perfecto de Light así que decide investigarlo por su cuenta, para poder alcanzar su meta, L se inscribe a la misma universidad que Light.</desc>
+        <icon src="https://images.pluto.tv/series/5e73a62fb16882001b38dec6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="626c2ed933a2890007e91422" start="20260609111400 +0000" stop="20260609140000 +0000">
         <title>Death Note</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/626c2ed933a2890007e91422/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39537,7 +40127,17 @@ Chris "Señor Plástico"</desc>
         <desc>Timmy le gusta una chica nueva en la escuela.Él desea que él fuera "Emo" y dejar de preocuparse por todo./Timmy y los padrinos tienen que librar su casa de polvo de hadas.El sótano se llena de vida.Mamá y papá van a un spa falso.</desc>
         <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile_1769236201191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6322099c822bbc00074857db" start="20260609101300 +0000" stop="20260609140000 +0000">
+    <programme channel="6322099c822bbc00074857db" start="20260609101300 +0000" stop="20260609104100 +0000">
+        <title>The Fairly Oddparents LT</title>
+        <desc>Papá está deprimido porque todo el mundo piensa que es aburrido. Timmy desea que la vida de Papá sea como una película de acción. / Timmy y sus padres son invitados a un country club. Cosmo pelea con una ardilla.</desc>
+        <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile_1769236201191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6322099c822bbc00074857db" start="20260609104100 +0000" stop="20260609110900 +0000">
+        <title>The Fairly Oddparents LT</title>
+        <desc>Papá se niega a vender a Sparky a su jefe y esto hace que el jefe le haga la vida miserable en el trabajo. Timmy y Sparky traman un plan. / Timmy desea que sus antepasados ​​hubieran eligido diferentes carreras.</desc>
+        <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile_1769236201191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6322099c822bbc00074857db" start="20260609110900 +0000" stop="20260609140000 +0000">
         <title>Los Padrinos Mágicos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6322099c822bbc00074857db/featuredImage_1767810452011.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39547,7 +40147,17 @@ Chris "Señor Plástico"</desc>
         <desc>Criaturas que se alimentan de sueños atrapan a las Tortugas en su propio sueño y Abril y Casey deben buscar la forma de despertarlos.</desc>
         <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile_1769238721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63dd5d7a4e83e700088fbca8" start="20260609102500 +0000" stop="20260609140000 +0000">
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20260609102500 +0000" stop="20260609105200 +0000">
+        <title>Teenage Mutant Ninja Turtles LT</title>
+        <desc>Casey y Donnie se unen cuando construyen un auto entre los dos; pero esta nueva amistad se enfrenta al Demonio Veloz, un auto mutante que aterroriza la carretera.</desc>
+        <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile_1769238721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20260609105200 +0000" stop="20260609111900 +0000">
+        <title>Teenage Mutant Ninja Turtles LT</title>
+        <desc>Casey, Rafa, Maiky y Donnie son capturados por un mutante nuevo y Abril y Leo deben vencer obstáculos para salvarlos.</desc>
+        <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile_1769238721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20260609111900 +0000" stop="20260609140000 +0000">
         <title>Las Tortugas Ninja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/featuredImage_1768926025035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39557,7 +40167,17 @@ Chris "Señor Plástico"</desc>
         <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
         <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645952687cb4b100084ed52e" start="20260609100700 +0000" stop="20260609140000 +0000">
+    <programme channel="645952687cb4b100084ed52e" start="20260609100700 +0000" stop="20260609103700 +0000">
+        <title>Nickelodeon Toons</title>
+        <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+        <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645952687cb4b100084ed52e" start="20260609103700 +0000" stop="20260609110700 +0000">
+        <title>Nickelodeon Toons</title>
+        <desc>¡Ahora puedes tener tardes llenas de  risas junto a toda la familia con tus caricaturas de Nickelodeon favoritas! Ya no tienes que esperar una semana para ver el siguiente episodio. 24/7 de pura diversión con Nickelodeon Pluto TV.</desc>
+        <icon src="https://images.pluto.tv/series/68246a7f1c94b0d8d4044684/tile_1747217024153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645952687cb4b100084ed52e" start="20260609110700 +0000" stop="20260609140000 +0000">
         <title>Nickelodeon Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/645952687cb4b100084ed52e/featuredImage_1755273609270.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39567,7 +40187,17 @@ Chris "Señor Plástico"</desc>
         <desc>En las semifinales del Torneo, los primeros en batirse son Meiwa y Toho. Con Hyuga en el banco, Meiwa saca ventaja, haciendo sufrir a Takeshi Sawada.</desc>
         <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64666345f3f5b1000882bfb4" start="20260609101500 +0000" stop="20260609140000 +0000">
+    <programme channel="64666345f3f5b1000882bfb4" start="20260609101500 +0000" stop="20260609104500 +0000">
+        <title>Captain Tsubasa LATAM</title>
+        <desc>En el último partido de las semifinales, Nankatsu se bate con los de Furano, famosos por su gran trabajo en equipo y su capitán Hikaru Matsuyama.</desc>
+        <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64666345f3f5b1000882bfb4" start="20260609104500 +0000" stop="20260609111400 +0000">
+        <title>Captain Tsubasa LATAM</title>
+        <desc>En el segundo tiempo, Furano empata. Gravemente lesionado, Tsubasa intenta hacer su tiro con efecto una vez más. Matsuyama hará todo por impedirlo.</desc>
+        <icon src="https://images.pluto.tv/series/646bcdf917da09001a32ae02/tile_1769546521026.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64666345f3f5b1000882bfb4" start="20260609111400 +0000" stop="20260609140000 +0000">
         <title>Captain Tsubasa</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39577,7 +40207,17 @@ Chris "Señor Plástico"</desc>
         <desc>Para saber la verdad detrás de la acciones de Hoja, Sasuke decide revivir a Orochimaru.</desc>
         <icon src="https://images.pluto.tv/series/6a0f8d17eda6339c4842f4ad/tile_1779404056091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c92fea3c3344000869e8a9" start="20260609101800 +0000" stop="20260609140000 +0000">
+    <programme channel="64c92fea3c3344000869e8a9" start="20260609101800 +0000" stop="20260609104600 +0000">
+        <title>Naruto Shippuden</title>
+        <desc>La Estatua Gedo comienza a tranformarse en el Diez Colas.</desc>
+        <icon src="https://images.pluto.tv/series/6a0f8d17eda6339c4842f4ad/tile_1779404056091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c92fea3c3344000869e8a9" start="20260609104600 +0000" stop="20260609111400 +0000">
+        <title>Naruto Shippuden</title>
+        <desc>Kakashi descubre que hay una conexión entre el hombre embascarado él.</desc>
+        <icon src="https://images.pluto.tv/series/6a0f8d17eda6339c4842f4ad/tile_1779404056091.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c92fea3c3344000869e8a9" start="20260609111400 +0000" stop="20260609140000 +0000">
         <title>Naruto Shippuden</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39587,7 +40227,22 @@ Chris "Señor Plástico"</desc>
         <desc>La excursión llega a su fin y Boruto y sus amigos se preparan para regresar a la Aldea de la Hoja. Chojuro, el Mizukage, los despide, pero Kagura no está por ningún lado.</desc>
         <icon src="https://images.pluto.tv/series/65240b9f4827fc001a05ae1d/tile_1769464802152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="656f37f257fe4a000884dfee" start="20260609100100 +0000" stop="20260609140000 +0000">
+    <programme channel="656f37f257fe4a000884dfee" start="20260609100100 +0000" stop="20260609103000 +0000">
+        <title>Boruto: Naruto Next Generations</title>
+        <desc>A Inojin le encantaba dibujar desde que era pequeño, y su especialidad de ninjutsu es el pergamino de bestias gigantes. ¡Pero un día, de pronto pierde su habilidad de usar su jutsu!</desc>
+        <icon src="https://images.pluto.tv/series/65240b9f4827fc001a05ae1d/tile_1769464802152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656f37f257fe4a000884dfee" start="20260609103000 +0000" stop="20260609105900 +0000">
+        <title>Boruto: Naruto Next Generations</title>
+        <desc>Boruto y sus compañeros de clase deciden ir a acampar para intentar atrapar el misterioso pez, la carpa eterna, cual se piensa que es inolvidablemente deliciosa.</desc>
+        <icon src="https://images.pluto.tv/series/65240b9f4827fc001a05ae1d/tile_1769464802152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656f37f257fe4a000884dfee" start="20260609105900 +0000" stop="20260609112800 +0000">
+        <title>Boruto: Naruto Next Generations</title>
+        <desc>Mientras los estudiantes se preparan para los finales, Boruto conoce a un periodista llamado Sukea que está haciendo un reportaje sobre ellos.</desc>
+        <icon src="https://images.pluto.tv/series/65240b9f4827fc001a05ae1d/tile_1769464802152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656f37f257fe4a000884dfee" start="20260609112800 +0000" stop="20260609140000 +0000">
         <title>Boruto: Naruto Next Generations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39597,7 +40252,17 @@ Chris "Señor Plástico"</desc>
         <desc>Gon y Killua han conseguido nuevos aliados y se preparan para comenzar la batalla.</desc>
         <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d916a2f7f0af0008b6540d" start="20260609102700 +0000" stop="20260609140000 +0000">
+    <programme channel="65d916a2f7f0af0008b6540d" start="20260609102700 +0000" stop="20260609105600 +0000">
+        <title>Hunter x Hunter LT</title>
+        <desc>Con solo un día más para la selección, Gon, Killua e Ikalgo repasan su estrategia.</desc>
+        <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d916a2f7f0af0008b6540d" start="20260609105600 +0000" stop="20260609112500 +0000">
+        <title>Hunter x Hunter LT</title>
+        <desc>Welfin, una Hormiga Quimera parecida a un lobo, se da cuenta de que alguien se ha infiltrado en el palacio y rastrea a los intrusos.</desc>
+        <icon src="https://images.pluto.tv/series/64c3c440fdd8620013a4224f/tile_1769549762368.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d916a2f7f0af0008b6540d" start="20260609112500 +0000" stop="20260609140000 +0000">
         <title>Hunter x Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39607,7 +40272,17 @@ Chris "Señor Plástico"</desc>
         <desc>Miroku y Sango ven un misterioso trozo de carne en las profundidades del Monte Hakurei. Sesshomaru y Kikyo perciben que algo extraño sucede desde diferentes lugares y se dirigen hacia el Monte Hakurei.</desc>
         <icon src="https://images.pluto.tv/series/64a83d8df56d820013a09168/tile_1769549401567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b26665d512590008c507b7" start="20260609100700 +0000" stop="20260609140000 +0000">
+    <programme channel="66b26665d512590008c507b7" start="20260609100700 +0000" stop="20260609103700 +0000">
+        <title>Inuyasha LT</title>
+        <desc>Naraku ha ganado un nuevo cuerpo y ha renacido. Inuyasha intenta derrotarlo con una Cicatriz de Viento pero él atrapa la fuerza del ataque y lo lanza contra Kagome, Miroku y los demás. Mientras tanto, Kikyo ve a Kagura escapando del Monte Hakurei.</desc>
+        <icon src="https://images.pluto.tv/series/64a83d8df56d820013a09168/tile_1769549401567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b26665d512590008c507b7" start="20260609103700 +0000" stop="20260609110700 +0000">
+        <title>Inuyasha LT</title>
+        <desc>Monte Hakurei es destruido. Koga cae al fondo de ella. Inuyasha lo salva. Cuando va a encontrarse con Kagome y los demás, que están tratando de escapar lo más rápido posible, ve una ilusión de Kikyo.</desc>
+        <icon src="https://images.pluto.tv/series/64a83d8df56d820013a09168/tile_1769549401567.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b26665d512590008c507b7" start="20260609110700 +0000" stop="20260609140000 +0000">
         <title>Inuyasha</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b26665d512590008c507b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39617,7 +40292,17 @@ Chris "Señor Plástico"</desc>
         <desc>Polnareff debe pelear con su pequeño Stand contra Alessi, un usuario de Stand mucho más joven. Cuando las cosas se ponen feas, Polnareff recurre a lo inimaginable.</desc>
         <icon src="https://images.pluto.tv/series/65bd42b9b65b870013b0bd02/tile_1769467681643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c790f780a0af0008583aa4" start="20260609102700 +0000" stop="20260609140000 +0000">
+    <programme channel="66c790f780a0af0008583aa4" start="20260609102700 +0000" stop="20260609105600 +0000">
+        <title>JoJo's Bizarre Adventure</title>
+        <desc>Jotaro y su equipo llegan finalmente a El Cairo. Allí conocen a un hombre que afirma saber dónde está la mansión de Dio, pero la información no les va a salir gratis.</desc>
+        <icon src="https://images.pluto.tv/series/65bd42b9b65b870013b0bd02/tile_1769467681643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c790f780a0af0008583aa4" start="20260609105600 +0000" stop="20260609112500 +0000">
+        <title>JoJo's Bizarre Adventure</title>
+        <desc>Jotaro hace gala de sus habilidades como Stand para poner sobre aviso a quien tenga intención de hacer trampas en la partida de póquer en la que va a participar.</desc>
+        <icon src="https://images.pluto.tv/series/65bd42b9b65b870013b0bd02/tile_1769467681643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c790f780a0af0008583aa4" start="20260609112500 +0000" stop="20260609140000 +0000">
         <title>JoJo’s Bizarre Adventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39627,7 +40312,17 @@ Chris "Señor Plástico"</desc>
         <desc>Helga construye un altar de Arnold y lo único que le falta para completarlo es su gorra / Todos le tienen miedo al chico que nunca deja su pórtico, hasta que Arnold descubre su secreto</desc>
         <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile_1769235480941.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c79221b1a34600087e264d" start="20260609102100 +0000" stop="20260609140000 +0000">
+    <programme channel="66c79221b1a34600087e264d" start="20260609102100 +0000" stop="20260609105000 +0000">
+        <title>Hey Arnold! LT</title>
+        <desc>Helga trata de esconder su desagrado al no ser invitada a la fiesta de cambios de look de Rhonda / Arnold le promete a la Abuela salvar el viejo teatro, el mismo teatro que Arnold ya le había prometido a Ernie que iba a ayudar a demoler</desc>
+        <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile_1769235480941.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c79221b1a34600087e264d" start="20260609105000 +0000" stop="20260609111900 +0000">
+        <title>Hey Arnold! LT</title>
+        <desc>Connie y María, dos chicas mayores de sexto grado, invitan a Arnold y a Gerald al baile de la escuela para poner celosos a sus novios / Arnold va a ver el último partido de Mickey Kaline, su jugador de béisbol favorito</desc>
+        <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile_1769235480941.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c79221b1a34600087e264d" start="20260609111900 +0000" stop="20260609140000 +0000">
         <title>Hey Arnold!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c79221b1a34600087e264d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39637,7 +40332,17 @@ Chris "Señor Plástico"</desc>
         <desc>Los niños investigan misteriosas desapariciones en una ciudad fantasmagórica. Katara conoce a una Maestra Agua que le enseña una técnica de agua control prohibida.</desc>
         <icon src="https://images.pluto.tv/series/65c4db93a40ff70013e98095/tile_1780403761438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6759ee82bd523200083b4f0f" start="20260609100400 +0000" stop="20260609140000 +0000">
+    <programme channel="6759ee82bd523200083b4f0f" start="20260609100400 +0000" stop="20260609103300 +0000">
+        <title>Avatar: The Last Airbender</title>
+        <desc>En la víspera del eclipse, la ansiedad de Aang saca lo peor de él. Sus sueños se convierten en pesadillas y pronto ya no puede distinguir el sueño de la realidad.</desc>
+        <icon src="https://images.pluto.tv/series/65c4db93a40ff70013e98095/tile_1780403761438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6759ee82bd523200083b4f0f" start="20260609103300 +0000" stop="20260609110200 +0000">
+        <title>Avatar: The Last Airbender</title>
+        <desc>Con la llegada de día del eclipse, los chicos, junto con una gran cantidad de viejos amigos, llevan a cabo la invasión de la Nación del Fuego que tenían planeada desde hacía mucho tiempo.</desc>
+        <icon src="https://images.pluto.tv/series/65c4db93a40ff70013e98095/tile_1780403761438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6759ee82bd523200083b4f0f" start="20260609110200 +0000" stop="20260609140000 +0000">
         <title>Avatar: La Leyenda de Aang</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39647,7 +40352,17 @@ Chris "Señor Plástico"</desc>
         <desc>Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico.</desc>
         <icon src="https://images.pluto.tv/series/682487021295f98347f21bd8/tile_1747224326890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6824cda00101510f9eeaa011" start="20260609103000 +0000" stop="20260609140000 +0000">
+    <programme channel="6824cda00101510f9eeaa011" start="20260609103000 +0000" stop="20260609110000 +0000">
+        <title>Nickelodeon Clásico</title>
+        <desc>Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico.</desc>
+        <icon src="https://images.pluto.tv/series/682487021295f98347f21bd8/tile_1747224326890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6824cda00101510f9eeaa011" start="20260609110000 +0000" stop="20260609113000 +0000">
+        <title>Nickelodeon Clásico</title>
+        <desc>Bienvenido a Nickelodeon Clásico donde podrás ver tus shows clásicos favoritos como ¡Aaah, Monstruos!, La Vida Moderna de Rocko, ¡Los Castores Cascarrabias y mucho más! Todo en  Nickelodeon Clásico.</desc>
+        <icon src="https://images.pluto.tv/series/682487021295f98347f21bd8/tile_1747224326890.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6824cda00101510f9eeaa011" start="20260609113000 +0000" stop="20260609140000 +0000">
         <title>Nickelodeon Clásico</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/featuredImage_1750110889416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -39657,7 +40372,22 @@ Chris "Señor Plástico"</desc>
         <desc>Nuestros héroes pasan por una aldea de montaña a tiempo para la migración anual de Chinchou. Los aldeanos siempre envían Entrenadores para proteger a los Chinchou en su viaje pero, ¿bastarán para detener al Equipo Rocket?</desc>
         <icon src="https://images.pluto.tv/series/6970cf3bacf7dd3dc422aa1f/tile_1769000764114.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6870072ca9d5c45c3e9466f1" start="20260609100600 +0000" stop="20260609140000 +0000">
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20260609100600 +0000" stop="20260609103100 +0000">
+        <title>Pokémon: Master Quest</title>
+        <desc>Cuando el hogar de la familia de un Entrenador es amenazado por los Corsola que viven cerca, Ash y sus amigos deben rescatarlos... ¡y quizás Misty al fin pueda atrapar al Corsola que ha estado buscando!</desc>
+        <icon src="https://images.pluto.tv/series/6970cf3bacf7dd3dc422aa1f/tile_1769000764114.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20260609103100 +0000" stop="20260609105600 +0000">
+        <title>Pokémon: Master Quest</title>
+        <desc>Después de que nuestros héroes pierden un ferry, conocen a un buzo quien les ofrece llevarlos a la siguiente isla... ¡pero pronto se distraen con los cuentos del tesoro abordo de un barco hundido!</desc>
+        <icon src="https://images.pluto.tv/series/6970cf3bacf7dd3dc422aa1f/tile_1769000764114.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20260609105600 +0000" stop="20260609112100 +0000">
+        <title>Pokémon: Master Quest</title>
+        <desc>Cuando no están compitiendo en la Copa Remolino, Ash y Misty tratan de ayudar a un joven Entrenador cuyo Octillery ha sido rechazado por sus amigos Remoraid tras su evolución.</desc>
+        <icon src="https://images.pluto.tv/series/6970cf3bacf7dd3dc422aa1f/tile_1769000764114.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6870072ca9d5c45c3e9466f1" start="20260609112100 +0000" stop="20260609140000 +0000">
         <title>Pokémon</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/featuredImage_1752173303959.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
